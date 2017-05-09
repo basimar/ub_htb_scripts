@@ -1,0 +1,94 @@
+----------------------------
+Inhalt dieses Verzeichnisses
+----------------------------
+
+gesamtes Verzeichnis von 'edv/bibliothekssysteme/bibtools' übernommen. Programme bei Bedarf anpassen (Pfade)
+
+------
+DATEN:
+------
+
+/opt/data/dsv05
+    dsv05.seq                      Arbeitskopie von dsv05.seq
+    download-ds05-sequential.sh    Lädt Arbeitskopie vom Aleph-Server
+
+----------
+PROGRAMME:
+----------
+
+/opt/bin/htb                       Perl und XSLT-Skripts zum Aufbau der Hierarchien
+
+/opt/bin/htb/tigra_tree_menu       Freeware Version des Menüs, läuft auf der Webseite
+
+/opt/bin/htb/tigra_tree_menu.pro   Kommerzielle Version, lizenziert für UB Basel
+
+------------
+HIERARCHIEN:
+------------
+
+alle unter /opt/scripts/htb
+
+make-han.sh                        Generiert alle HAN-Hierarchien (UB, SWA, Gosteli, Rorschach, ZHB, Trogen); wird jeweils Montags von bmt ausgeführt
+
+bernoulli
+    make-bernoulli.sh              Erstellt Hierarchie für den Bernoulli-Briefwechsel; wird auf Anfrage von bmt ausgeführt
+    tree-items.js                  Endprodukt des Hierarchie-Skripts, wird auf den UB Webserver geladen.
+
+han_gosteli_archiv
+    make-gosteli.sh                Erstellt Hierarchien für Gosteli Archiv (Personen, Körperschaften und biografische Notizen); wird von make-han.sh ausgeführt, aktualisiert auch HAN-Gesamtektonik
+
+han_kb_trogen
+    make-trogen.sh                 Erstellt Hierarchie für KB Appenzell Ausserrhoden; wird von make-han.sh ausgeführt, aktualisiert auch HAN-Gesamttektonik
+
+han_luzern
+    make-luzern.sh                 Erstellt alte Hierachien für ZHB Luzern; wird auf Anfrage von bmt ausgeführt, Dateien werden gezippt und nach Luzern verschickt
+
+han_luzern_tektonik
+    make-luzern.sh                 Erstellt neue Hierarchie für ZHB Luzern (auf Webserver der UB Basel); wird von make-han.sh ausgeführt, aktualisiert auch HAN-Gesamttektonik
+
+han_rebus_archiv
+    make-rebus.sh                  Erstellt Rebus-Hierarchie (Réseau des bibliothèques utilisant SIBIL); wird auf Anfrage von bmt ausgeführt
+
+han_rorschach_archiv               
+    make-rorschach                 Erstellt Hierarchie für Rorschach Archiv; wird von make-han.sh ausgeführt, aktualisiert auch HAN-Gesamttektonik
+
+han_tektonik
+    make-han.sh                    Erstellt Gesamttektonik für die HAN-Webseite, generiert keine neue Hierarchie sondern fügt die tree-items.js Dateien der einzelnen Hierarchien zusammen; wird automatisch ausgeführt, wenn eine der Einzelhierarchien neu erstellt wird.
+
+swa_firmen_und_verbaende
+    make-firmen-und-verbaende.sh   Erstellt Hierarchien für die SWA-Dossiers (aus dsv01), wird jeweils Freitags von mre ausgeführt
+
+swa_privatarchive
+    make-swapa.sh                  Erstellt Hierarchie für SWA-Privatarchive (aus dsv05); wird von make-han.sh ausgeführt, aktualisiert auch HAN-Gesamttektonik
+
+swa_sachdokumentationen
+    make-swa-sachdok.sh            Erstellt Hierarchien für die SWA-Sachdoku (aus dsv01), wird bei Bedarf (halbjaehrlich, auf Wunsch SWA) von mre ausgeführt
+
+ub_baslerbiliographie
+    make-bsbibliographie.sh        Erstellt systematische Gliederung der Basler Bibliografie, wird auf Anfrage von ava ausgeführt
+
+ub_bibliographie
+    make-ubbibliographie.sh        Erstellt systematische Gliederung der UB Bibliografie, wird auf Anfrage von ava ausgeführt
+
+ub_bla
+    makepla.pl                     Erstellt Webkatalog BLA (?), noch im Betrieb?
+
+ub_fotojburckhardt
+    make-fotojburckjardt.sh        ???, erstellt von abi
+
+ub_lesesaalsignaturen
+    make-ub-lesesaalsignaturen.sh  Erstellt systematische Gliederung der Lesesaalsignaturen, wird auf Anfrage von abi (?) ausgeführt
+
+ub_nachlass
+                                   Erstellt Hierarchie der UB-Nachlässe (Skript lag früher auf Aleph Testserver, wurde gezügelt (10.10.2016) 
+
+ub_tektonik
+    make-tektonik.sh               Erstellt Gesamttektonik der UB (Handschriften & Nachlässe); wird von make-han.sh ausgeführt, aktualisiert auch HAN-Gesamttektonik
+
+ub_zeitungen
+    make-zeitungskatalog.sh        Erstellt systematische Gliederung von Zeitungen (?)
+
+26.07.2010/ava
+08.04.2013/osc
+30.04.2015/bmt
+25.07.2016/bmt
