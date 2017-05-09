@@ -1,0 +1,36 @@
+==============================================
+Beschreibung der Dateien in diesem Verzeichnis
+==============================================
+
+swa-sachdokumentation-deskriptoren.txt
+    Baum der Deskriptoren Sachdokumentation
+    Format: Textdatei (Unix)
+    Zeichensatz: UTF-8
+        
+swa-sachdokumentation-deskriptoren.xml
+    Baum der Deskriptoren Sachdokumentation
+    Format: XML 1.0
+    Zeichensatz: UTF-8
+    
+swa-e-zas-sachthemen-flach-unicode.txt
+    Deskriptoren Sachdokumentation mit Geographika
+    Format: Textdatei (Unix)
+    Zeichensatz: UTF-8
+
+swa-e-zas-sachthemen-flach-windows.txt
+    Deskriptoren Sachdokumentation mit Geographika
+    Format: Textdatei (DOS)
+    Zeichensatz: Windows 1252
+
+swa-e-zas-sachthemen-hierarchie-unicode
+    Deskriptoren Sachdokumentation mit Geographika, 5-stufige Ketten
+    Format: Textdatei (Unix)
+    Zeichensatz: UTF-8
+
+
+==============================================
+alle Daten werden generiert von  ../make-swa-sachdok.sh
+(parallel zum Aufbereiten der Daten für den Webauftritt)
+==============================================
+
+25.01.2013/andres.vonarx@unibas.ch

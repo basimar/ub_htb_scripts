@@ -1,0 +1,661 @@
+Abfallwirtschaft und Recycling > sid25°°°675
+ Allgemein > tid94°°°676
+  Abfallwirtschaft > did520°°°677
+  Gewässerschutz > did124°°°678
+  Recycling > did521°°°679
+Bauwirtschaft > sid26°°°680
+ Allgemein > tid95°°°681
+  Architektur > did208°°°682
+  Bauberufe > did915°°°683
+  Baukosten > did205°°°684
+  Baurecht > did206°°°685
+  Bautechnik > did204°°°686
+  Bauwirtschaft > did202°°°687
+ Ausbaugewerbe > tid96°°°688
+  Ausbaugewerbe > did213°°°689
+  Bauinstallation > did214°°°690
+ Bausparten > tid97°°°691
+  Hochbau > did210°°°692
+  Holzhandwerk > did218°°°693
+  Tiefbau > did211°°°694
+  Wasserbau > did212°°°695
+Bildungswesen > sid27°°°696
+ Allgemein > tid98°°°697
+  Bildung > did428°°°698
+  Bildungspolitik > did433°°°699
+  Bildungswesen > did431°°°700
+  Erwachsenenbildung > did437°°°701
+  Fernunterricht > did436°°°702
+  Frauenbildung > did1014°°°703
+  Kinderbetreuung > did475°°°704
+  Lehrkräfte > did944°°°705
+ Berufsbildung > tid99°°°706
+  Berufsausbildung > did900°°°707
+  Berufsbildende Schule > did440°°°708
+  Führungskräfteausbildung > did1117°°°709
+  Kaufmännisches Bildungswesen > did442°°°710
+  Lehrstellenmarkt > did840°°°711
+  Weiterbildung > did451°°°712
+ Hochschulen > tid100°°°713
+  Akademische Berufe > did989°°°714
+  Fachhochschule > did447°°°715
+  Hochschule > did444°°°716
+  Studienfinanzierung > did449°°°717
+  Studierende > did448°°°718
+  Wirtschaftsstudium > did535°°°719
+ Schulen > tid101°°°720
+  Berufsbildende Schule > did441°°°721
+  Kaufmännisches Bildungswesen > did443°°°722
+  Privatschule > did439°°°723
+Börsen und Wertpapierhandel > sid28°°°724
+ Allgemein > tid102°°°725
+  Kapitalmarktrecht > did612°°°726
+  Kapitalverkehrsteuer > did763°°°727
+  Wertpapieremission > did1281°°°728
+  Wertpapierhandel > did619°°°729
+Datenverarbeitungswirtschaft > sid29°°°730
+ Allgemein > tid103°°°731
+  Datenverarbeitungswirtschaft > did346°°°732
+  EDV-Berufe > did967°°°733
+Dienstleistungen > sid30°°°734
+ Allgemein > tid104°°°735
+  Automatenwirtschaft > did225°°°736
+  Bestattungsgewerbe > did232°°°737
+  Dienstleistungsberufe > did934°°°738
+  Dienstleistungssektor > did223°°°739
+  Einkaufszentrum > did243°°°740
+  Friseurhandwerk > did228°°°741
+  Sexgewerbe > did230°°°742
+  Textilreinigung > did227°°°743
+Energie- und Wasserwirtschaft > sid31°°°744
+ Elektrizitätswirtschaft > tid105°°°745
+  Alternativenergie > did108°°°746
+  Elektrizitätswirtschaft > did107°°°747
+  Kernenergie > did114°°°748
+  Wasserkraft > did111°°°749
+ Energiepolitik > tid106°°°750
+  Energiepolitik > did119°°°751
+ Energiewirtschaft > tid107°°°752
+  Energiewirtschaft > did102°°°753
+  Gaswirtschaft > did105°°°754
+  Klimatechnik > did106°°°755
+ Kernenergiewirtschaft > tid108°°°756
+  Kernenergie > did115°°°757
+  Nukleare Entsorgung > did117°°°758
+ Regenerative Energiewirtschaft > tid109°°°759
+  Alternativenergie > did109°°°760
+  Wasserkraft > did112°°°761
+ Wasserwirtschaft > tid110°°°762
+  Gewässerschutz > did125°°°763
+  Wasserversorgung > did122°°°764
+Finanz- und Kreditwesen > sid32°°°765
+ Allgemein > tid111°°°766
+  Bank > did265°°°767
+  Bankberufe > did963°°°768
+  Bankgeheimnis > did268°°°769
+  Bankgeschichte und Versicherungsgeschichte > did1047°°°770
+  Bankrecht > did269°°°771
+  Finanzinnovation > did603°°°772
+  Finanzmarkt > did605°°°773
+  Finanzsektor > did271°°°774
+  Institutioneller Anleger > did609°°°775
+  Kapitalmarktrecht > did613°°°776
+ Bankbetriebslehre > tid112°°°777
+  Bankautomation > did293°°°778
+  Bankmanagement > did294°°°779
+  Bankmarketing > did295°°°780
+  Electronic Banking > did296°°°781
+ Bankensystem > tid113°°°782
+  Grossbank > did280°°°783
+  Internationale Bank > did283°°°784
+  Investment Banking > did300°°°785
+  Investmentfonds > did292°°°786
+  Kantonalbank > did286°°°787
+  Kreditgenossenschaft > did284°°°788
+  Postbankdienst > did50°°°789
+  Privatbank > did289°°°790
+  Regionalbank > did290°°°791
+ Bankgeschäft > tid114°°°792
+  Firmenkundengeschäft > did298°°°793
+  Institutionelles Asset Management > did303°°°794
+  Investment Banking > did301°°°795
+  Kreditmarkt und Kreditgeschäft > did597°°°796
+  Kreditwürdigkeit > did1272°°°797
+  Private Banking > did306°°°798
+  Retail Banking > did308°°°799
+  Wertpapieremission > did1280°°°800
+ Zentralbank > tid115°°°801
+  Geldpolitik und Währung > did273°°°802
+  Zentralbank > did278°°°803
+Fischerei > sid33°°°804
+ Allgemein > tid116°°°805
+  Fischwirtschaft > did100°°°806
+Forschung und Entwicklung > sid34°°°807
+ Allgemein > tid117°°°808
+  Forschung > did572°°°809
+  Forschungs- und Technologiepolitik > did579°°°810
+  Innovation > did575°°°811
+  Technologietransfer > did585°°°812
+ Forschungsbereiche > tid118°°°813
+  Konjunkturforschung > did563°°°814
+  Zukunftsforschung > did1179°°°815
+Forstwirtschaft > sid35°°°816
+ Allgemein > tid119°°°817
+  Forstberufe > did908°°°818
+  Forstwirtschaft > did97°°°819
+  Jagd > did98°°°820
+  Waldschaden > did815°°°821
+Freizeitwirtschaft > sid36°°°822
+ Allgemein > tid120°°°823
+  Fitnesszentrum > did499°°°824
+  Freizeitverhalten > did500°°°825
+  Freizeitwirtschaft > did497°°°826
+  Glücksspiel > did498°°°827
+Gastgewerbe > sid37°°°828
+ Allgemein > tid121°°°829
+  Camping und Jugendherberge > did256°°°830
+  Gastgewerbe > did252°°°831
+  Gastgewerbeberufe > did938°°°832
+  Gastronomie > did255°°°833
+  Hotelgewerbe > did253°°°834
+  Tagungswirtschaft > did369°°°835
+Gesundheits- und Veterinärwesen > sid38°°°836
+ Allgemein > tid122°°°837
+  Ärzte > did461°°°838
+  Behinderte > did1228°°°839
+  Gesundheit und Krankheit > did1016°°°840
+  Gesundheitsberufe > did978°°°841
+  Gesundheitspolitik > did454°°°842
+  Gesundheitsvorsorge > did466°°°843
+  Gesundheitswesen > did452°°°844
+  Krankenhaus > did459°°°845
+  Krankenversicherung > did490°°°846
+  Telemedizin > did469°°°847
+  Veterinärwesen > did464°°°848
+  Zahnärzte > did463°°°849
+ Betriebliche Gesundheitspolitik > tid123°°°850
+  Arbeitsschutz > did885°°°851
+  Berufskrankheit > did471°°°852
+  Erwerbsunfähigkeit > did485°°°853
+Handel > sid39°°°854
+ Allgemein > tid124°°°855
+  Biomarkt und Fairer Handel > did235°°°856
+  Grossveranstaltung > did372°°°857
+  Handel > did233°°°858
+  Handelsberufe > did970°°°859
+  Handelsgeschichte > did1032°°°860
+ Aussenhandelswirtschaft > tid125°°°861
+  Aussenhandel > did681°°°862
+  Aussenhandelspolitik > did653°°°863
+  Exportgarantie > did655°°°864
+  Wirtschaftsbeziehungen CH > did80°°°865
+ Einzelhandel > tid126°°°866
+  Ambulanter Handel > did241°°°867
+  Auktion > did249°°°868
+  Convenience Shop > did251°°°869
+  Discounter > did242°°°870
+  Einkaufszentrum > did244°°°871
+  Einzelhandel > did240°°°872
+  Fabrikverkauf > did245°°°873
+  Grossverteiler > did236°°°874
+  Versandhandel > did247°°°875
+  Warenhaus > did248°°°876
+ Grosshandel > tid127°°°877
+  Grosshandel > did239°°°878
+ Kraftfahrzeughandel > tid128°°°879
+  Autogewerbe > did157°°°880
+  Mineralöl > did176°°°881
+ Lebensmittel- und Landhandel > tid129°°°882
+  Grossverteiler > did237°°°883
+  Lebensmittelüberwachung > did387°°°884
+ Rohstoff- und Altmaterialhandel > tid130°°°885
+  Gebrauchtmarkt > did238°°°886
+  Goldmarkt > did617°°°887
+  Mineralöl > did175°°°888
+  Pharmahandel > did177°°°889
+Handwerk > sid40°°°890
+ Allgemein > tid131°°°891
+  Handwerk > did216°°°892
+  Handwerksberufe > did910°°°893
+  Handwerksgeschichte > did1022°°°894
+ Handwerkszweige > tid132°°°895
+  Autogewerbe > did158°°°896
+  Bauinstallation > did215°°°897
+  Friseurhandwerk > did229°°°898
+  Holzhandwerk > did219°°°899
+  Kunst > did506°°°900
+  Optikerhandwerk > did221°°°901
+Immobilienwirtschaft > sid41°°°902
+ Allgemein > tid133°°°903
+  Gebäudemanagement > did1269°°°904
+  Grundbesitz > did330°°°905
+  Grundsteuer > did753°°°906
+  Immobilienmarkt > did329°°°907
+  Immobilienwirtschaft > did328°°°908
+ Vermietung und Verpachtung von Immobilien > tid134°°°909
+  Miete > did339°°°910
+  Mietrecht > did341°°°911
+ Wohnungswirtschaft > tid135°°°912
+  Soziologie des Wohnens > did337°°°913
+  Wohnungsbaupolitik > did336°°°914
+  Wohnungsmarkt > did332°°°915
+  Zweitwohnung > did334°°°916
+Industrie > sid42°°°917
+ Allgemein > tid136°°°918
+  Hochtechnologiesektor > did1242°°°919
+  Industrie > did132°°°920
+  Industriegeschichte > did1045°°°921
+ Chemieindustrie > tid137°°°922
+  Agrochemikalie > did170°°°923
+  Arzneimittelkontrolle > did391°°°924
+  Biotechnisches Produkt > did173°°°925
+  Biotechnologie und Gentechnik > did1246°°°926
+  Chemieberufe > did917°°°927
+  Chemieindustrie > did169°°°928
+  Mineralöl > did174°°°929
+  Mineralölsteuer > did760°°°930
+  Pharmahandel > did178°°°931
+  Pharmazeutische Industrie > did172°°°932
+  Waschmittel und Körperpflegemittel > did171°°°933
+ Elektroindustrie > tid138°°°934
+  Büroausstattung > did138°°°935
+  Computerindustrie > did166°°°936
+  EDV-Berufe > did968°°°937
+  Elektroberufe > did919°°°938
+  Elektrohaushaltsgerät > did164°°°939
+  Elektroindustrie > did160°°°940
+  Medizintechnisches Gerät > did135°°°941
+  Messgerät > did163°°°942
+  Nachrichtentechnisches Gerät > did161°°°943
+  Unterhaltungselektronik > did165°°°944
+ Fahrzeugbau > tid139°°°945
+  Autogewerbe > did159°°°946
+  Kraftfahrzeugtechnische Berufe > did923°°°947
+  Luftfahrzeug > did155°°°948
+  Schienenfahrzeug > did153°°°949
+  Strassenfahrzeug > did156°°°950
+  Wasserfahrzeug > did154°°°951
+ Feinmechanische und Optische Industrie > tid140°°°952
+  Medizintechnisches Gerät > did136°°°953
+  Optikerhandwerk > did222°°°954
+  Optisches Produkt > did168°°°955
+  Uhrenindustrie > did167°°°956
+  Uhrmacher und Juweliere > did931°°°957
+ Holzwirtschaft > tid141°°°958
+  Holzhandwerk > did220°°°959
+  Holzprodukt > did179°°°960
+ Kunststoff- und Gummiindustrie > tid142°°°961
+  Gummiwaren > did184°°°962
+  Kunststoff > did185°°°963
+ Leder- und Schuhindustrie > tid143°°°964
+  Leder und Schuhe > did186°°°965
+ Maschinen- und Anlagebau > tid144°°°966
+  Anlagenbau > did148°°°967
+  Fördermittel > did150°°°968
+  Maschine und Motor > did152°°°969
+  Maschinenindustrie > did149°°°970
+  Roboter > did151°°°971
+ Metallindustrie > tid145°°°972
+  EBM-Waren > did144°°°973
+  Edelmetall > did147°°°974
+  Metallberufe > did925°°°975
+  Metallindustrie > did143°°°976
+  NE-Metall > did146°°°977
+  Stahl > did145°°°978
+ Nahrungs- und Genussmittelgewerbe > tid146°°°979
+  Alkohol > did1231°°°980
+  Backwaren > did191°°°981
+  Bier > did196°°°982
+  Ernährungsberufe > did921°°°983
+  Fischwirtschaft > did101°°°984
+  Fleischwaren > did192°°°985
+  Futtermittel > did193°°°986
+  Getränk > did195°°°987
+  Lebensmittelüberwachung > did388°°°988
+  Milchprodukt > did190°°°989
+  Nahrungsmittelgewerbe > did189°°°990
+  Süsswaren > did198°°°991
+  Tabakwaren > did197°°°992
+  Wein > did88°°°993
+  Würzmittel und Speiseöl > did194°°°994
+ Papier- und Verlagsgewerbe > tid147°°°995
+  Buch > did183°°°996
+  Druckindustrie > did180°°°997
+  Graphische Berufe > did929°°°998
+  Papierprodukt > did181°°°999
+  Pressefreiheit > did513°°°1000
+  Urheberrecht > did1204°°°1001
+  Verlagsgewerbe > did182°°°1002
+ Rüstungsindustrie > tid148°°°1003
+  Rüstungsindustrie > did201°°°1004
+ Textil- und Bekleidungsindustrie > tid149°°°1005
+  Bekleidung > did188°°°1006
+  Textilberufe > did927°°°1007
+  Textilindustrie > did187°°°1008
+ Übrige Industriezweige > tid150°°°1009
+  Automatenwirtschaft > did226°°°1010
+  Baustoff > did141°°°1011
+  Büroausstattung > did139°°°1012
+  Freizeitartikel > did134°°°1013
+  Medizintechnisches Gerät > did137°°°1014
+  Möbel > did142°°°1015
+  Musikwirtschaft > did508°°°1016
+  Schmuck > did140°°°1017
+  Uhrmacher und Juweliere > did932°°°1018
+ Verpackungswirtschaft > tid151°°°1019
+  Verpackung > did199°°°1020
+Informationswirtschaft > sid43°°°1021
+ Allgemein > tid152°°°1022
+  Informationsberufe > did940°°°1023
+  Informationsgesellschaft > did1216°°°1024
+  Informationswirtschaft > did517°°°1025
+  Wirtschaftsarchiv > did516°°°1026
+Kultursektor > sid44°°°1027
+ Allgemein > tid153°°°1028
+  Architektur > did209°°°1029
+  Filmwirtschaft > did505°°°1030
+  Künstlerische Berufe > did942°°°1031
+  Kulturpolitik > did503°°°1032
+  Kultursektor > did502°°°1033
+  Kunst > did507°°°1034
+  Museum > did511°°°1035
+  Musikwirtschaft > did509°°°1036
+  Sponsoring > did1138°°°1037
+  Theater > did510°°°1038
+Landwirtschaft > sid45°°°1039
+ Agrarpolitik > tid154°°°1040
+  Agrarpolitik > did96°°°1041
+ Allgemein > tid155°°°1042
+  Agrargeschichte > did1039°°°1043
+  Ernährung > did695°°°1044
+  Ernteschaden > did85°°°1045
+  Landwirtschaft > did83°°°1046
+  Landwirtschaftliche Versicherung > did317°°°1047
+  Landwirtschaftsberufe > did912°°°1048
+ Landwirtschaftliche Betriebssysteme > tid156°°°1049
+  Bergbauernwirtschaft > did93°°°1050
+  Landwirtschaftsbetrieb > did92°°°1051
+  Ökologischer Landbau > did94°°°1052
+ Pflanzenbau > tid157°°°1053
+  Pflanzenbauprodukt > did86°°°1054
+  Wein > did87°°°1055
+ Tierhaltung > tid158°°°1056
+  Jagd > did99°°°1057
+  Milch > did1271°°°1058
+  Tierhaltung > did91°°°1059
+  Tierkrankheit > did1240°°°1060
+Leasing > sid46°°°1061
+ Allgemein > tid159°°°1062
+  Autovermietung > did344°°°1063
+  Leasing > did343°°°1064
+  Leiharbeit > did833°°°1065
+Medienwirtschaft > sid47°°°1066
+ Allgemein > tid160°°°1067
+  Medienwirtschaft > did512°°°1068
+  Pressefreiheit > did514°°°1069
+  Publizistische Berufe > did946°°°1070
+ Rundfunk- und Fernsehanstalten > tid161°°°1071
+  Fernsehen > did62°°°1072
+  Rundfunk > did60°°°1073
+Nonprofit-Sektor > sid48°°°1074
+ Allgemein > tid162°°°1075
+  Nonprofit-Organisation > did406°°°1076
+  Spende > did409°°°1077
+ Gemeinwirtschaft > tid163°°°1078
+  Genossenschaft > did410°°°1079
+  Kreditgenossenschaft > did285°°°1080
+  Öffentliches Unternehmen > did402°°°1081
+ Gewerkschaften > tid164°°°1082
+  Arbeitsbeziehungen > did871°°°1083
+  Gewerkschaft > did425°°°1084
+ Interessenvertretungen > tid165°°°1085
+  Ehrenamtliche Arbeit > did829°°°1086
+  Entwicklungshilfe > did699°°°1087
+  Interessenpolitik > did639°°°1088
+  Interessenvertretung > did412°°°1089
+  Nichtregierungsorganisation > did414°°°1090
+  Wohlfahrtsorganisation > did416°°°1091
+ Religionsgemeinschaften > tid166°°°1092
+  Geistliche > did987°°°1093
+  Kirche > did427°°°1094
+ Wirtschafts- und Berufsverbände > tid167°°°1095
+  Berufsverband > did419°°°1096
+  Wirtschaftsverband > did421°°°1097
+Öffentlicher Sektor > sid49°°°1098
+ Allgemein > tid168°°°1099
+  Öffentlicher Dienst > did376°°°1100
+  Öffentlicher Sektor > did702°°°1101
+ Militär > tid169°°°1102
+  Berufssoldaten > did959°°°1103
+  Militär > did395°°°1104
+  Rüstungspolitik > did397°°°1105
+ Öffentliche Sicherheit und Justizverwaltung > tid170°°°1106
+  Arbeitsschutz > did891°°°1107
+  Justiz > did399°°°1108
+  Katastrophenhilfe > did401°°°1109
+ Öffentliche Verwaltung > tid171°°°1110
+  Arbeitslosenversicherung > did849°°°1111
+  Arbeitsverwaltung > did386°°°1112
+  Auslandsvertretung > did1191°°°1113
+  Büroberufe > did965°°°1114
+  Gemeinde > did383°°°1115
+  Kantone > did384°°°1116
+  Öffentliche Finanzwirtschaft > did705°°°1117
+  Öffentliche Verwaltung > did378°°°1118
+  Städte > did1275°°°1119
+  Verwaltungsreform > did381°°°1120
+ Öffentliche Wirtschaft > tid172°°°1121
+  Kantonalbank > did288°°°1122
+  Öffentliche Beschaffung > did710°°°1123
+  Öffentlicher Verkehr > did23°°°1124
+  Öffentliches Unternehmen > did405°°°1125
+ Wirtschaftsaufsicht und Wirtschaftsförderung > tid173°°°1126
+  Arbeitsschutz > did890°°°1127
+  Arzneimittelkontrolle > did393°°°1128
+  Finanzmarktaufsicht > did608°°°1129
+  Lebensmittelüberwachung > did390°°°1130
+  Preisaufsicht > did784°°°1131
+  Wettbewerbspolitik > did782°°°1132
+Post und Telekommunikation > sid50°°°1133
+ Allgemein > tid174°°°1134
+  Postbankdienst > did51°°°1135
+  Postdienst > did49°°°1136
+ Rundfunk und Fernsehen > tid175°°°1137
+  Fernsehen > did63°°°1138
+  Rundfunk > did61°°°1139
+ Telekommunikation > tid176°°°1140
+  E-Business > did533°°°1141
+  Electronic Banking > did297°°°1142
+  Elektronische Post > did1266°°°1143
+  Internet > did58°°°1144
+  Mobilkommunikation > did54°°°1145
+  Nachrichtentechnisches Gerät > did162°°°1146
+  Online-Werbung > did366°°°1147
+  Telefon > did59°°°1148
+  Telekommunikation > did52°°°1149
+  Telekommunikationsgesellschaft > did264°°°1150
+  Telekommunikationsinfrastruktur > did55°°°1151
+Private Haushalte > sid51°°°1152
+ Allgemein > tid177°°°1153
+  Alleinlebende > did1163°°°1154
+  Familie > did1148°°°1155
+  Familienpolitik > did1007°°°1156
+  Familienunternehmen > did1095°°°1157
+  Hausarbeit > did531°°°1158
+  Hauspersonal > did961°°°1159
+  Kinderbetreuung > did476°°°1160
+  Konsumentenpreisindex > did1061°°°1161
+  Konsumentenverhalten > did551°°°1162
+  Privater Haushalt > did528°°°1163
+  Verbraucherkredit > did548°°°1164
+  Verbraucherschutz > did1143°°°1165
+Rohstoffwirtschaft und Bergbau > sid52°°°1166
+ Allgemein > tid178°°°1167
+  Bergbau > did130°°°1168
+  Glas und Keramik > did131°°°1169
+  Rohstoff > did128°°°1170
+Sozialwesen > sid53°°°1171
+ Allgemein > tid179°°°1172
+  Sozialgeschichte > did1056°°°1173
+ Soziale Dienste > tid180°°°1174
+  Altenhilfe > did474°°°1175
+  Kinderbetreuung > did477°°°1176
+  Pflegeberufe > did980°°°1177
+  Sozialberufe > did982°°°1178
+  Wohlfahrtsorganisation > did418°°°1179
+ Sozialpolitik > tid181°°°1180
+  Arbeitsschutz > did889°°°1181
+  Betriebliche Sozialleistungen > did996°°°1182
+  Familienleistungsausgleich > did1012°°°1183
+  Familienpolitik > did1009°°°1184
+  Gesundheitspolitik > did458°°°1185
+  Jugendpolitik > did1005°°°1186
+  Soziale Sicherung > did993°°°1187
+  Sozialhilfe > did1001°°°1188
+  Sozialpolitik > did999°°°1189
+ Sozialversicherung > tid182°°°1190
+  AHV > did478°°°1191
+  Alterssicherung > did481°°°1192
+  Arbeitslosenversicherung > did848°°°1193
+  Betriebliche Altersversorgung > did484°°°1194
+  Erwerbsunfähigkeit > did489°°°1195
+  Krankenversicherung > did493°°°1196
+  Mutterschutz > did1212°°°1197
+  Sozialversicherung > did496°°°1198
+  Unfallversicherung > did324°°°1199
+Sport > sid54°°°1200
+ Allgemein > tid183°°°1201
+  Sponsoring > did1140°°°1202
+  Sportler > did950°°°1203
+  Sportökonomik > did519°°°1204
+Umweltschutzsektor > sid55°°°1205
+ Allgemein > tid184°°°1206
+  Naturschutz > did802°°°1207
+  Umweltberufe > did952°°°1208
+  Umweltmanagement > did525°°°1209
+  Umweltpolitik > did805°°°1210
+  Umweltschutzsektor > did524°°°1211
+Unternehmensdienstleistungen > sid56°°°1212
+ Allgemein > tid185°°°1213
+  Auktion > did250°°°1214
+  Chemisches Labor > did348°°°1215
+  Gebäudereinigung > did349°°°1216
+  Kapitalbeteiligungsgesellschaft > did351°°°1217
+  Leiharbeit > did835°°°1218
+  Marktforschung > did354°°°1219
+  Meinungsforschung > did357°°°1220
+  Sicherheitsgewerbe > did347°°°1221
+  Übersetzung > did358°°°1222
+ Beratungsdienstleistungen > tid186°°°1223
+  Personalberatung > did363°°°1224
+  Private Banking > did307°°°1225
+  Rechtsberatung > did1254°°°1226
+  Treuhänder > did359°°°1227
+  Unternehmensberatung > did362°°°1228
+  Wirtschaftsprüfung > did361°°°1229
+ Messewirtschaft > tid187°°°1230
+  Grossveranstaltung > did373°°°1231
+  Messewirtschaft > did368°°°1232
+  Tagungswirtschaft > did370°°°1233
+ Werbewirtschaft > tid188°°°1234
+  Online-Werbung > did367°°°1235
+  Verkaufsförderung > did1134°°°1236
+  Werbeberufe > did956°°°1237
+  Werbewirtschaft > did364°°°1238
+  Werbung > did1137°°°1239
+Verkehr und Tourismus > sid57°°°1240
+ Allgemein > tid189°°°1241
+  Fahrplan > did1°°°1242
+  Grenzüberschreitender Verkehr > did1258°°°1243
+  Seilbahnverkehr > did2°°°1244
+  Verkehr > did71°°°1245
+  Verkehrsberufe > did954°°°1246
+  Verkehrsgeschichte > did5°°°1247
+  Verkehrsinfrastruktur > did1256°°°1248
+  Verkehrssicherheit > did37°°°1249
+ Güterverkehr > tid190°°°1250
+  Eisenbahngüterverkehr > did7°°°1251
+  Güterverkehr > did8°°°1252
+  Güterverkehrsgewerbe > did9°°°1253
+  Strassengüterverkehr > did11°°°1254
+  Transportversicherung > did12°°°1255
+ Luftverkehr > tid191°°°1256
+  Flughafen > did14°°°1257
+  Luftfahrtversicherung > did320°°°1258
+  Luftverkehr > did15°°°1259
+  Luftverkehrspolitik > did38°°°1260
+  Raumfahrt > did26°°°1261
+ Personenverkehr > tid192°°°1262
+  Fahrradverkehr > did17°°°1263
+  Fussgängerverkehr > did19°°°1264
+  Öffentlicher Verkehr > did21°°°1265
+  Pendelverkehr > did1259°°°1266
+  Taxigewerbe > did25°°°1267
+ Schienenverkehr > tid193°°°1268
+  Bahnhof > did27°°°1269
+  Eisenbahngüterverkehr > did6°°°1270
+  Eisenbahnpolitik > did28°°°1271
+  Eisenbahntechnik > did30°°°1272
+  Eisenbahnverkehr > did31°°°1273
+ Schifffahrt > tid194°°°1274
+  Rheinhafen > did67°°°1275
+  Rheinschifffahrt > did1265°°°1276
+  Schifffahrt > did32°°°1277
+ Strassenbau > tid195°°°1278
+  Strassenbau > did35°°°1279
+ Strassenverkehr > tid196°°°1280
+  Alpenstrasse > did34°°°1281
+  Autovermietung > did345°°°1282
+  Fahrradverkehr > did16°°°1283
+  Fussgängerverkehr > did18°°°1284
+  Kraftfahrtversicherung > did315°°°1285
+  Kraftfahrzeugsteuer > did757°°°1286
+  Ruhender Verkehr > did33°°°1287
+  Strassenbenutzungsgebühr > did715°°°1288
+  Strassengüterverkehr > did10°°°1289
+  Strassenverkehr > did43°°°1290
+  Taxigewerbe > did24°°°1291
+ Tourismus > tid197°°°1292
+  Camping und Jugendherberge > did257°°°1293
+  Fremdenverkehrsberufe > did936°°°1294
+  Heilbad > did260°°°1295
+  Hotelgewerbe > did254°°°1296
+  Reisevermittler > did259°°°1297
+  Tagungswirtschaft > did371°°°1298
+  Tourismus > did258°°°1299
+  Tourismusmarketing > did261°°°1300
+  Urlaubsverhalten > did263°°°1301
+  Zweitwohnung > did335°°°1302
+ Verkehrsgeographie und Verkehrspolitik > tid198°°°1303
+  Eisenbahnpolitik > did29°°°1304
+  Mobilität (Verkehr) > did1262°°°1305
+  Öffentlicher Verkehr > did22°°°1306
+  Pendelverkehr > did1260°°°1307
+  Regionale Verkehrspolitik > did48°°°1308
+  Strassenbau > did36°°°1309
+  Strassenverkehr > did44°°°1310
+  Verdichtungsverkehr > did46°°°1311
+  Verkehrspolitik > did42°°°1312
+ Verkehrspolitik > tid199°°°1313
+  Kraftfahrzeugsteuer > did758°°°1314
+  Luftverkehrspolitik > did39°°°1315
+  Strassenbenutzungsgebühr > did716°°°1316
+Versicherungswesen > sid58°°°1317
+ Allgemein > tid200°°°1318
+  Bankgeschichte und Versicherungsgeschichte > did1049°°°1319
+  Rückversicherung > did309°°°1320
+  Versicherung > did310°°°1321
+  Versicherungsberufe > did972°°°1322
+  Versicherungsbetrieb > did311°°°1323
+  Versicherungsrecht > did313°°°1324
+ Versicherungszweige > tid201°°°1325
+  Haftpflichtversicherung > did314°°°1326
+  Kraftfahrtversicherung > did316°°°1327
+  Krankenversicherung > did494°°°1328
+  Landwirtschaftliche Versicherung > did318°°°1329
+  Lebensversicherung > did319°°°1330
+  Luftfahrtversicherung > did321°°°1331
+  Sachversicherung > did322°°°1332
+  Transportversicherung > did13°°°1333
+  Unfallversicherung > did325°°°1334
+  Unternehmensversicherung > did327°°°1335

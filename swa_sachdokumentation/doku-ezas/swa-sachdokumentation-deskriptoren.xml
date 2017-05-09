@@ -1,0 +1,1987 @@
+<?xml version="1.0" encoding="utf-8"?>
+<swa-sachdokumentation-thesaurus stand="27.02.2012 / andres.vonarx@unibas.ch">
+
+  <deskriptor stufe="1" name="Volkswirtschaft">
+    <deskriptor stufe="2" name="Arbeit">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Ältere Arbeitskräfte" />
+        <deskriptor stufe="4" name="Arbeitsproduktivität" />
+        <deskriptor stufe="4" name="Arbeitsrecht" />
+        <deskriptor stufe="4" name="Arbeitsvertrag" />
+        <deskriptor stufe="4" name="Arbeitswelt" />
+        <deskriptor stufe="4" name="Ausländische Arbeitskräfte" />
+        <deskriptor stufe="4" name="Ehrenamtliche Arbeit" />
+        <deskriptor stufe="4" name="Grenzgänger" />
+        <deskriptor stufe="4" name="Hausarbeit" />
+        <deskriptor stufe="4" name="Heimarbeit" />
+        <deskriptor stufe="4" name="Leiharbeit" />
+        <deskriptor stufe="4" name="Schwarzarbeit" />
+        <deskriptor stufe="4" name="Zwangsarbeit" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Arbeitsbeziehungen">
+        <deskriptor stufe="4" name="Arbeitsbedingungen" />
+        <deskriptor stufe="4" name="Arbeitsbeziehungen" />
+        <deskriptor stufe="4" name="Arbeitskonflikt" />
+        <deskriptor stufe="4" name="Arbeitsrecht" />
+        <deskriptor stufe="4" name="Arbeitsschutz" />
+        <deskriptor stufe="4" name="Arbeitsvertrag" />
+        <deskriptor stufe="4" name="Frauenpolitik" />
+        <deskriptor stufe="4" name="Gewerkschaft" />
+        <deskriptor stufe="4" name="Mitbestimmung" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Arbeitsmarkt">
+        <deskriptor stufe="4" name="Arbeitslosenversicherung" />
+        <deskriptor stufe="4" name="Arbeitslosigkeit" />
+        <deskriptor stufe="4" name="Arbeitsmarkt" />
+        <deskriptor stufe="4" name="Arbeitsmobilität" />
+        <deskriptor stufe="4" name="Beschäftigungspolitik" />
+        <deskriptor stufe="4" name="Erwerbstätigkeit" />
+        <deskriptor stufe="4" name="Frauenerwerbstätigkeit" />
+        <deskriptor stufe="4" name="Jugendarbeitslosigkeit" />
+        <deskriptor stufe="4" name="Lehrstellenmarkt" />
+        <deskriptor stufe="4" name="Lohnersatzleistungen" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Arbeitszeit">
+        <deskriptor stufe="4" name="Arbeitszeit" />
+        <deskriptor stufe="4" name="Zeit" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Berufe">
+        <deskriptor stufe="4" name="Angestellte" />
+        <deskriptor stufe="4" name="Arbeiter" />
+        <deskriptor stufe="4" name="Berufsausbildung" />
+        <deskriptor stufe="4" name="Berufswahl" />
+        <deskriptor stufe="4" name="Führungskräfte" />
+        <deskriptor stufe="4" name="Selbständige" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Berufsgruppen">
+        <deskriptor stufe="4" name="Ärzte" />
+        <deskriptor stufe="4" name="Akademische Berufe" />
+        <deskriptor stufe="4" name="Architekten und Ingenieure" />
+        <deskriptor stufe="4" name="Bankberufe" />
+        <deskriptor stufe="4" name="Bauberufe" />
+        <deskriptor stufe="4" name="Berufssoldaten" />
+        <deskriptor stufe="4" name="Büroberufe" />
+        <deskriptor stufe="4" name="Chemieberufe" />
+        <deskriptor stufe="4" name="Dienstleistungsberufe" />
+        <deskriptor stufe="4" name="EDV-Berufe" />
+        <deskriptor stufe="4" name="Elektroberufe" />
+        <deskriptor stufe="4" name="Ernährungsberufe" />
+        <deskriptor stufe="4" name="Forstberufe" />
+        <deskriptor stufe="4" name="Fremdenverkehrsberufe" />
+        <deskriptor stufe="4" name="Führungskräfte" />
+        <deskriptor stufe="4" name="Gastgewerbeberufe" />
+        <deskriptor stufe="4" name="Geistliche" />
+        <deskriptor stufe="4" name="Gesundheitsberufe" />
+        <deskriptor stufe="4" name="Graphische Berufe" />
+        <deskriptor stufe="4" name="Handelsberufe" />
+        <deskriptor stufe="4" name="Handwerksberufe" />
+        <deskriptor stufe="4" name="Hauspersonal" />
+        <deskriptor stufe="4" name="Informationsberufe" />
+        <deskriptor stufe="4" name="Kaufmännische Berufe" />
+        <deskriptor stufe="4"
+        name="Kraftfahrzeugtechnische Berufe" />
+        <deskriptor stufe="4" name="Künstlerische Berufe" />
+        <deskriptor stufe="4" name="Landwirtschaftsberufe" />
+        <deskriptor stufe="4" name="Lehrkräfte" />
+        <deskriptor stufe="4" name="Metallberufe" />
+        <deskriptor stufe="4" name="Öffentlicher Dienst" />
+        <deskriptor stufe="4" name="Pflegeberufe" />
+        <deskriptor stufe="4" name="Politiker" />
+        <deskriptor stufe="4" name="Publizistische Berufe" />
+        <deskriptor stufe="4" name="Rechtsberufe" />
+        <deskriptor stufe="4" name="Sozialberufe" />
+        <deskriptor stufe="4" name="Sportler" />
+        <deskriptor stufe="4" name="Technische Berufe" />
+        <deskriptor stufe="4" name="Telekommunikationsberufe" />
+        <deskriptor stufe="4" name="Textilberufe" />
+        <deskriptor stufe="4" name="Uhrmacher und Juweliere" />
+        <deskriptor stufe="4" name="Umweltberufe" />
+        <deskriptor stufe="4" name="Unternehmer" />
+        <deskriptor stufe="4" name="Verkehrsberufe" />
+        <deskriptor stufe="4" name="Versicherungsberufe" />
+        <deskriptor stufe="4" name="Werbeberufe" />
+        <deskriptor stufe="4" name="Zahnärzte" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Lohn">
+        <deskriptor stufe="4" name="Erfolgsbeteiligung" />
+        <deskriptor stufe="4" name="Lohn" />
+        <deskriptor stufe="4" name="Lohnfortzahlung" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2"
+    name="Aussenwirtschaft und internationale Wirtschaftsbeziehungen">
+
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Globalisierung" />
+        <deskriptor stufe="4"
+        name="Internationale Kapitalmobilität" />
+        <deskriptor stufe="4"
+        name="Internationale Wirtschaftsbeziehungen" />
+        <deskriptor stufe="4" name="Standortwettbewerb" />
+        <deskriptor stufe="4" name="Technologietransfer" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Aussenhandel">
+        <deskriptor stufe="4" name="Aussenhandel" />
+        <deskriptor stufe="4" name="Aussenhandelspolitik" />
+        <deskriptor stufe="4" name="Wirtschaftsbeziehungen CH" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Aussenwirtschaftspolitik">
+        <deskriptor stufe="4" name="Aussenhandelspolitik" />
+        <deskriptor stufe="4" name="Aussenwirtschaftspolitik" />
+        <deskriptor stufe="4" name="Exportgarantie" />
+        <deskriptor stufe="4"
+        name="Freihandel und Protektionismus" />
+        <deskriptor stufe="4" name="Sanktion" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Internationale Finanz- und Kapitalmärkte">
+        <deskriptor stufe="4" name="Devisenmarkt" />
+        <deskriptor stufe="4" name="Finanzplatz" />
+        <deskriptor stufe="4" name="Internationale Bank" />
+        <deskriptor stufe="4"
+        name="Internationale Kapitalmobilität" />
+        <deskriptor stufe="4" name="Internationaler Finanzmarkt" />
+        <deskriptor stufe="4"
+        name="Internationaler Zahlungsverkehr" />
+        <deskriptor stufe="4" name="Wirtschaftskrise" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Multinationale Unternehmen">
+        <deskriptor stufe="4" name="Direktinvestition" />
+        <deskriptor stufe="4" name="Internationale Bank" />
+        <deskriptor stufe="4" name="Multinationales Unternehmen" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Währung">
+        <deskriptor stufe="4" name="Geldpolitik und Währung" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Wirtschaftsintegration">
+        <deskriptor stufe="4" name="Euro" />
+        <deskriptor stufe="4" name="Europa-Debatte" />
+        <deskriptor stufe="4" name="Europäische Union - Schweiz" />
+        <deskriptor stufe="4" name="Europapolitik" />
+        <deskriptor stufe="4" name="Rechtsangleichung" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Zahlungsbilanz">
+        <deskriptor stufe="4" name="Zahlungsbilanz" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Zoll">
+        <deskriptor stufe="4" name="Kleiner Grenzverkehr" />
+        <deskriptor stufe="4" name="Schmuggel" />
+        <deskriptor stufe="4" name="Zoll" />
+        <deskriptor stufe="4" name="Zollfreigebiet" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Entwicklungsökonomie">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Armut" />
+        <deskriptor stufe="4" name="Ernährung" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Entwicklungshilfe">
+        <deskriptor stufe="4" name="Entwicklungshilfe" />
+        <deskriptor stufe="4" name="Technologietransfer" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Entwicklungspolitik">
+        <deskriptor stufe="4" name="Nachhaltige Entwicklung" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Geld- und Finanzmärkte">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Geld" />
+        <deskriptor stufe="4" name="Geldgeschichte" />
+        <deskriptor stufe="4" name="Geldmenge" />
+        <deskriptor stufe="4" name="Geldpolitik und Währung" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Finanzmärkte">
+        <deskriptor stufe="4" name="Aktienmarkt" />
+        <deskriptor stufe="4" name="Devisenmarkt" />
+        <deskriptor stufe="4" name="Financial Futures" />
+        <deskriptor stufe="4" name="Finanzinnovation" />
+        <deskriptor stufe="4" name="Finanzmarkt" />
+        <deskriptor stufe="4" name="Finanzmarktaufsicht" />
+        <deskriptor stufe="4" name="Geldmarkt" />
+        <deskriptor stufe="4" name="Goldmarkt" />
+        <deskriptor stufe="4" name="Institutioneller Anleger" />
+        <deskriptor stufe="4"
+        name="Institutionelles Asset Management" />
+        <deskriptor stufe="4" name="Investment Banking" />
+        <deskriptor stufe="4" name="Kapitalanlage" />
+        <deskriptor stufe="4" name="Kapitalmarktrecht" />
+        <deskriptor stufe="4"
+        name="Kreditmarkt und Kreditgeschäft" />
+        <deskriptor stufe="4" name="Obligationenmarkt" />
+        <deskriptor stufe="4" name="Optionsgeschäft" />
+        <deskriptor stufe="4" name="Termingeschäft" />
+        <deskriptor stufe="4" name="Wertpapieremission" />
+        <deskriptor stufe="4" name="Wertpapierhandel" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Geldpolitik">
+        <deskriptor stufe="4" name="Geldpolitik und Währung" />
+        <deskriptor stufe="4"
+        name="Kreditmarkt und Kreditgeschäft" />
+        <deskriptor stufe="4" name="Zentralbank" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Inflation">
+        <deskriptor stufe="4" name="Inflation" />
+        <deskriptor stufe="4" name="Preis" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Kredit">
+        <deskriptor stufe="4" name="Hypothekarkredit" />
+        <deskriptor stufe="4"
+        name="Kreditmarkt und Kreditgeschäft" />
+        <deskriptor stufe="4" name="Kreditwürdigkeit" />
+        <deskriptor stufe="4" name="Verbraucherkredit" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Zahlungsverkehr">
+        <deskriptor stufe="4" name="Geld" />
+        <deskriptor stufe="4"
+        name="Internationaler Zahlungsverkehr" />
+        <deskriptor stufe="4" name="Zahlungsverkehr" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Zins">
+        <deskriptor stufe="4" name="Zins" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Industrieökonomik und Wettbewerb">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Unlauterer Wettbewerb" />
+        <deskriptor stufe="4" name="Unternehmenskooperation" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Wettbewerbspolitik">
+        <deskriptor stufe="4" name="Kartell" />
+        <deskriptor stufe="4" name="Preisaufsicht" />
+        <deskriptor stufe="4" name="Wettbewerbspolitik" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Wirtschaftskonzentration und Wettbewerbsbeschränkung">
+        <deskriptor stufe="4"
+        name="Kapitalbeteiligungsgesellschaft" />
+        <deskriptor stufe="4" name="Kartell" />
+        <deskriptor stufe="4" name="Unternehmenszusammenschluss" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2"
+    name="Konjunktur, Wachstum und Wirtschaftsstruktur">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Wirtschaftskrise" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Forschung und Technik">
+        <deskriptor stufe="4"
+        name="Biotechnologie und Gentechnik" />
+        <deskriptor stufe="4" name="Forschung" />
+        <deskriptor stufe="4"
+        name="Forschungs- und Technologiepolitik" />
+        <deskriptor stufe="4" name="Hochtechnologiesektor" />
+        <deskriptor stufe="4" name="Innovation" />
+        <deskriptor stufe="4" name="Patentrecht" />
+        <deskriptor stufe="4" name="Technikgeschichte" />
+        <deskriptor stufe="4"
+        name="Technisch-organisatorischer Fortschritt" />
+        <deskriptor stufe="4" name="Technologietransfer" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Konjunktur">
+        <deskriptor stufe="4" name="Konjunktur" />
+        <deskriptor stufe="4" name="Konjunkturforschung" />
+        <deskriptor stufe="4" name="Konjunkturpolitik" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Wirtschaftsstruktur">
+        <deskriptor stufe="4" name="Agrarpolitik" />
+        <deskriptor stufe="4" name="Bank" />
+        <deskriptor stufe="4" name="Energiepolitik" />
+        <deskriptor stufe="4" name="Regionalpolitik" />
+        <deskriptor stufe="4" name="Verkehrspolitik" />
+        <deskriptor stufe="4" name="Wirtschaftsstruktur" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Wirtschaftswachstum">
+        <deskriptor stufe="4"
+        name="Forschungs- und Technologiepolitik" />
+        <deskriptor stufe="4"
+        name="Technisch-organisatorischer Fortschritt" />
+        <deskriptor stufe="4" name="Wirtschaftswachstum" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Makroökonomie">
+      <deskriptor stufe="3" name="Einkommen und Vermögen">
+        <deskriptor stufe="4" name="Einkommen und Vermögen" />
+        <deskriptor stufe="4" name="Erfolgsbeteiligung" />
+        <deskriptor stufe="4" name="Familienleistungsausgleich" />
+        <deskriptor stufe="4" name="Vermögenssteuer" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Gesamtwirtschaftliche Investition">
+        <deskriptor stufe="4" name="Investition" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Gesamtwirtschaftliche Produktion">
+        <deskriptor stufe="4" name="Arbeitsproduktivität" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Kapital">
+        <deskriptor stufe="4"
+        name="Gesamtwirtschaftliches Anlagevermögen" />
+        <deskriptor stufe="4"
+        name="Internationale Kapitalmobilität" />
+        <deskriptor stufe="4" name="Zins" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Konsum und Sparen">
+        <deskriptor stufe="4" name="Konsumentenverhalten" />
+        <deskriptor stufe="4" name="Privater Haushalt" />
+        <deskriptor stufe="4" name="Sparen" />
+        <deskriptor stufe="4" name="Verbraucherkredit" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Volkswirtschaftliche Gesamtrechnung">
+        <deskriptor stufe="4"
+        name="Volkswirtschaftliche Gesamtrechnung" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2"
+    name="Öffentliche Finanzen und Finanzwissenschaft">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Finanzgeschichte" />
+        <deskriptor stufe="4" name="Gemeindefinanzen" />
+        <deskriptor stufe="4" name="Kantonsfinanzen" />
+        <deskriptor stufe="4" name="Öffentliche Beschaffung" />
+        <deskriptor stufe="4"
+        name="Öffentliche Finanzwirtschaft" />
+        <deskriptor stufe="4" name="Öffentlicher Sektor" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Finanzausgleich">
+        <deskriptor stufe="4" name="Finanzausgleich" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Finanzpolitik">
+        <deskriptor stufe="4" name="Finanzausgleich" />
+        <deskriptor stufe="4" name="Finanzpolitik" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Finanzrecht">
+        <deskriptor stufe="4" name="Doppelbesteuerung" />
+        <deskriptor stufe="4" name="Steuer" />
+        <deskriptor stufe="4" name="Steuerstraftat" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Öffentliche Wirtschaft">
+        <deskriptor stufe="4" name="Kantonalbank" />
+        <deskriptor stufe="4" name="Öffentlicher Verkehr" />
+        <deskriptor stufe="4" name="Öffentliches Unternehmen" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Öffentlicher Haushalt">
+        <deskriptor stufe="4" name="Gebühr" />
+        <deskriptor stufe="4" name="Steuer" />
+        <deskriptor stufe="4" name="Strassenbenutzungsgebühr" />
+        <deskriptor stufe="4" name="Umweltabgabe" />
+        <deskriptor stufe="4" name="Zoll" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Öffentlicher Transfer">
+        <deskriptor stufe="4" name="Familienleistungsausgleich" />
+        <deskriptor stufe="4" name="Lohnersatzleistungen" />
+        <deskriptor stufe="4" name="Sozialhilfe" />
+        <deskriptor stufe="4" name="Subvention" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Steuern und Steuerwissenschaft">
+        <deskriptor stufe="4" name="Ausländersteuer" />
+        <deskriptor stufe="4" name="Direkte Bundessteuer" />
+        <deskriptor stufe="4" name="Doppelbesteuerung" />
+        <deskriptor stufe="4" name="Einkommensteuer" />
+        <deskriptor stufe="4" name="Erbschaftsteuer" />
+        <deskriptor stufe="4" name="Finanzgeschichte" />
+        <deskriptor stufe="4" name="Grunderwerbssteuer" />
+        <deskriptor stufe="4" name="Grundsteuer" />
+        <deskriptor stufe="4" name="Kapitalertragsteuer" />
+        <deskriptor stufe="4" name="Kapitalverkehrsteuer" />
+        <deskriptor stufe="4" name="Kraftfahrzeugsteuer" />
+        <deskriptor stufe="4" name="Mehrwertsteuer" />
+        <deskriptor stufe="4" name="Mineralölsteuer" />
+        <deskriptor stufe="4" name="Steuer" />
+        <deskriptor stufe="4" name="Steuerbelastung" />
+        <deskriptor stufe="4" name="Steuerpolitik" />
+        <deskriptor stufe="4" name="Steuerstraftat" />
+        <deskriptor stufe="4" name="Umweltabgabe" />
+        <deskriptor stufe="4" name="Unternehmensbesteuerung" />
+        <deskriptor stufe="4" name="Verbrauchsteuer" />
+        <deskriptor stufe="4" name="Vermögenssteuer" />
+        <deskriptor stufe="4" name="Wertzuwachssteuer" />
+        <deskriptor stufe="4" name="Zoll" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2"
+    name="Regionalwirtschaft und Infrastruktur">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Binnenwanderung" />
+        <deskriptor stufe="4" name="Grenzgänger" />
+        <deskriptor stufe="4" name="Kantonale Wirtschaft" />
+        <deskriptor stufe="4" name="Kommunale Wirtschaft" />
+        <deskriptor stufe="4" name="Pendelverkehr" />
+        <deskriptor stufe="4" name="Regionalbank" />
+        <deskriptor stufe="4" name="Regionale Entwicklung" />
+        <deskriptor stufe="4" name="Regionale Wirtschaft" />
+        <deskriptor stufe="4" name="Standortwettbewerb" />
+        <deskriptor stufe="4" name="Verdichtungsverkehr" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Grund und Boden">
+        <deskriptor stufe="4" name="Bodenbelastung" />
+        <deskriptor stufe="4" name="Bodennutzung" />
+        <deskriptor stufe="4" name="Grundbesitz" />
+        <deskriptor stufe="4" name="Grunderwerbssteuer" />
+        <deskriptor stufe="4" name="Grundsteuer" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Infrastruktur">
+        <deskriptor stufe="4"
+        name="Telekommunikationsinfrastruktur" />
+        <deskriptor stufe="4" name="Verkehrsinfrastruktur" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Regionalpolitik">
+        <deskriptor stufe="4" name="Bodennutzung" />
+        <deskriptor stufe="4" name="Raumplanung" />
+        <deskriptor stufe="4" name="Regionale Verkehrspolitik" />
+        <deskriptor stufe="4" name="Regionalpolitik" />
+        <deskriptor stufe="4" name="Standortmarketing" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Stadtökonomik">
+        <deskriptor stufe="4" name="Gemeindefinanzen" />
+        <deskriptor stufe="4" name="Stadtgeschichte" />
+        <deskriptor stufe="4"
+        name="Städtebaupolitik und Kommunalplanung" />
+        <deskriptor stufe="4" name="Standortwettbewerb" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Standort">
+        <deskriptor stufe="4" name="Betrieblicher Standort" />
+        <deskriptor stufe="4" name="Standortmarketing" />
+        <deskriptor stufe="4" name="Standortwettbewerb" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Soziales, Gesundheit und Bildung">
+      <deskriptor stufe="3" name="Bildung">
+        <deskriptor stufe="4" name="Bildung" />
+        <deskriptor stufe="4" name="Bildungspolitik" />
+        <deskriptor stufe="4" name="Bildungswesen" />
+        <deskriptor stufe="4" name="Erwachsenenbildung" />
+        <deskriptor stufe="4" name="Frauenbildung" />
+        <deskriptor stufe="4" name="Hochschule" />
+        <deskriptor stufe="4" name="Lehrstellenmarkt" />
+        <deskriptor stufe="4" name="Studienfinanzierung" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Gesundheit">
+        <deskriptor stufe="4" name="Behinderte" />
+        <deskriptor stufe="4" name="Erwerbsunfähigkeit" />
+        <deskriptor stufe="4" name="Gesundheit und Krankheit" />
+        <deskriptor stufe="4" name="Gesundheitspolitik" />
+        <deskriptor stufe="4" name="Gesundheitsvorsorge" />
+        <deskriptor stufe="4" name="Gesundheitswesen" />
+        <deskriptor stufe="4" name="Krankenversicherung" />
+        <deskriptor stufe="4" name="Telemedizin" />
+        <deskriptor stufe="4" name="Veterinärwesen" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Soziales">
+        <deskriptor stufe="4" name="Armut" />
+        <deskriptor stufe="4" name="Ehrenamtliche Arbeit" />
+        <deskriptor stufe="4" name="Konsumentenpreisindex" />
+        <deskriptor stufe="4" name="Lebensstandard" />
+        <deskriptor stufe="4" name="Reichtum" />
+        <deskriptor stufe="4" name="Sozialgeschichte" />
+        <deskriptor stufe="4" name="Sozialstruktur" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Sozialpolitik">
+        <deskriptor stufe="4" name="Arbeitsschutz" />
+        <deskriptor stufe="4"
+        name="Betriebliche Sozialleistungen" />
+        <deskriptor stufe="4" name="Familienleistungsausgleich" />
+        <deskriptor stufe="4" name="Familienpolitik" />
+        <deskriptor stufe="4" name="Gesundheitspolitik" />
+        <deskriptor stufe="4" name="Jugendpolitik" />
+        <deskriptor stufe="4" name="Mutterschutz" />
+        <deskriptor stufe="4" name="Soziale Sicherung" />
+        <deskriptor stufe="4" name="Sozialhilfe" />
+        <deskriptor stufe="4" name="Sozialpolitik" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Sozialversicherung">
+        <deskriptor stufe="4" name="AHV" />
+        <deskriptor stufe="4" name="Alterssicherung" />
+        <deskriptor stufe="4" name="Arbeitslosenversicherung" />
+        <deskriptor stufe="4"
+        name="Betriebliche Altersversorgung" />
+        <deskriptor stufe="4" name="Erwerbsunfähigkeit" />
+        <deskriptor stufe="4" name="Krankenversicherung" />
+        <deskriptor stufe="4" name="Sozialversicherung" />
+        <deskriptor stufe="4" name="Unfallversicherung" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Statistik">
+      <deskriptor stufe="3" name="Statistische Übersichten">
+        <deskriptor stufe="4" name="Arbeitsmarkt" />
+        <deskriptor stufe="4" name="Aussenhandel" />
+        <deskriptor stufe="4" name="Bank" />
+        <deskriptor stufe="4" name="Bauwirtschaft" />
+        <deskriptor stufe="4" name="Berufswahl" />
+        <deskriptor stufe="4" name="Bevölkerung" />
+        <deskriptor stufe="4" name="Bildung" />
+        <deskriptor stufe="4" name="Binnenwanderung" />
+        <deskriptor stufe="4" name="Dienstleistungssektor" />
+        <deskriptor stufe="4" name="Einkommen und Vermögen" />
+        <deskriptor stufe="4" name="Energiewirtschaft" />
+        <deskriptor stufe="4" name="Familie" />
+        <deskriptor stufe="4" name="Forschung" />
+        <deskriptor stufe="4" name="Geldmenge" />
+        <deskriptor stufe="4" name="Gemeinde" />
+        <deskriptor stufe="4"
+        name="Gesamtwirtschaftliches Anlagevermögen" />
+        <deskriptor stufe="4" name="Gesundheit und Krankheit" />
+        <deskriptor stufe="4" name="Handel" />
+        <deskriptor stufe="4" name="Handwerk" />
+        <deskriptor stufe="4" name="Hochschule" />
+        <deskriptor stufe="4" name="Industrie" />
+        <deskriptor stufe="4" name="Investition" />
+        <deskriptor stufe="4" name="Konjunktur" />
+        <deskriptor stufe="4" name="Konsumentenpreisindex" />
+        <deskriptor stufe="4" name="Landwirtschaft" />
+        <deskriptor stufe="4" name="Lohn" />
+        <deskriptor stufe="4"
+        name="Öffentliche Finanzwirtschaft" />
+        <deskriptor stufe="4" name="Preis" />
+        <deskriptor stufe="4" name="Privater Haushalt" />
+        <deskriptor stufe="4"
+        name="Schweizerische Volkswirtschaft" />
+        <deskriptor stufe="4" name="Statistik" />
+        <deskriptor stufe="4" name="Steuer" />
+        <deskriptor stufe="4" name="Umwelt" />
+        <deskriptor stufe="4" name="Unternehmen" />
+        <deskriptor stufe="4"
+        name="Volkswirtschaftliche Gesamtrechnung" />
+        <deskriptor stufe="4" name="Wohnungsmarkt" />
+        <deskriptor stufe="4" name="Zahlungsbilanz" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Umwelt- und Ressourcenökonomik">
+      <deskriptor stufe="3" name="Energieökonomik">
+        <deskriptor stufe="4" name="Alternativenergie" />
+        <deskriptor stufe="4" name="Energiepolitik" />
+        <deskriptor stufe="4" name="Energiewirtschaft" />
+        <deskriptor stufe="4" name="Kernenergie" />
+        <deskriptor stufe="4" name="Wasserkraft" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Ressourcenökonomik">
+        <deskriptor stufe="4" name="Rohstoff" />
+        <deskriptor stufe="4" name="Wasserversorgung" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Umweltbelastung">
+        <deskriptor stufe="4" name="Bodenbelastung" />
+        <deskriptor stufe="4" name="Gewässerschutz" />
+        <deskriptor stufe="4" name="Klima" />
+        <deskriptor stufe="4" name="Lärm" />
+        <deskriptor stufe="4" name="Luftverunreinigung" />
+        <deskriptor stufe="4" name="Nukleare Entsorgung" />
+        <deskriptor stufe="4" name="Strahlenbelastung" />
+        <deskriptor stufe="4" name="Waldschaden" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Umweltpolitik und Umweltschutz">
+        <deskriptor stufe="4" name="Nachhaltige Entwicklung" />
+        <deskriptor stufe="4" name="Naturschutz" />
+        <deskriptor stufe="4" name="Recycling" />
+        <deskriptor stufe="4" name="Umwelt" />
+        <deskriptor stufe="4" name="Umweltabgabe" />
+        <deskriptor stufe="4" name="Umweltpolitik" />
+        <deskriptor stufe="4" name="Umweltschutzsektor" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Volkswirtschaft">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="E-Business" />
+        <deskriptor stufe="4" name="Weltwirtschaft" />
+        <deskriptor stufe="4" name="Wirtschaftsethik" />
+        <deskriptor stufe="4" name="Wirtschaftsstudium" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Wirtschaft der Schweiz">
+        <deskriptor stufe="4" name="Kantonale Wirtschaft" />
+        <deskriptor stufe="4" name="Kommunale Wirtschaft" />
+        <deskriptor stufe="4" name="Regionale Wirtschaft" />
+        <deskriptor stufe="4"
+        name="Schweizerische Volkswirtschaft" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Wirtschaft einzelner Länder">
+        <deskriptor stufe="4" name="Volkswirtschaft" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Wirtschaftsgeschichte">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Agrargeschichte" />
+        <deskriptor stufe="4"
+        name="Bankgeschichte und Versicherungsgeschichte" />
+        <deskriptor stufe="4" name="Business History" />
+        <deskriptor stufe="4" name="Finanzgeschichte" />
+        <deskriptor stufe="4" name="Geldgeschichte" />
+        <deskriptor stufe="4"
+        name="Geschichte Schweiz - Zweiter Weltkrieg" />
+        <deskriptor stufe="4" name="Handelsgeschichte" />
+        <deskriptor stufe="4" name="Handwerksgeschichte" />
+        <deskriptor stufe="4" name="Industriegeschichte" />
+        <deskriptor stufe="4" name="Regionalgeschichte" />
+        <deskriptor stufe="4" name="Sozialgeschichte" />
+        <deskriptor stufe="4" name="Stadtgeschichte" />
+        <deskriptor stufe="4" name="Technikgeschichte" />
+        <deskriptor stufe="4" name="Verkehrsgeschichte" />
+        <deskriptor stufe="4" name="Wirtschaftsgeschichte" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2"
+    name="Wirtschaftsordnung und Wirtschaftspolitik">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Verfassung" />
+        <deskriptor stufe="4" name="Wirtschaftsordnung" />
+        <deskriptor stufe="4" name="Wirtschaftsrecht" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Allgemeine Wirtschaftspolitik">
+        <deskriptor stufe="4" name="Beschäftigungspolitik" />
+        <deskriptor stufe="4" name="Finanzpolitik" />
+        <deskriptor stufe="4" name="Geldpolitik und Währung" />
+        <deskriptor stufe="4" name="Interessenpolitik" />
+        <deskriptor stufe="4" name="Konjunkturpolitik" />
+        <deskriptor stufe="4" name="Privatisierung" />
+        <deskriptor stufe="4" name="Steuerpolitik" />
+        <deskriptor stufe="4" name="Subvention" />
+        <deskriptor stufe="4" name="Wirtschaftsförderung" />
+        <deskriptor stufe="4" name="Wirtschaftspolitik" />
+        <deskriptor stufe="4" name="Wirtschaftsverband" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Wirtschaftssysteme">
+        <deskriptor stufe="4" name="Schwarzmarkt" />
+      </deskriptor>
+    </deskriptor>
+  </deskriptor>
+  <deskriptor stufe="1" name="Betriebswirtschaft">
+    <deskriptor stufe="2" name="Betriebliches Steuerwesen">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Doppelbesteuerung" />
+        <deskriptor stufe="4" name="Erbschaftsteuer" />
+        <deskriptor stufe="4" name="Familienunternehmen" />
+        <deskriptor stufe="4" name="Grundsteuer" />
+        <deskriptor stufe="4" name="Mehrwertsteuer" />
+        <deskriptor stufe="4" name="Rechtsform" />
+        <deskriptor stufe="4" name="Steuer" />
+        <deskriptor stufe="4" name="Steuerbelastung" />
+        <deskriptor stufe="4" name="Unternehmensbesteuerung" />
+        <deskriptor stufe="4" name="Vermögenssteuer" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Betriebswirtschaft">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Betriebswirtschaftslehre" />
+        <deskriptor stufe="4" name="Globalisierung" />
+        <deskriptor stufe="4" name="Kartell" />
+        <deskriptor stufe="4" name="Multinationales Unternehmen" />
+        <deskriptor stufe="4" name="Unternehmen" />
+        <deskriptor stufe="4" name="Unternehmenskooperation" />
+        <deskriptor stufe="4" name="Unternehmer" />
+        <deskriptor stufe="4" name="Verhandlungen" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2"
+    name="Betriebswirtschaftliches Rechnungs- und Prüfungswesen">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Betriebliche Kennzahl" />
+        <deskriptor stufe="4" name="Betriebliche Liquidität" />
+        <deskriptor stufe="4"
+        name="Betriebliches Rechnungswesen" />
+        <deskriptor stufe="4" name="Betriebsvergleich" />
+        <deskriptor stufe="4" name="Kostenrechnung" />
+        <deskriptor stufe="4" name="Shareholder Value" />
+        <deskriptor stufe="4" name="Unternehmensbewertung" />
+        <deskriptor stufe="4" name="Wirtschaftsprüfung" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Investition und Finanzierung">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Betriebliche Kennzahl" />
+        <deskriptor stufe="4" name="Betriebliche Liquidität" />
+        <deskriptor stufe="4" name="Direktinvestition" />
+        <deskriptor stufe="4" name="Erfolgsbeteiligung" />
+        <deskriptor stufe="4" name="Finanzierung" />
+        <deskriptor stufe="4" name="Gewinnverwendung" />
+        <deskriptor stufe="4" name="Hypothekarkredit" />
+        <deskriptor stufe="4" name="Investition" />
+        <deskriptor stufe="4" name="Miete" />
+        <deskriptor stufe="4" name="Spende" />
+        <deskriptor stufe="4" name="Subvention" />
+        <deskriptor stufe="4" name="Wertpapieremission" />
+        <deskriptor stufe="4" name="Zahlungsverkehr" />
+        <deskriptor stufe="4" name="Zins" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Marketing">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Marketing" />
+        <deskriptor stufe="4" name="Marktforschung" />
+        <deskriptor stufe="4" name="Öffentlichkeitsarbeit" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Konsumentenverhalten">
+        <deskriptor stufe="4" name="Konsumentenverhalten" />
+        <deskriptor stufe="4" name="Meinungsforschung" />
+        <deskriptor stufe="4" name="Verbraucherschutz" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Produktpolitik">
+        <deskriptor stufe="4" name="Innovation" />
+        <deskriptor stufe="4" name="Markenrecht" />
+        <deskriptor stufe="4" name="Produkthaftung" />
+        <deskriptor stufe="4" name="Produktpiraterie" />
+        <deskriptor stufe="4" name="Produktqualität" />
+        <deskriptor stufe="4" name="Verpackung" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Verkauf und Distribution">
+        <deskriptor stufe="4" name="Fabrikverkauf" />
+        <deskriptor stufe="4" name="Firmenkundengeschäft" />
+        <deskriptor stufe="4" name="Vertrieb" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Verkaufsförderung und Werbung">
+        <deskriptor stufe="4" name="Kundendienst" />
+        <deskriptor stufe="4" name="Online-Werbung" />
+        <deskriptor stufe="4" name="Sponsoring" />
+        <deskriptor stufe="4" name="Verkaufsförderung" />
+        <deskriptor stufe="4" name="Werbung" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Materialwirtschaft und Logistik">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Materialwirtschaft" />
+        <deskriptor stufe="4" name="Outsourcing" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Personalwirtschaft">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Arbeitsbedingungen" />
+        <deskriptor stufe="4" name="Ausländische Arbeitskräfte" />
+        <deskriptor stufe="4" name="Personalwirtschaft" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Arbeitsrecht und Arbeitsbeziehungen">
+        <deskriptor stufe="4" name="Arbeitsbeziehungen" />
+        <deskriptor stufe="4" name="Arbeitskonflikt" />
+        <deskriptor stufe="4" name="Arbeitsrecht" />
+        <deskriptor stufe="4" name="Arbeitsvertrag" />
+        <deskriptor stufe="4" name="Mitbestimmung" />
+        <deskriptor stufe="4" name="Unternehmer" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Arbeitswissenschaft">
+        <deskriptor stufe="4" name="Arbeitsorganisation" />
+        <deskriptor stufe="4" name="Arbeitsschutz" />
+        <deskriptor stufe="4" name="Arbeitszeit" />
+        <deskriptor stufe="4" name="Berufskrankheit" />
+        <deskriptor stufe="4" name="Erwerbsunfähigkeit" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Personalführung, -planung und -entwicklung">
+        <deskriptor stufe="4" name="Arbeitsmobilität" />
+        <deskriptor stufe="4" name="Betriebsklima" />
+        <deskriptor stufe="4" name="Führungskräfteausbildung" />
+        <deskriptor stufe="4" name="Leiharbeit" />
+        <deskriptor stufe="4" name="Personalführung" />
+        <deskriptor stufe="4" name="Wissensmanagement" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Vergütungssysteme und betriebliche Sozialleistungen">
+        <deskriptor stufe="4"
+        name="Betriebliche Altersversorgung" />
+        <deskriptor stufe="4"
+        name="Betriebliche Sozialleistungen" />
+        <deskriptor stufe="4" name="Einkommen und Vermögen" />
+        <deskriptor stufe="4" name="Erfolgsbeteiligung" />
+        <deskriptor stufe="4" name="Lohn" />
+        <deskriptor stufe="4" name="Lohnfortzahlung" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Produktionswirtschaft">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Normung" />
+        <deskriptor stufe="4" name="Produktion" />
+        <deskriptor stufe="4" name="Qualitätsmanagement" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2"
+    name="Unternehmensführung und Organisation">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Stakeholder" />
+        <deskriptor stufe="4" name="Umweltmanagement" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Betriebliche Information und Kommunikation">
+        <deskriptor stufe="4" name="Datenschutz" />
+        <deskriptor stufe="4" name="Datensicherheit" />
+        <deskriptor stufe="4" name="Informationswirtschaft" />
+        <deskriptor stufe="4" name="Öffentlichkeitsarbeit" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Organisation">
+        <deskriptor stufe="4" name="Arbeitsorganisation" />
+        <deskriptor stufe="4" name="Büro" />
+        <deskriptor stufe="4"
+        name="Technisch-organisatorischer Fortschritt" />
+        <deskriptor stufe="4" name="Unternehmensführung" />
+        <deskriptor stufe="4" name="Unternehmensorganisation" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Rechtsformen">
+        <deskriptor stufe="4" name="Aktiengesellschaft" />
+        <deskriptor stufe="4" name="Familienunternehmen" />
+        <deskriptor stufe="4" name="Genossenschaft" />
+        <deskriptor stufe="4" name="Nonprofit-Organisation" />
+        <deskriptor stufe="4" name="Öffentliches Unternehmen" />
+        <deskriptor stufe="4" name="Rechtsform" />
+        <deskriptor stufe="4" name="Stiftung" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Unternehmensentwicklung, Betriebsgrösse und Standortwahl">
+
+        <deskriptor stufe="4" name="Betrieblicher Standort" />
+        <deskriptor stufe="4" name="Betriebsgrösse" />
+        <deskriptor stufe="4" name="Business History" />
+        <deskriptor stufe="4" name="Grossunternehmen" />
+        <deskriptor stufe="4"
+        name="Klein- und Mittelunternehmen" />
+        <deskriptor stufe="4" name="Konkurs" />
+        <deskriptor stufe="4" name="Unternehmensgründung" />
+        <deskriptor stufe="4" name="Unternehmenssanierung" />
+        <deskriptor stufe="4" name="Unternehmenszusammenschluss" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Unternehmensführung und Unternehmensplanung">
+        <deskriptor stufe="4" name="Corporate Governance" />
+        <deskriptor stufe="4" name="Entscheidung" />
+        <deskriptor stufe="4" name="Erfolgsfaktor" />
+        <deskriptor stufe="4" name="Führungskräfte" />
+        <deskriptor stufe="4" name="Innovation" />
+        <deskriptor stufe="4"
+        name="Institutionelles Asset Management" />
+        <deskriptor stufe="4" name="Qualitätsmanagement" />
+        <deskriptor stufe="4" name="Risikomanagement" />
+        <deskriptor stufe="4" name="Unternehmensführung" />
+        <deskriptor stufe="4" name="Unternehmenskultur" />
+        <deskriptor stufe="4" name="Unternehmensnachfolge" />
+        <deskriptor stufe="4" name="Unternehmensversicherung" />
+      </deskriptor>
+    </deskriptor>
+  </deskriptor>
+  <deskriptor stufe="1" name="Wirtschaftssektoren">
+    <deskriptor stufe="2" name="Abfallwirtschaft und Recycling">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Abfallwirtschaft" />
+        <deskriptor stufe="4" name="Gewässerschutz" />
+        <deskriptor stufe="4" name="Recycling" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Bauwirtschaft">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Architektur" />
+        <deskriptor stufe="4" name="Bauberufe" />
+        <deskriptor stufe="4" name="Baukosten" />
+        <deskriptor stufe="4" name="Baurecht" />
+        <deskriptor stufe="4" name="Bautechnik" />
+        <deskriptor stufe="4" name="Bauwirtschaft" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Ausbaugewerbe">
+        <deskriptor stufe="4" name="Ausbaugewerbe" />
+        <deskriptor stufe="4" name="Bauinstallation" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Bausparten">
+        <deskriptor stufe="4" name="Hochbau" />
+        <deskriptor stufe="4" name="Holzhandwerk" />
+        <deskriptor stufe="4" name="Tiefbau" />
+        <deskriptor stufe="4" name="Wasserbau" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Bildungswesen">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Bildung" />
+        <deskriptor stufe="4" name="Bildungspolitik" />
+        <deskriptor stufe="4" name="Bildungswesen" />
+        <deskriptor stufe="4" name="Erwachsenenbildung" />
+        <deskriptor stufe="4" name="Fernunterricht" />
+        <deskriptor stufe="4" name="Frauenbildung" />
+        <deskriptor stufe="4" name="Kinderbetreuung" />
+        <deskriptor stufe="4" name="Lehrkräfte" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Berufsbildung">
+        <deskriptor stufe="4" name="Berufsausbildung" />
+        <deskriptor stufe="4" name="Berufsbildende Schule" />
+        <deskriptor stufe="4" name="Führungskräfteausbildung" />
+        <deskriptor stufe="4"
+        name="Kaufmännisches Bildungswesen" />
+        <deskriptor stufe="4" name="Lehrstellenmarkt" />
+        <deskriptor stufe="4" name="Weiterbildung" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Hochschulen">
+        <deskriptor stufe="4" name="Akademische Berufe" />
+        <deskriptor stufe="4" name="Fachhochschule" />
+        <deskriptor stufe="4" name="Hochschule" />
+        <deskriptor stufe="4" name="Studienfinanzierung" />
+        <deskriptor stufe="4" name="Studierende" />
+        <deskriptor stufe="4" name="Wirtschaftsstudium" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Schulen">
+        <deskriptor stufe="4" name="Berufsbildende Schule" />
+        <deskriptor stufe="4"
+        name="Kaufmännisches Bildungswesen" />
+        <deskriptor stufe="4" name="Privatschule" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Börsen und Wertpapierhandel">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Kapitalmarktrecht" />
+        <deskriptor stufe="4" name="Kapitalverkehrsteuer" />
+        <deskriptor stufe="4" name="Wertpapieremission" />
+        <deskriptor stufe="4" name="Wertpapierhandel" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Datenverarbeitungswirtschaft">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4"
+        name="Datenverarbeitungswirtschaft" />
+        <deskriptor stufe="4" name="EDV-Berufe" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Dienstleistungen">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Automatenwirtschaft" />
+        <deskriptor stufe="4" name="Bestattungsgewerbe" />
+        <deskriptor stufe="4" name="Dienstleistungsberufe" />
+        <deskriptor stufe="4" name="Dienstleistungssektor" />
+        <deskriptor stufe="4" name="Einkaufszentrum" />
+        <deskriptor stufe="4" name="Friseurhandwerk" />
+        <deskriptor stufe="4" name="Sexgewerbe" />
+        <deskriptor stufe="4" name="Textilreinigung" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Energie- und Wasserwirtschaft">
+      <deskriptor stufe="3" name="Elektrizitätswirtschaft">
+        <deskriptor stufe="4" name="Alternativenergie" />
+        <deskriptor stufe="4" name="Elektrizitätswirtschaft" />
+        <deskriptor stufe="4" name="Kernenergie" />
+        <deskriptor stufe="4" name="Wasserkraft" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Energiepolitik">
+        <deskriptor stufe="4" name="Energiepolitik" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Energiewirtschaft">
+        <deskriptor stufe="4" name="Energiewirtschaft" />
+        <deskriptor stufe="4" name="Gaswirtschaft" />
+        <deskriptor stufe="4" name="Klimatechnik" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Kernenergiewirtschaft">
+        <deskriptor stufe="4" name="Kernenergie" />
+        <deskriptor stufe="4" name="Nukleare Entsorgung" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Regenerative Energiewirtschaft">
+        <deskriptor stufe="4" name="Alternativenergie" />
+        <deskriptor stufe="4" name="Wasserkraft" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Wasserwirtschaft">
+        <deskriptor stufe="4" name="Gewässerschutz" />
+        <deskriptor stufe="4" name="Wasserversorgung" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Finanz- und Kreditwesen">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Bank" />
+        <deskriptor stufe="4" name="Bankberufe" />
+        <deskriptor stufe="4" name="Bankgeheimnis" />
+        <deskriptor stufe="4"
+        name="Bankgeschichte und Versicherungsgeschichte" />
+        <deskriptor stufe="4" name="Bankrecht" />
+        <deskriptor stufe="4" name="Finanzinnovation" />
+        <deskriptor stufe="4" name="Finanzmarkt" />
+        <deskriptor stufe="4" name="Finanzsektor" />
+        <deskriptor stufe="4" name="Institutioneller Anleger" />
+        <deskriptor stufe="4" name="Kapitalmarktrecht" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Bankbetriebslehre">
+        <deskriptor stufe="4" name="Bankautomation" />
+        <deskriptor stufe="4" name="Bankmanagement" />
+        <deskriptor stufe="4" name="Bankmarketing" />
+        <deskriptor stufe="4" name="Electronic Banking" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Bankensystem">
+        <deskriptor stufe="4" name="Grossbank" />
+        <deskriptor stufe="4" name="Internationale Bank" />
+        <deskriptor stufe="4" name="Investment Banking" />
+        <deskriptor stufe="4" name="Investmentfonds" />
+        <deskriptor stufe="4" name="Kantonalbank" />
+        <deskriptor stufe="4" name="Kreditgenossenschaft" />
+        <deskriptor stufe="4" name="Postbankdienst" />
+        <deskriptor stufe="4" name="Privatbank" />
+        <deskriptor stufe="4" name="Regionalbank" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Bankgeschäft">
+        <deskriptor stufe="4" name="Firmenkundengeschäft" />
+        <deskriptor stufe="4"
+        name="Institutionelles Asset Management" />
+        <deskriptor stufe="4" name="Investment Banking" />
+        <deskriptor stufe="4"
+        name="Kreditmarkt und Kreditgeschäft" />
+        <deskriptor stufe="4" name="Kreditwürdigkeit" />
+        <deskriptor stufe="4" name="Private Banking" />
+        <deskriptor stufe="4" name="Retail Banking" />
+        <deskriptor stufe="4" name="Wertpapieremission" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Zentralbank">
+        <deskriptor stufe="4" name="Geldpolitik und Währung" />
+        <deskriptor stufe="4" name="Zentralbank" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Fischerei">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Fischwirtschaft" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Forschung und Entwicklung">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Forschung" />
+        <deskriptor stufe="4"
+        name="Forschungs- und Technologiepolitik" />
+        <deskriptor stufe="4" name="Innovation" />
+        <deskriptor stufe="4" name="Technologietransfer" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Forschungsbereiche">
+        <deskriptor stufe="4" name="Konjunkturforschung" />
+        <deskriptor stufe="4" name="Zukunftsforschung" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Forstwirtschaft">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Forstberufe" />
+        <deskriptor stufe="4" name="Forstwirtschaft" />
+        <deskriptor stufe="4" name="Jagd" />
+        <deskriptor stufe="4" name="Waldschaden" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Freizeitwirtschaft">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Fitnesszentrum" />
+        <deskriptor stufe="4" name="Freizeitverhalten" />
+        <deskriptor stufe="4" name="Freizeitwirtschaft" />
+        <deskriptor stufe="4" name="Glücksspiel" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Gastgewerbe">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Camping und Jugendherberge" />
+        <deskriptor stufe="4" name="Gastgewerbe" />
+        <deskriptor stufe="4" name="Gastgewerbeberufe" />
+        <deskriptor stufe="4" name="Gastronomie" />
+        <deskriptor stufe="4" name="Hotelgewerbe" />
+        <deskriptor stufe="4" name="Tagungswirtschaft" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Gesundheits- und Veterinärwesen">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Ärzte" />
+        <deskriptor stufe="4" name="Behinderte" />
+        <deskriptor stufe="4" name="Gesundheit und Krankheit" />
+        <deskriptor stufe="4" name="Gesundheitsberufe" />
+        <deskriptor stufe="4" name="Gesundheitspolitik" />
+        <deskriptor stufe="4" name="Gesundheitsvorsorge" />
+        <deskriptor stufe="4" name="Gesundheitswesen" />
+        <deskriptor stufe="4" name="Krankenhaus" />
+        <deskriptor stufe="4" name="Krankenversicherung" />
+        <deskriptor stufe="4" name="Telemedizin" />
+        <deskriptor stufe="4" name="Veterinärwesen" />
+        <deskriptor stufe="4" name="Zahnärzte" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Betriebliche Gesundheitspolitik">
+        <deskriptor stufe="4" name="Arbeitsschutz" />
+        <deskriptor stufe="4" name="Berufskrankheit" />
+        <deskriptor stufe="4" name="Erwerbsunfähigkeit" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Handel">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Biomarkt und Fairer Handel" />
+        <deskriptor stufe="4" name="Grossveranstaltung" />
+        <deskriptor stufe="4" name="Handel" />
+        <deskriptor stufe="4" name="Handelsberufe" />
+        <deskriptor stufe="4" name="Handelsgeschichte" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Aussenhandelswirtschaft">
+        <deskriptor stufe="4" name="Aussenhandel" />
+        <deskriptor stufe="4" name="Aussenhandelspolitik" />
+        <deskriptor stufe="4" name="Exportgarantie" />
+        <deskriptor stufe="4" name="Wirtschaftsbeziehungen CH" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Einzelhandel">
+        <deskriptor stufe="4" name="Ambulanter Handel" />
+        <deskriptor stufe="4" name="Auktion" />
+        <deskriptor stufe="4" name="Convenience Shop" />
+        <deskriptor stufe="4" name="Discounter" />
+        <deskriptor stufe="4" name="Einkaufszentrum" />
+        <deskriptor stufe="4" name="Einzelhandel" />
+        <deskriptor stufe="4" name="Fabrikverkauf" />
+        <deskriptor stufe="4" name="Grossverteiler" />
+        <deskriptor stufe="4" name="Versandhandel" />
+        <deskriptor stufe="4" name="Warenhaus" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Grosshandel">
+        <deskriptor stufe="4" name="Grosshandel" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Kraftfahrzeughandel">
+        <deskriptor stufe="4" name="Autogewerbe" />
+        <deskriptor stufe="4" name="Mineralöl" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Lebensmittel- und Landhandel">
+        <deskriptor stufe="4" name="Grossverteiler" />
+        <deskriptor stufe="4" name="Lebensmittelüberwachung" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Rohstoff- und Altmaterialhandel">
+        <deskriptor stufe="4" name="Gebrauchtmarkt" />
+        <deskriptor stufe="4" name="Goldmarkt" />
+        <deskriptor stufe="4" name="Mineralöl" />
+        <deskriptor stufe="4" name="Pharmahandel" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Handwerk">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Handwerk" />
+        <deskriptor stufe="4" name="Handwerksberufe" />
+        <deskriptor stufe="4" name="Handwerksgeschichte" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Handwerkszweige">
+        <deskriptor stufe="4" name="Autogewerbe" />
+        <deskriptor stufe="4" name="Bauinstallation" />
+        <deskriptor stufe="4" name="Friseurhandwerk" />
+        <deskriptor stufe="4" name="Holzhandwerk" />
+        <deskriptor stufe="4" name="Kunst" />
+        <deskriptor stufe="4" name="Optikerhandwerk" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Immobilienwirtschaft">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Gebäudemanagement" />
+        <deskriptor stufe="4" name="Grundbesitz" />
+        <deskriptor stufe="4" name="Grundsteuer" />
+        <deskriptor stufe="4" name="Immobilienmarkt" />
+        <deskriptor stufe="4" name="Immobilienwirtschaft" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Vermietung und Verpachtung von Immobilien">
+        <deskriptor stufe="4" name="Miete" />
+        <deskriptor stufe="4" name="Mietrecht" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Wohnungswirtschaft">
+        <deskriptor stufe="4" name="Soziologie des Wohnens" />
+        <deskriptor stufe="4" name="Wohnungsbaupolitik" />
+        <deskriptor stufe="4" name="Wohnungsmarkt" />
+        <deskriptor stufe="4" name="Zweitwohnung" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Industrie">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Hochtechnologiesektor" />
+        <deskriptor stufe="4" name="Industrie" />
+        <deskriptor stufe="4" name="Industriegeschichte" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Chemieindustrie">
+        <deskriptor stufe="4" name="Agrochemikalie" />
+        <deskriptor stufe="4" name="Arzneimittelkontrolle" />
+        <deskriptor stufe="4" name="Biotechnisches Produkt" />
+        <deskriptor stufe="4"
+        name="Biotechnologie und Gentechnik" />
+        <deskriptor stufe="4" name="Chemieberufe" />
+        <deskriptor stufe="4" name="Chemieindustrie" />
+        <deskriptor stufe="4" name="Mineralöl" />
+        <deskriptor stufe="4" name="Mineralölsteuer" />
+        <deskriptor stufe="4" name="Pharmahandel" />
+        <deskriptor stufe="4" name="Pharmazeutische Industrie" />
+        <deskriptor stufe="4"
+        name="Waschmittel und Körperpflegemittel" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Elektroindustrie">
+        <deskriptor stufe="4" name="Büroausstattung" />
+        <deskriptor stufe="4" name="Computerindustrie" />
+        <deskriptor stufe="4" name="EDV-Berufe" />
+        <deskriptor stufe="4" name="Elektroberufe" />
+        <deskriptor stufe="4" name="Elektrohaushaltsgerät" />
+        <deskriptor stufe="4" name="Elektroindustrie" />
+        <deskriptor stufe="4" name="Medizintechnisches Gerät" />
+        <deskriptor stufe="4" name="Messgerät" />
+        <deskriptor stufe="4"
+        name="Nachrichtentechnisches Gerät" />
+        <deskriptor stufe="4" name="Unterhaltungselektronik" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Fahrzeugbau">
+        <deskriptor stufe="4" name="Autogewerbe" />
+        <deskriptor stufe="4"
+        name="Kraftfahrzeugtechnische Berufe" />
+        <deskriptor stufe="4" name="Luftfahrzeug" />
+        <deskriptor stufe="4" name="Schienenfahrzeug" />
+        <deskriptor stufe="4" name="Strassenfahrzeug" />
+        <deskriptor stufe="4" name="Wasserfahrzeug" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Feinmechanische und Optische Industrie">
+        <deskriptor stufe="4" name="Medizintechnisches Gerät" />
+        <deskriptor stufe="4" name="Optikerhandwerk" />
+        <deskriptor stufe="4" name="Optisches Produkt" />
+        <deskriptor stufe="4" name="Uhrenindustrie" />
+        <deskriptor stufe="4" name="Uhrmacher und Juweliere" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Holzwirtschaft">
+        <deskriptor stufe="4" name="Holzhandwerk" />
+        <deskriptor stufe="4" name="Holzprodukt" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Kunststoff- und Gummiindustrie">
+        <deskriptor stufe="4" name="Gummiwaren" />
+        <deskriptor stufe="4" name="Kunststoff" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Leder- und Schuhindustrie">
+        <deskriptor stufe="4" name="Leder und Schuhe" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Maschinen- und Anlagebau">
+        <deskriptor stufe="4" name="Anlagenbau" />
+        <deskriptor stufe="4" name="Fördermittel" />
+        <deskriptor stufe="4" name="Maschine und Motor" />
+        <deskriptor stufe="4" name="Maschinenindustrie" />
+        <deskriptor stufe="4" name="Roboter" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Metallindustrie">
+        <deskriptor stufe="4" name="EBM-Waren" />
+        <deskriptor stufe="4" name="Edelmetall" />
+        <deskriptor stufe="4" name="Metallberufe" />
+        <deskriptor stufe="4" name="Metallindustrie" />
+        <deskriptor stufe="4" name="NE-Metall" />
+        <deskriptor stufe="4" name="Stahl" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Nahrungs- und Genussmittelgewerbe">
+        <deskriptor stufe="4" name="Alkohol" />
+        <deskriptor stufe="4" name="Backwaren" />
+        <deskriptor stufe="4" name="Bier" />
+        <deskriptor stufe="4" name="Ernährungsberufe" />
+        <deskriptor stufe="4" name="Fischwirtschaft" />
+        <deskriptor stufe="4" name="Fleischwaren" />
+        <deskriptor stufe="4" name="Futtermittel" />
+        <deskriptor stufe="4" name="Getränk" />
+        <deskriptor stufe="4" name="Lebensmittelüberwachung" />
+        <deskriptor stufe="4" name="Milchprodukt" />
+        <deskriptor stufe="4" name="Nahrungsmittelgewerbe" />
+        <deskriptor stufe="4" name="Süsswaren" />
+        <deskriptor stufe="4" name="Tabakwaren" />
+        <deskriptor stufe="4" name="Wein" />
+        <deskriptor stufe="4" name="Würzmittel und Speiseöl" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Papier- und Verlagsgewerbe">
+        <deskriptor stufe="4" name="Buch" />
+        <deskriptor stufe="4" name="Druckindustrie" />
+        <deskriptor stufe="4" name="Graphische Berufe" />
+        <deskriptor stufe="4" name="Papierprodukt" />
+        <deskriptor stufe="4" name="Pressefreiheit" />
+        <deskriptor stufe="4" name="Urheberrecht" />
+        <deskriptor stufe="4" name="Verlagsgewerbe" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Rüstungsindustrie">
+        <deskriptor stufe="4" name="Rüstungsindustrie" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Textil- und Bekleidungsindustrie">
+        <deskriptor stufe="4" name="Bekleidung" />
+        <deskriptor stufe="4" name="Textilberufe" />
+        <deskriptor stufe="4" name="Textilindustrie" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Übrige Industriezweige">
+        <deskriptor stufe="4" name="Automatenwirtschaft" />
+        <deskriptor stufe="4" name="Baustoff" />
+        <deskriptor stufe="4" name="Büroausstattung" />
+        <deskriptor stufe="4" name="Freizeitartikel" />
+        <deskriptor stufe="4" name="Medizintechnisches Gerät" />
+        <deskriptor stufe="4" name="Möbel" />
+        <deskriptor stufe="4" name="Musikwirtschaft" />
+        <deskriptor stufe="4" name="Schmuck" />
+        <deskriptor stufe="4" name="Uhrmacher und Juweliere" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Verpackungswirtschaft">
+        <deskriptor stufe="4" name="Verpackung" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Informationswirtschaft">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Informationsberufe" />
+        <deskriptor stufe="4" name="Informationsgesellschaft" />
+        <deskriptor stufe="4" name="Informationswirtschaft" />
+        <deskriptor stufe="4" name="Wirtschaftsarchiv" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Kultursektor">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Architektur" />
+        <deskriptor stufe="4" name="Filmwirtschaft" />
+        <deskriptor stufe="4" name="Künstlerische Berufe" />
+        <deskriptor stufe="4" name="Kulturpolitik" />
+        <deskriptor stufe="4" name="Kultursektor" />
+        <deskriptor stufe="4" name="Kunst" />
+        <deskriptor stufe="4" name="Museum" />
+        <deskriptor stufe="4" name="Musikwirtschaft" />
+        <deskriptor stufe="4" name="Sponsoring" />
+        <deskriptor stufe="4" name="Theater" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Landwirtschaft">
+      <deskriptor stufe="3" name="Agrarpolitik">
+        <deskriptor stufe="4" name="Agrarpolitik" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Agrargeschichte" />
+        <deskriptor stufe="4" name="Ernährung" />
+        <deskriptor stufe="4" name="Ernteschaden" />
+        <deskriptor stufe="4" name="Landwirtschaft" />
+        <deskriptor stufe="4"
+        name="Landwirtschaftliche Versicherung" />
+        <deskriptor stufe="4" name="Landwirtschaftsberufe" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Landwirtschaftliche Betriebssysteme">
+        <deskriptor stufe="4" name="Bergbauernwirtschaft" />
+        <deskriptor stufe="4" name="Landwirtschaftsbetrieb" />
+        <deskriptor stufe="4" name="Ökologischer Landbau" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Pflanzenbau">
+        <deskriptor stufe="4" name="Pflanzenbauprodukt" />
+        <deskriptor stufe="4" name="Wein" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Tierhaltung">
+        <deskriptor stufe="4" name="Jagd" />
+        <deskriptor stufe="4" name="Milch" />
+        <deskriptor stufe="4" name="Tierhaltung" />
+        <deskriptor stufe="4" name="Tierkrankheit" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Leasing">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Autovermietung" />
+        <deskriptor stufe="4" name="Leasing" />
+        <deskriptor stufe="4" name="Leiharbeit" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Medienwirtschaft">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Medienwirtschaft" />
+        <deskriptor stufe="4" name="Pressefreiheit" />
+        <deskriptor stufe="4" name="Publizistische Berufe" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Rundfunk- und Fernsehanstalten">
+        <deskriptor stufe="4" name="Fernsehen" />
+        <deskriptor stufe="4" name="Rundfunk" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Nonprofit-Sektor">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Nonprofit-Organisation" />
+        <deskriptor stufe="4" name="Spende" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Gemeinwirtschaft">
+        <deskriptor stufe="4" name="Genossenschaft" />
+        <deskriptor stufe="4" name="Kreditgenossenschaft" />
+        <deskriptor stufe="4" name="Öffentliches Unternehmen" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Gewerkschaften">
+        <deskriptor stufe="4" name="Arbeitsbeziehungen" />
+        <deskriptor stufe="4" name="Gewerkschaft" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Interessenvertretungen">
+        <deskriptor stufe="4" name="Ehrenamtliche Arbeit" />
+        <deskriptor stufe="4" name="Entwicklungshilfe" />
+        <deskriptor stufe="4" name="Interessenpolitik" />
+        <deskriptor stufe="4" name="Interessenvertretung" />
+        <deskriptor stufe="4" name="Nichtregierungsorganisation" />
+        <deskriptor stufe="4" name="Wohlfahrtsorganisation" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Religionsgemeinschaften">
+        <deskriptor stufe="4" name="Geistliche" />
+        <deskriptor stufe="4" name="Kirche" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Wirtschafts- und Berufsverbände">
+        <deskriptor stufe="4" name="Berufsverband" />
+        <deskriptor stufe="4" name="Wirtschaftsverband" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Öffentlicher Sektor">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Öffentlicher Dienst" />
+        <deskriptor stufe="4" name="Öffentlicher Sektor" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Militär">
+        <deskriptor stufe="4" name="Berufssoldaten" />
+        <deskriptor stufe="4" name="Militär" />
+        <deskriptor stufe="4" name="Rüstungspolitik" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Öffentliche Sicherheit und Justizverwaltung">
+        <deskriptor stufe="4" name="Arbeitsschutz" />
+        <deskriptor stufe="4" name="Justiz" />
+        <deskriptor stufe="4" name="Katastrophenhilfe" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Öffentliche Verwaltung">
+        <deskriptor stufe="4" name="Arbeitslosenversicherung" />
+        <deskriptor stufe="4" name="Arbeitsverwaltung" />
+        <deskriptor stufe="4" name="Auslandsvertretung" />
+        <deskriptor stufe="4" name="Büroberufe" />
+        <deskriptor stufe="4" name="Gemeinde" />
+        <deskriptor stufe="4" name="Kantone" />
+        <deskriptor stufe="4"
+        name="Öffentliche Finanzwirtschaft" />
+        <deskriptor stufe="4" name="Öffentliche Verwaltung" />
+        <deskriptor stufe="4" name="Städte" />
+        <deskriptor stufe="4" name="Verwaltungsreform" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Öffentliche Wirtschaft">
+        <deskriptor stufe="4" name="Kantonalbank" />
+        <deskriptor stufe="4" name="Öffentliche Beschaffung" />
+        <deskriptor stufe="4" name="Öffentlicher Verkehr" />
+        <deskriptor stufe="4" name="Öffentliches Unternehmen" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Wirtschaftsaufsicht und Wirtschaftsförderung">
+        <deskriptor stufe="4" name="Arbeitsschutz" />
+        <deskriptor stufe="4" name="Arzneimittelkontrolle" />
+        <deskriptor stufe="4" name="Finanzmarktaufsicht" />
+        <deskriptor stufe="4" name="Lebensmittelüberwachung" />
+        <deskriptor stufe="4" name="Preisaufsicht" />
+        <deskriptor stufe="4" name="Wettbewerbspolitik" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Post und Telekommunikation">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Postbankdienst" />
+        <deskriptor stufe="4" name="Postdienst" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Rundfunk und Fernsehen">
+        <deskriptor stufe="4" name="Fernsehen" />
+        <deskriptor stufe="4" name="Rundfunk" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Telekommunikation">
+        <deskriptor stufe="4" name="E-Business" />
+        <deskriptor stufe="4" name="Electronic Banking" />
+        <deskriptor stufe="4" name="Elektronische Post" />
+        <deskriptor stufe="4" name="Internet" />
+        <deskriptor stufe="4" name="Mobilkommunikation" />
+        <deskriptor stufe="4"
+        name="Nachrichtentechnisches Gerät" />
+        <deskriptor stufe="4" name="Online-Werbung" />
+        <deskriptor stufe="4" name="Telefon" />
+        <deskriptor stufe="4" name="Telekommunikation" />
+        <deskriptor stufe="4"
+        name="Telekommunikationsgesellschaft" />
+        <deskriptor stufe="4"
+        name="Telekommunikationsinfrastruktur" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Private Haushalte">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Alleinlebende" />
+        <deskriptor stufe="4" name="Familie" />
+        <deskriptor stufe="4" name="Familienpolitik" />
+        <deskriptor stufe="4" name="Familienunternehmen" />
+        <deskriptor stufe="4" name="Hausarbeit" />
+        <deskriptor stufe="4" name="Hauspersonal" />
+        <deskriptor stufe="4" name="Kinderbetreuung" />
+        <deskriptor stufe="4" name="Konsumentenpreisindex" />
+        <deskriptor stufe="4" name="Konsumentenverhalten" />
+        <deskriptor stufe="4" name="Privater Haushalt" />
+        <deskriptor stufe="4" name="Verbraucherkredit" />
+        <deskriptor stufe="4" name="Verbraucherschutz" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Rohstoffwirtschaft und Bergbau">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Bergbau" />
+        <deskriptor stufe="4" name="Glas und Keramik" />
+        <deskriptor stufe="4" name="Rohstoff" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Sozialwesen">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Sozialgeschichte" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Soziale Dienste">
+        <deskriptor stufe="4" name="Altenhilfe" />
+        <deskriptor stufe="4" name="Kinderbetreuung" />
+        <deskriptor stufe="4" name="Pflegeberufe" />
+        <deskriptor stufe="4" name="Sozialberufe" />
+        <deskriptor stufe="4" name="Wohlfahrtsorganisation" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Sozialpolitik">
+        <deskriptor stufe="4" name="Arbeitsschutz" />
+        <deskriptor stufe="4"
+        name="Betriebliche Sozialleistungen" />
+        <deskriptor stufe="4" name="Familienleistungsausgleich" />
+        <deskriptor stufe="4" name="Familienpolitik" />
+        <deskriptor stufe="4" name="Gesundheitspolitik" />
+        <deskriptor stufe="4" name="Jugendpolitik" />
+        <deskriptor stufe="4" name="Soziale Sicherung" />
+        <deskriptor stufe="4" name="Sozialhilfe" />
+        <deskriptor stufe="4" name="Sozialpolitik" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Sozialversicherung">
+        <deskriptor stufe="4" name="AHV" />
+        <deskriptor stufe="4" name="Alterssicherung" />
+        <deskriptor stufe="4" name="Arbeitslosenversicherung" />
+        <deskriptor stufe="4"
+        name="Betriebliche Altersversorgung" />
+        <deskriptor stufe="4" name="Erwerbsunfähigkeit" />
+        <deskriptor stufe="4" name="Krankenversicherung" />
+        <deskriptor stufe="4" name="Mutterschutz" />
+        <deskriptor stufe="4" name="Sozialversicherung" />
+        <deskriptor stufe="4" name="Unfallversicherung" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Sport">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Sponsoring" />
+        <deskriptor stufe="4" name="Sportler" />
+        <deskriptor stufe="4" name="Sportökonomik" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Umweltschutzsektor">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Naturschutz" />
+        <deskriptor stufe="4" name="Umweltberufe" />
+        <deskriptor stufe="4" name="Umweltmanagement" />
+        <deskriptor stufe="4" name="Umweltpolitik" />
+        <deskriptor stufe="4" name="Umweltschutzsektor" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Unternehmensdienstleistungen">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Auktion" />
+        <deskriptor stufe="4" name="Chemisches Labor" />
+        <deskriptor stufe="4" name="Gebäudereinigung" />
+        <deskriptor stufe="4"
+        name="Kapitalbeteiligungsgesellschaft" />
+        <deskriptor stufe="4" name="Leiharbeit" />
+        <deskriptor stufe="4" name="Marktforschung" />
+        <deskriptor stufe="4" name="Meinungsforschung" />
+        <deskriptor stufe="4" name="Sicherheitsgewerbe" />
+        <deskriptor stufe="4" name="Übersetzung" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Beratungsdienstleistungen">
+        <deskriptor stufe="4" name="Personalberatung" />
+        <deskriptor stufe="4" name="Private Banking" />
+        <deskriptor stufe="4" name="Rechtsberatung" />
+        <deskriptor stufe="4" name="Treuhänder" />
+        <deskriptor stufe="4" name="Unternehmensberatung" />
+        <deskriptor stufe="4" name="Wirtschaftsprüfung" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Messewirtschaft">
+        <deskriptor stufe="4" name="Grossveranstaltung" />
+        <deskriptor stufe="4" name="Messewirtschaft" />
+        <deskriptor stufe="4" name="Tagungswirtschaft" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Werbewirtschaft">
+        <deskriptor stufe="4" name="Online-Werbung" />
+        <deskriptor stufe="4" name="Verkaufsförderung" />
+        <deskriptor stufe="4" name="Werbeberufe" />
+        <deskriptor stufe="4" name="Werbewirtschaft" />
+        <deskriptor stufe="4" name="Werbung" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Verkehr und Tourismus">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Fahrplan" />
+        <deskriptor stufe="4"
+        name="Grenzüberschreitender Verkehr" />
+        <deskriptor stufe="4" name="Seilbahnverkehr" />
+        <deskriptor stufe="4" name="Verkehr" />
+        <deskriptor stufe="4" name="Verkehrsberufe" />
+        <deskriptor stufe="4" name="Verkehrsgeschichte" />
+        <deskriptor stufe="4" name="Verkehrsinfrastruktur" />
+        <deskriptor stufe="4" name="Verkehrssicherheit" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Güterverkehr">
+        <deskriptor stufe="4" name="Eisenbahngüterverkehr" />
+        <deskriptor stufe="4" name="Güterverkehr" />
+        <deskriptor stufe="4" name="Güterverkehrsgewerbe" />
+        <deskriptor stufe="4" name="Strassengüterverkehr" />
+        <deskriptor stufe="4" name="Transportversicherung" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Luftverkehr">
+        <deskriptor stufe="4" name="Flughafen" />
+        <deskriptor stufe="4" name="Luftfahrtversicherung" />
+        <deskriptor stufe="4" name="Luftverkehr" />
+        <deskriptor stufe="4" name="Luftverkehrspolitik" />
+        <deskriptor stufe="4" name="Raumfahrt" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Personenverkehr">
+        <deskriptor stufe="4" name="Fahrradverkehr" />
+        <deskriptor stufe="4" name="Fussgängerverkehr" />
+        <deskriptor stufe="4" name="Öffentlicher Verkehr" />
+        <deskriptor stufe="4" name="Pendelverkehr" />
+        <deskriptor stufe="4" name="Taxigewerbe" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Schienenverkehr">
+        <deskriptor stufe="4" name="Bahnhof" />
+        <deskriptor stufe="4" name="Eisenbahngüterverkehr" />
+        <deskriptor stufe="4" name="Eisenbahnpolitik" />
+        <deskriptor stufe="4" name="Eisenbahntechnik" />
+        <deskriptor stufe="4" name="Eisenbahnverkehr" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Schifffahrt">
+        <deskriptor stufe="4" name="Rheinhafen" />
+        <deskriptor stufe="4" name="Rheinschifffahrt" />
+        <deskriptor stufe="4" name="Schifffahrt" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Strassenbau">
+        <deskriptor stufe="4" name="Strassenbau" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Strassenverkehr">
+        <deskriptor stufe="4" name="Alpenstrasse" />
+        <deskriptor stufe="4" name="Autovermietung" />
+        <deskriptor stufe="4" name="Fahrradverkehr" />
+        <deskriptor stufe="4" name="Fussgängerverkehr" />
+        <deskriptor stufe="4" name="Kraftfahrtversicherung" />
+        <deskriptor stufe="4" name="Kraftfahrzeugsteuer" />
+        <deskriptor stufe="4" name="Ruhender Verkehr" />
+        <deskriptor stufe="4" name="Strassenbenutzungsgebühr" />
+        <deskriptor stufe="4" name="Strassengüterverkehr" />
+        <deskriptor stufe="4" name="Strassenverkehr" />
+        <deskriptor stufe="4" name="Taxigewerbe" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Tourismus">
+        <deskriptor stufe="4" name="Camping und Jugendherberge" />
+        <deskriptor stufe="4" name="Fremdenverkehrsberufe" />
+        <deskriptor stufe="4" name="Heilbad" />
+        <deskriptor stufe="4" name="Hotelgewerbe" />
+        <deskriptor stufe="4" name="Reisevermittler" />
+        <deskriptor stufe="4" name="Tagungswirtschaft" />
+        <deskriptor stufe="4" name="Tourismus" />
+        <deskriptor stufe="4" name="Tourismusmarketing" />
+        <deskriptor stufe="4" name="Urlaubsverhalten" />
+        <deskriptor stufe="4" name="Zweitwohnung" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Verkehrsgeographie und Verkehrspolitik">
+        <deskriptor stufe="4" name="Eisenbahnpolitik" />
+        <deskriptor stufe="4" name="Mobilität (Verkehr)" />
+        <deskriptor stufe="4" name="Öffentlicher Verkehr" />
+        <deskriptor stufe="4" name="Pendelverkehr" />
+        <deskriptor stufe="4" name="Regionale Verkehrspolitik" />
+        <deskriptor stufe="4" name="Strassenbau" />
+        <deskriptor stufe="4" name="Strassenverkehr" />
+        <deskriptor stufe="4" name="Verdichtungsverkehr" />
+        <deskriptor stufe="4" name="Verkehrspolitik" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Verkehrspolitik">
+        <deskriptor stufe="4" name="Kraftfahrzeugsteuer" />
+        <deskriptor stufe="4" name="Luftverkehrspolitik" />
+        <deskriptor stufe="4" name="Strassenbenutzungsgebühr" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Versicherungswesen">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4"
+        name="Bankgeschichte und Versicherungsgeschichte" />
+        <deskriptor stufe="4" name="Rückversicherung" />
+        <deskriptor stufe="4" name="Versicherung" />
+        <deskriptor stufe="4" name="Versicherungsberufe" />
+        <deskriptor stufe="4" name="Versicherungsbetrieb" />
+        <deskriptor stufe="4" name="Versicherungsrecht" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Versicherungszweige">
+        <deskriptor stufe="4" name="Haftpflichtversicherung" />
+        <deskriptor stufe="4" name="Kraftfahrtversicherung" />
+        <deskriptor stufe="4" name="Krankenversicherung" />
+        <deskriptor stufe="4"
+        name="Landwirtschaftliche Versicherung" />
+        <deskriptor stufe="4" name="Lebensversicherung" />
+        <deskriptor stufe="4" name="Luftfahrtversicherung" />
+        <deskriptor stufe="4" name="Sachversicherung" />
+        <deskriptor stufe="4" name="Transportversicherung" />
+        <deskriptor stufe="4" name="Unfallversicherung" />
+        <deskriptor stufe="4" name="Unternehmensversicherung" />
+      </deskriptor>
+    </deskriptor>
+  </deskriptor>
+  <deskriptor stufe="1" name="Nachbarwissenschaften">
+    <deskriptor stufe="2" name="Demographie und Bevölkerung">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Alleinlebende" />
+        <deskriptor stufe="4" name="Alte Menschen" />
+        <deskriptor stufe="4" name="Alternde Bevölkerung" />
+        <deskriptor stufe="4" name="Ausländer" />
+        <deskriptor stufe="4" name="Behinderte" />
+        <deskriptor stufe="4" name="Bevölkerung" />
+        <deskriptor stufe="4" name="Familie" />
+        <deskriptor stufe="4" name="Frauen" />
+        <deskriptor stufe="4" name="Jugendliche" />
+        <deskriptor stufe="4" name="Männer" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Bevölkerungsentwicklung">
+        <deskriptor stufe="4" name="Familienplanung" />
+        <deskriptor stufe="4" name="Geburtenrate" />
+        <deskriptor stufe="4" name="Sterblichkeit" />
+        <deskriptor stufe="4" name="Volkszählung" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Wanderung und Mobilität der Bevölkerung">
+        <deskriptor stufe="4" name="Auswanderung" />
+        <deskriptor stufe="4" name="Binnenwanderung" />
+        <deskriptor stufe="4" name="Einwanderung" />
+        <deskriptor stufe="4" name="Flüchtlinge" />
+        <deskriptor stufe="4" name="Migrationspolitik" />
+        <deskriptor stufe="4" name="Mobilität (Verkehr)" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Geschichte">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Agrargeschichte" />
+        <deskriptor stufe="4"
+        name="Bankgeschichte und Versicherungsgeschichte" />
+        <deskriptor stufe="4" name="Business History" />
+        <deskriptor stufe="4" name="Finanzgeschichte" />
+        <deskriptor stufe="4" name="Geldgeschichte" />
+        <deskriptor stufe="4"
+        name="Geschichte Schweiz - Zweiter Weltkrieg" />
+        <deskriptor stufe="4" name="Handelsgeschichte" />
+        <deskriptor stufe="4" name="Industriegeschichte" />
+        <deskriptor stufe="4" name="Regionalgeschichte" />
+        <deskriptor stufe="4" name="Sozialgeschichte" />
+        <deskriptor stufe="4" name="Stadtgeschichte" />
+        <deskriptor stufe="4" name="Technikgeschichte" />
+        <deskriptor stufe="4" name="Verkehrsgeschichte" />
+        <deskriptor stufe="4" name="Wirtschaftsgeschichte" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Naturwissenschaften und Technik">
+      <deskriptor stufe="3" name="Geowissenschaften und Umwelt">
+        <deskriptor stufe="4" name="Bodenbelastung" />
+        <deskriptor stufe="4" name="Gebirge" />
+        <deskriptor stufe="4" name="Gewässerschutz" />
+        <deskriptor stufe="4" name="Kartographie" />
+        <deskriptor stufe="4" name="Klima" />
+        <deskriptor stufe="4" name="Luftverunreinigung" />
+        <deskriptor stufe="4" name="Naturkatastrophe" />
+        <deskriptor stufe="4" name="Naturschutz" />
+        <deskriptor stufe="4" name="Tierschutz" />
+        <deskriptor stufe="4" name="Umwelt" />
+        <deskriptor stufe="4" name="Waldschaden" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Informationstechnik und Informatik">
+        <deskriptor stufe="4" name="Automation" />
+        <deskriptor stufe="4" name="Datensicherheit" />
+        <deskriptor stufe="4" name="Informationsmanagement" />
+        <deskriptor stufe="4" name="Informationstechnik" />
+        <deskriptor stufe="4" name="Internet" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Medizin und Ernährungswissenschaft, Biowissenschaft">
+        <deskriptor stufe="4" name="Alkohol" />
+        <deskriptor stufe="4" name="Berufskrankheit" />
+        <deskriptor stufe="4"
+        name="Biotechnologie und Gentechnik" />
+        <deskriptor stufe="4" name="Droge" />
+        <deskriptor stufe="4" name="Ernährung" />
+        <deskriptor stufe="4" name="Gesundheit und Krankheit" />
+        <deskriptor stufe="4" name="Gesundheitsvorsorge" />
+        <deskriptor stufe="4" name="Sterblichkeit" />
+        <deskriptor stufe="4" name="Tierkrankheit" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Technik und Ingenieurwissenschaften">
+        <deskriptor stufe="4"
+        name="Biotechnologie und Gentechnik" />
+        <deskriptor stufe="4" name="Hochtechnologiesektor" />
+        <deskriptor stufe="4" name="Informationstechnik" />
+        <deskriptor stufe="4" name="Nanotechnologie" />
+        <deskriptor stufe="4" name="Normung" />
+        <deskriptor stufe="4" name="Technikgeschichte" />
+        <deskriptor stufe="4"
+        name="Technisch-organisatorischer Fortschritt" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Politik und Politikwissenschaft">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4"
+        name="Deutsche Schweiz - Lateinische Schweiz" />
+        <deskriptor stufe="4" name="Politische Gewalt" />
+        <deskriptor stufe="4" name="Politisches System" />
+        <deskriptor stufe="4" name="Verfassung" />
+        <deskriptor stufe="4" name="Zukunftsforschung" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Felder der Politik">
+        <deskriptor stufe="4" name="Beschäftigungspolitik" />
+        <deskriptor stufe="4" name="Bildungspolitik" />
+        <deskriptor stufe="4" name="Familienpolitik" />
+        <deskriptor stufe="4" name="Finanzpolitik" />
+        <deskriptor stufe="4"
+        name="Forschungs- und Technologiepolitik" />
+        <deskriptor stufe="4" name="Frauenpolitik" />
+        <deskriptor stufe="4" name="Geldpolitik und Währung" />
+        <deskriptor stufe="4" name="Gesundheitspolitik" />
+        <deskriptor stufe="4" name="Jugendpolitik" />
+        <deskriptor stufe="4" name="Konjunkturpolitik" />
+        <deskriptor stufe="4" name="Kulturpolitik" />
+        <deskriptor stufe="4" name="Migrationspolitik" />
+        <deskriptor stufe="4" name="Raumplanung" />
+        <deskriptor stufe="4" name="Rechtsangleichung" />
+        <deskriptor stufe="4" name="Regionalpolitik" />
+        <deskriptor stufe="4" name="Sozialpolitik" />
+        <deskriptor stufe="4"
+        name="Städtebaupolitik und Kommunalplanung" />
+        <deskriptor stufe="4" name="Steuerpolitik" />
+        <deskriptor stufe="4" name="Umweltpolitik" />
+        <deskriptor stufe="4" name="Verkehrspolitik" />
+        <deskriptor stufe="4" name="Wirtschaftspolitik" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Internationale Beziehungen und Aussenpolitik">
+        <deskriptor stufe="4" name="Auslandsvertretung" />
+        <deskriptor stufe="4" name="Aussenwirtschaftspolitik" />
+        <deskriptor stufe="4" name="Berufssoldaten" />
+        <deskriptor stufe="4" name="Entwicklungshilfe" />
+        <deskriptor stufe="4" name="Euro" />
+        <deskriptor stufe="4" name="Europa-Debatte" />
+        <deskriptor stufe="4" name="Europäische Union - Schweiz" />
+        <deskriptor stufe="4" name="Europapolitik" />
+        <deskriptor stufe="4" name="Globalisierung" />
+        <deskriptor stufe="4"
+        name="Internationale Wirtschaftsbeziehungen" />
+        <deskriptor stufe="4" name="Katastrophenhilfe" />
+        <deskriptor stufe="4" name="Militär" />
+        <deskriptor stufe="4" name="Rechtsangleichung" />
+        <deskriptor stufe="4" name="Rüstungspolitik" />
+        <deskriptor stufe="4" name="Sanktion" />
+        <deskriptor stufe="4" name="Verhandlungen" />
+        <deskriptor stufe="4" name="Wirtschaftsbeziehungen CH" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Politische Organisationen und Bewegungen">
+        <deskriptor stufe="4" name="Arbeiterbewegung" />
+        <deskriptor stufe="4" name="Berufsverband" />
+        <deskriptor stufe="4" name="Gewerkschaft" />
+        <deskriptor stufe="4" name="Interessenpolitik" />
+        <deskriptor stufe="4" name="Interessenvertretung" />
+        <deskriptor stufe="4" name="Nichtregierungsorganisation" />
+        <deskriptor stufe="4" name="Parteienfinanzierung" />
+        <deskriptor stufe="4" name="Politiker" />
+        <deskriptor stufe="4" name="Politische Partei" />
+        <deskriptor stufe="4" name="Soziale Bewegung" />
+        <deskriptor stufe="4" name="Wirtschaftsverband" />
+        <deskriptor stufe="4" name="Wohlfahrtsorganisation" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Regierung und öffentliche Verwaltung">
+        <deskriptor stufe="4" name="Arbeitsverwaltung" />
+        <deskriptor stufe="4" name="Auslandsvertretung" />
+        <deskriptor stufe="4" name="Öffentliche Verwaltung" />
+        <deskriptor stufe="4" name="Öffentlicher Dienst" />
+        <deskriptor stufe="4" name="Öffentlicher Sektor" />
+        <deskriptor stufe="4" name="Politiker" />
+        <deskriptor stufe="4" name="Verwaltungsreform" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Psychologie">
+      <deskriptor stufe="3"
+      name="Arbeits- und Organisationspsychologie">
+        <deskriptor stufe="4" name="Berufswahl" />
+        <deskriptor stufe="4" name="Betriebsklima" />
+        <deskriptor stufe="4" name="Personalführung" />
+        <deskriptor stufe="4" name="Unternehmenskultur" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Werbe- und Konsumentenpsychologie">
+        <deskriptor stufe="4" name="Konsumentenverhalten" />
+        <deskriptor stufe="4" name="Marketing" />
+        <deskriptor stufe="4" name="Marktforschung" />
+        <deskriptor stufe="4" name="Verkaufsförderung" />
+        <deskriptor stufe="4" name="Werbung" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Recht und Rechtswissenschaft">
+      <deskriptor stufe="3" name="Allgemein">
+        <deskriptor stufe="4" name="Doppelbesteuerung" />
+        <deskriptor stufe="4" name="Justiz" />
+        <deskriptor stufe="4" name="Rechtsangleichung" />
+        <deskriptor stufe="4" name="Rechtsberatung" />
+        <deskriptor stufe="4" name="Rechtsberufe" />
+        <deskriptor stufe="4" name="Sanktion" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Arbeitsrecht">
+        <deskriptor stufe="4" name="Arbeitsrecht" />
+        <deskriptor stufe="4" name="Arbeitsschutz" />
+        <deskriptor stufe="4" name="Arbeitsvertrag" />
+        <deskriptor stufe="4" name="Mitbestimmung" />
+        <deskriptor stufe="4" name="Mutterschutz" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Finanz- und Steuerrecht">
+        <deskriptor stufe="4" name="Doppelbesteuerung" />
+        <deskriptor stufe="4" name="Steuer" />
+        <deskriptor stufe="4" name="Steuerstraftat" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Öffentliches Recht">
+        <deskriptor stufe="4" name="Arzneimittelkontrolle" />
+        <deskriptor stufe="4" name="Baurecht" />
+        <deskriptor stufe="4" name="Computerkriminalität" />
+        <deskriptor stufe="4" name="Datenschutz" />
+        <deskriptor stufe="4" name="Geldwäsche" />
+        <deskriptor stufe="4" name="Industriespionage" />
+        <deskriptor stufe="4" name="Lebensmittelüberwachung" />
+        <deskriptor stufe="4" name="Naturschutz" />
+        <deskriptor stufe="4" name="Pressefreiheit" />
+        <deskriptor stufe="4" name="Produktpiraterie" />
+        <deskriptor stufe="4" name="Schmuggel" />
+        <deskriptor stufe="4" name="Schwarzarbeit" />
+        <deskriptor stufe="4" name="Steuerstraftat" />
+        <deskriptor stufe="4" name="Verfassung" />
+        <deskriptor stufe="4" name="Verwaltungsreform" />
+        <deskriptor stufe="4" name="Wirtschaftskriminalität" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Privatrecht">
+        <deskriptor stufe="4" name="Exportgarantie" />
+        <deskriptor stufe="4" name="Handelsregister" />
+        <deskriptor stufe="4" name="Kartell" />
+        <deskriptor stufe="4" name="Konkurs" />
+        <deskriptor stufe="4" name="Markenrecht" />
+        <deskriptor stufe="4" name="Mietrecht" />
+        <deskriptor stufe="4" name="Patentrecht" />
+        <deskriptor stufe="4" name="Produkthaftung" />
+        <deskriptor stufe="4" name="Rechtsform" />
+        <deskriptor stufe="4" name="Unlauterer Wettbewerb" />
+        <deskriptor stufe="4" name="Urheberrecht" />
+        <deskriptor stufe="4" name="Verbraucherschutz" />
+        <deskriptor stufe="4" name="Versicherungsrecht" />
+      </deskriptor>
+      <deskriptor stufe="3" name="Wirtschaftsrecht">
+        <deskriptor stufe="4" name="Bankrecht" />
+        <deskriptor stufe="4" name="Gewerberecht" />
+        <deskriptor stufe="4" name="Kapitalmarktrecht" />
+        <deskriptor stufe="4" name="Verfassung" />
+        <deskriptor stufe="4" name="Wirtschaftsrecht" />
+      </deskriptor>
+    </deskriptor>
+    <deskriptor stufe="2" name="Soziologie">
+      <deskriptor stufe="3"
+      name="Gesellschaft und sozialer Wandel">
+        <deskriptor stufe="4" name="Armut" />
+        <deskriptor stufe="4" name="Einkommen und Vermögen" />
+        <deskriptor stufe="4" name="Informationsgesellschaft" />
+        <deskriptor stufe="4" name="Lebensstandard" />
+        <deskriptor stufe="4" name="Mittelstand" />
+        <deskriptor stufe="4" name="Reichtum" />
+        <deskriptor stufe="4" name="Soziale Bewegung" />
+        <deskriptor stufe="4" name="Sozialstruktur" />
+        <deskriptor stufe="4" name="Stakeholder" />
+        <deskriptor stufe="4"
+        name="Technisch-organisatorischer Fortschritt" />
+        <deskriptor stufe="4" name="Unternehmensorganisation" />
+      </deskriptor>
+      <deskriptor stufe="3"
+      name="Soziales Verhalten und soziale Gruppen">
+        <deskriptor stufe="4" name="Alkohol" />
+        <deskriptor stufe="4" name="Alleinlebende" />
+        <deskriptor stufe="4" name="Alte Menschen" />
+        <deskriptor stufe="4" name="Armut" />
+        <deskriptor stufe="4" name="Ausländer" />
+        <deskriptor stufe="4" name="Behinderte" />
+        <deskriptor stufe="4" name="Droge" />
+        <deskriptor stufe="4" name="Familie" />
+        <deskriptor stufe="4" name="Flüchtlinge" />
+        <deskriptor stufe="4" name="Frauen" />
+        <deskriptor stufe="4" name="Freizeitverhalten" />
+        <deskriptor stufe="4" name="Jugendliche" />
+        <deskriptor stufe="4" name="Männer" />
+        <deskriptor stufe="4" name="Meinungsforschung" />
+        <deskriptor stufe="4" name="Sexgewerbe" />
+        <deskriptor stufe="4" name="Soziologie des Wohnens" />
+        <deskriptor stufe="4" name="Urlaubsverhalten" />
+        <deskriptor stufe="4" name="Verhandlungen" />
+        <deskriptor stufe="4" name="Zeit" />
+      </deskriptor>
+    </deskriptor>
+  </deskriptor>
+</swa-sachdokumentation-thesaurus>
