@@ -1,0 +1,10 @@
+HAN-Verbundtektonik
+01.04.2015/bmt
+---------------------------------------------------
+
+Die HAN-Verbundtektonik ist eine hierarchische Darstellung des gesamten Verbundkataloges (soweit hierarchische Verknüpfungen vorhanden sind).
+Aus Kapazitätsgründen wird die Verbundtektonik nicht von Grund auf aufgebaut, sondern holt sich die tree-items.js-Dateien der anderen Hierarchien und fügt diese mit sed/cat
+zusammen. Ausführungszeit < 1 min.
+
+In den Skripts zum Erstellen der einzelnen Hierarchien wird am Schluss das Skript make-han.sh aufgerufen, damit nach Aktualisierung der einzelnen Hierarchien auch die Verbundtektonik neu aufgebaut wird.
+Entsprechend muss make-han.sh im Regelfall nicht manuell ausgelöst werden.
