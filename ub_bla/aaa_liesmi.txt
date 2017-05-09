@@ -1,0 +1,160 @@
+Aufbereitung des Webkatalogs BLA
+--------------------------------
+rev. 15.02.2012/ava
+
+0. AddOns kontrollieren
+======================================
+[beliebter Fehler: 'file://'-Link auf pics]
+$ cd /intranet/edv/public/bla
+$ grep -l 'file:/' *htm
+
+
+1. Selektion und Aufbereitung in Aleph
+======================================
+Aleph GUI, DSV01, Services
+
+Datensaetze mit CCL suchen (b-ret03):
+
+  CCL-Ausdruck: wlc=blaaut
+  Output:       blaaut
+
+  CCL-Ausdruck: wlc=blalit
+  Output:       blalit
+
+Datensaetze drucken (print-01):
+
+  Input:  blalit
+  Output: blalit-card
+  Format: Katalogkarte mit Signatur
+
+  Input:  blaaut
+  Output: blaaut-card
+  Format: Katalogkarte mit Signatur
+
+  Input:  blaaut
+  Output: blaaut-fieldno
+  Format: Feldnummern
+
+
+2. Download und Vorbereitung
+============================
+
+# download
+scp aleph@aleph.unibas.ch:/exlibris/aleph/u20_1/dsv01/print/blaaut-card     tmp-blaaut-card
+scp aleph@aleph.unibas.ch:/exlibris/aleph/u20_1/dsv01/print/blaaut-fieldno  tmp-blaaut-fieldno
+scp aleph@aleph.unibas.ch:/exlibris/aleph/u20_1/dsv01/print/blalit-card     tmp-blalit-card
+
+# erste zeile weg
+sed '1d' tmp-blaaut-card    > tmp-blaaut.xml
+sed '1d' tmp-blaaut-fieldno > tmp-blaaut-fieldno.xml
+sed '1d' tmp-blalit-card    > tmp-blalit.xml
+
+# Text extrahieren
+saxon -o blaaut.txt   tmp-blaaut.xml          blaaut.xsl
+saxon -o blaaut.marc  tmp-blaaut-fieldno.xml  print-01-fieldno.xsl
+saxon -o blalit.txt   tmp-blalit.xml          blalit.xsl
+
+# Zeichensatz nach Latin1 kopieren
+perl -Mava::utf::utf2ansi -e '$f=ava::utf::utf2ansi->new;$f->fileconv("blaaut.txt")'
+perl -Mava::utf::utf2ansi -e '$f=ava::utf::utf2ansi->new;$f->fileconv("blaaut.marc")'
+perl -Mava::utf::utf2ansi -e '$f=ava::utf::utf2ansi->new;$f->fileconv("blalit.txt")'
+
+# putzen
+rm -f tmp-*
+rm -f blaaut.txt.orig
+rm -f blaaut.marc.orig
+rm -f blalit.txt.orig
+
+# alte Dateien loeschen
+rm -f output/bla_*.htm
+
+
+3. Aufbereiten der Webseiten
+============================
+perl makebla.pl
+
+
+4. Dateien publizieren
+======================
+# Neue Bilder auf Server kopieren
+  perl upload_pics.pl ub-webqm
+  perl upload_pics.pl ub-webvm
+
+# Datum aktualisieren in index.htm, intro.htm
+  cd output
+  vi index.htm
+  vi intro.htm
+
+# lokal:
+  cd output
+  rm -f bla.zip
+  zip bla.zip * -x 'pic/'
+  scp bla.zip webmaster@ub-webqm:/export/www/htdocs/spez/bla
+  scp bla.zip webmaster@ub-webvm:/export/www/htdocs/spez/bla
+
+# auf dem Webserver:
+  cd htdocs/spez/bla
+  rm bla_*
+  unzip bla.zip
+
+
+5. Siehe auch:
+===============
+http://ub-files.ub.unibas.ch/edv/public/bla/
+
+
+6. Statistiken
+==============
+
+* Stand 12.10.2012
+Total Autoren:          396
+Total AutorenWerke:     2298
+Total Sammelschriften:  83
+
+* Stand 16.02.2012
+
+Total Autoren:          397
+Total AutorenWerke:     2277
+Total Sammelschriften:  80
+
+* Stand 04.08.2011
+
+Total Autoren:          385
+Total AutorenWerke:     2249
+Total Sammelschriften:  75
+
+* Stand 15.04.2010
+
+Total Autoren:          378
+Total AutorenWerke:     2215
+Total Sammelschriften:  74
+
+* Stand 15.04.2009
+
+Total Autoren:          375
+Total AutorenWerke:     2202
+Total Sammelschriften:  74
+
+* Stand 23.10.2007
+
+Total Autoren:          371
+Total AutorenWerke:     2184
+Total Sammelschriften:  75
+
+* Stand 28.06.2007
+
+Total Autoren:          365
+Total AutorenWerke:     2164
+Total Sammelschriften:  74
+
+* Stand 1.02.2007
+
+Total Autoren:          366
+Total AutorenWerke:     2151
+Total Sammelschriften:  73
+
+* Stand 2006
+
+Total Autoren:          373
+Total AutorenWerke:     2105
+Total Sammelschriften:  78
