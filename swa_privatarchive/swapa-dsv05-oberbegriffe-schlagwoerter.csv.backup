@@ -1,0 +1,75 @@
+"# SWA Privatarchive: Oberbegriffe für Sachschlagwörter",,
+"#",,
+"# Spalte A: arCHeco Deskriptor (in DSV05 kodiert als 690W2)",,
+"# Spalte B: Unter diesem STW-Thesaurusbegriff wird der Deskriptor dargestellt",,
+"# Spalte C: weitere Unterteilung (nur wenn ein STW-Thesaurusbegriff mehrere Deskriptoren umfasst)",,
+"#",,
+"# Stand: 27.08.2010 / ava",,
+"#",,
+"Abfallwirtschaft","Abfallwirtschaft und Recycling",
+"Bank","Finanz- und Kreditwesen",
+"Baugewerbe","Bauwirtschaft","Baugewerbe"
+"Baustoffindustrie","Industrie","Baustoffindustrie"
+"Bekleidungsindustrie","Industrie","Bekleidungsindustrie"
+"Beratung","Unternehmensdienstleistungen","Beratung"
+"Bergbau","Rohstoffwirtschaft und Bergbau","Bergbau"
+"Chemische Industrie","Industrie","Chemische Industrie"
+"Detailhandel","Handel","Detailhandel"
+"Dienstleistungen","Dienstleistungen","Dienstleistungen"
+"Diverse Dienstleistungen","Dienstleistungen","Diverse Dienstleistungen"
+"Diverse Industrien","Industrie","Diverse Industrien"
+"Elektronikindustrie","Industrie","Elektronikindustrie"
+"Elektrotechnische Industrie","Industrie","Elektrotechnische Industrie"
+"Energiewirtschaft","Energie- und Wasserwirtschaft","Energiewirtschaft"
+"Fahrzeugindustrie","Industrie","Fahrzeugindustrie"
+"Feinmechanische Industrie","Industrie","Feinmechanische Industrie"
+"Fischerei","Fischerei",
+"Forschung","Forschung und Entwicklung",
+"Forstwirtschaft","Forstwirtschaft",
+"Freizeitindustrie","Freizeitwirtschaft",
+"Gastgewerbe","Gastgewerbe",
+"Gesundheitspflege","Gesundheits- und Veterinärwesen",
+"Getränkeindustrie","Industrie","Getränkeindustrie"
+"Glasindustrie","Rohstoffwirtschaft und Bergbau","Glasindustrie"
+"Graphisches Gewerbe","Industrie","Graphisches Gewerbe"
+"Handel","Handel","Handel"
+"Holzindustrie","Industrie","Holzindustrie"
+"Immobilien","Immobilienwirtschaft",
+"Industrie","Industrie","Industrie"
+"Informationswirtschaft","Informationswirtschaft",
+"Keramische Industrie","Rohstoffwirtschaft und Bergbau","Keramische Industrie"
+"Kunstgewerbe","Handwerk","Kunstgewerbe"
+"Kunststoffindustrie","Industrie","Kunststoffindustrie"
+"Körperpflege","Handwerk","Körperpflege"
+"Landwirtschaft","Landwirtschaft",
+"Lebensmittelindustrie","Industrie","Lebensmittelindustrie"
+"Lederindustrie","Industrie","Lederindustrie"
+"Maschinenindustrie","Industrie","Maschinenindustrie"
+"Medien","Medienwirtschaft",
+"Metallindustrie","Industrie","Metallindustrie"
+"Möbelindustrie","Industrie","Möbelindustrie"
+"Nonprofit-Organisation","Nonprofit-Sektor",
+"Optische Industrie","Industrie","Optische Industrie"
+"Papierindustrie","Industrie","Papierindustrie"
+"Planung","Bauwirtschaft","Planung"
+"Politik","Öffentlicher Sektor","Politik"
+"Privathaushalt","Private Haushalte",
+"Reparaturgewerbe","Handel","Reparaturgewerbe"
+"Schmuckwarenindustrie","Industrie","Schmuckwarenindustrie"
+"Softwareindustrie","Datenverarbeitungswirtschaft",
+"Sozialwesen","Sozialwesen",
+"Sport","Sport",
+"Tabakindustrie","Industrie","Tabakindustrie"
+"Telekommunikation","Post und Telekommunikation",
+"Textilindustrie","Industrie","Textilindustrie"
+"Uhrenindustrie","Industrie","Uhrenindustrie"
+"Umweltschutzsektor","Umweltschutzsektor",
+"Unterhaltungsindustrie","Kultursektor",
+"Unterricht","Bildungswesen",
+"Verkehr","Verkehr und Tourismus",
+"Vermietung","Leasing",
+"Versicherung","Versicherungswesen",
+"Wasserversorgung","Energie- und Wasserwirtschaft","Wasserversorgung"
+"Werbewirtschaft","Unternehmensdienstleistungen","Werbewirtschaft"
+"Wertpapierhandel","Börsen und Wertpapierhandel",
+"Öffentliche Verwaltung","Öffentlicher Sektor","Öffentliche Verwaltung"

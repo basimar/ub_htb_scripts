@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>SWA Privatarchive</title>
+<style type="text/css">
+body {
+ font-family:sans-serif;
+ font-size:80%
+}
+pre {
+ font-size:120%;
+ background-color:#f0f0ff;
+ border:1px solid black;
+ padding:2mm;
+}
+</style>
+</head>
+<body>
+<h1>Webseiten für SWA Privatarchive generieren</h1>
+
+<a href="http://www.ub.unibas.ch/ub-wirtschaft-swa/schweiz-wirtschaftsarchiv/privatarchive/">http://www.ub.unibas.ch/ub-wirtschaft-swa/schweiz-wirtschaftsarchiv/privatarchive/</a>
+
+<h2>Systematische Gliederung aktualisieren</h2>
+<ol>
+<li>Lokale Kopie von DSV05 aktualisieren
+<pre>
+cd /intranet/ordnungssystem/1_Eigene-Organisation/15_IT/153_Bibliothekssysteme/bibtools/hierarchie_toolbox/alephdata
+./download-dsv05-sequential.sh 
+</pre>
+</li>
+
+<li>Konversionsskript ausführen
+<pre>
+cd /intranet/ordnungssystem/1_Eigene-Organisation/15_IT/153_Bibliothekssysteme/bibtools/hierarchie_toolbox/swa_privatarchive/
+./make-swapa.sh
+</pre>
+Das Skript
+<ul>
+    <li>... verarbeitet eine lokale Kopie von DSV05 und selektioniert daraus
+      Daten aus DSV05 mit Feld 909 $f = "swapa*".</li>
+    <li>... verarbeitet eine manuell gepflegte CSV-Datei 
+      <a href="swapa-dsv05-oberbegriffe-schlagwoerter.csv">swapa-dsv05-oberbegriffe-schlagwoerter.csv</a>. 
+      Diese Datei ist eine Konkordanz zwischen den arCHeco Schlagwörter,
+      die in den DSV05 Daten im Feld 690W2 kodiert werden, und den 1-2 
+      stufigen STW-Deskriptoren, wie sie im Hierarchiebaum verwendet werden.</li>
+    <li>... konstruiert aus dieser CSV-Datei die STW-Hierarchie, sucht zu 
+      jedem Deskriptor die zugehörigen Aleph-Daten und sortiert sie in
+      die Hierarchie ein. Aus diesen Informatonen wird das die JavaScript-Datei
+      für das Treemenu Tool generiert. Verwendet werden die Aleph-Felder:
+    <ul>
+        <li><b>690W2</b>: fuer Lookup des STW-Deskriptors</li>
+        <li><b>245</b>: fuer den Firmennamen</li>
+        <li><b>001</b>: fuer Javascript-Link nach Aleph</li>
+    </ul>
+    </li>
+    <li>... ergänzt mit einem separaten Skript die Treemenu Datei zur
+      korrekten Anzeige der Deskriptoren, für die keine Aleph-Aufnahmen
+      existieren.</li>
+    <li>... generiert zusätzliche einen Indexfile für die Suche im lokalen
+      Webserver,</li>
+    <li>... lädt die Dateien auf den Webserver:
+      <pre>/export/www/htdocs/ibb/api/swapa/tree_items.js<br>/export/www/cgi-bin/index/data/index_swapa</pre>
+    </li>
+</ul>
+</li>
+</ol>
+
+<h2>Erweitertes Suchformular aktualisieren</h2>
+<p>
+    In der erweiterten Suche gibt es Dropdown-Menus für<br>
+    - Archivtyp.<br>
+    - Branchen A-Z (= arCHeco Schlagwort)<br>
+    - Kanton<br>
+    Die Menu-Items werden manuell im Suchformular auf dem Webserver www.ub.unibas.ch gepflegt:
+</p>
+<pre>
+vi /export/www/cgi-bin/index/template/swasd-template.html
+</pre>
+
+
+<p>10.06.2013 / andres.vonarx@unibas.ch</p>
+</body>
+</html>
