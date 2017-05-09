@@ -1,0 +1,39 @@
+====================================================
+Integration der IFrames in die Webseiten der UB Bern:
+====================================================
+
+Die Datei http://www.ub.unibas.ch/ibb/api/rorschach/index-content.html
+ist auf dem Basler Webserver installiert. 
+Sie wird als iFrames in die Webseiten des Rorschacharchivs der 
+Uni Bern eingebettet. 
+
+Aktuelle Links:
+- http://www.img.unibe.ch/content/index_ger.html
+- http://biblio.unibe.ch/rorschach/dt/index.html
+
+BEIM AUFBAU DER NEUEN WEBSEITEN DER UNI BERN SOLLTE DIE EINBIDUNG
+DER HIERARCHIE DRINGEND UEBERARBEITET WERDEN:
+
+* Die Session ID wird noch nach veralteter Technik ueber einen
+komplizierten Redirect via Aleph geholt und in der URL gespeichert.
+State of the art ist, die Session ID in einem Cookie zu speichern:
+http://www.ub.unibas.ch/babette/index.php/Links_in_eine_Session_des_Aleph_Webopacs
+
+* Die Zweisprachigkeit ist nicht konsequent durchgezogen:
+Der Hierarchiebaum selbst (tree_items.js) wird nur noch englisch aufbereitet.
+Die Datei http://www.ub.unibas.ch/ibb/api/rorschach/index-content-eng.html
+wird von Bern her m.W. nicht mehr verlinkt und kann beim Relaunch gelöscht
+werden.
+
+* Die Webseite hat mehrere Wechsel von Webservern und Verantwortlichkeiten
+ueberlebt. Die Seiten der iFrames werden in z.T. abenteuerlichen 
+Redirects umgeleitet.
+
+http://biblio.unibe.ch/rorschach/dt/nachlaesse.html
+-> iframe:   http://www.zb.unibe.ch/html/rorschach/katalogbaum.html
+-> redirect: http://biblio.unibe.ch/rorschach/katalogbaum.html
+-> reload:   http://aleph.unibas.ch/F?func=file&file_name=api-session-rorschach.html
+-> redirect: http://www.ub.unibas.ch/ibb/api/rorschach/index-content.html
+
+
+Stand 10.10.2014/ava

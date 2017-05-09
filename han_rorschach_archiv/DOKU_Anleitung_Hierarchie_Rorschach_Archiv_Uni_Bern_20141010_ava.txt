@@ -1,0 +1,24 @@
+====================================================
+Hierarchie Rorschach-Archiv generieren
+====================================================
+
+$ cd /intranet/ordnungssystem/1_Eigene-Organisation/15_IT/153_Bibliothekssysteme/bibtools/hierarchie_toolbox/han_rorschach_archiv
+$ ./make-rorschach.sh
+
+====================================================
+Aufbau der Hierarchie Rorschach-Archiv
+====================================================
+
+Selektion:  wsl=rorschach  (Wort 'rorschach' kommt vor in 852 $b)
+
+Daraus wird "bottum up" eine sortierte Hierarchie aufgebaut aus
+- Systemnummer
+- Systemnummer der uebergeordneten Aufnahme (490 $w)
+- Sortierfeld (490 $i, oder - fuer Aufnahmen auf oberster Stufe -
+  Aktenbildner 901P_)
+- Verzeichnisstufe (351 $c)
+
+http://www.ub.unibas.ch/ibb/api/rorschach/index-content.html
+
+
+Stand 10.10.2014/ava
