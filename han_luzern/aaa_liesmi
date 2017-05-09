@@ -1,0 +1,16 @@
+Lieber Andres
+
+Die aus Luzern importierten Daten zeichnen sich in DSV05 Prod folgendermassen aus:
+* Alle Aufnahmen haben haben in 909 $f 'zhbna'. Anders als bei uns wird damit also nicht
+die oberste Ebene angezeigt, sondern alle Nachlass-Aufnahmen aus Luzern. Dies ist
+redundant zum
+* Feld Signatur (852). Alle Luzerner Aufnahmen haben in $b 'LU ZHB Sondersammlung'.
+Aufgrund dieser Signatur bzw. des Institutionen-Teils wird auch die logische Datenbank für
+Luzern gebildet.
+* Die obersten Aufnahmen eines Bestandes haben alle 1) in 351 $c 'Bestand=Fonds' und 2) einen Aktenbildner, d.h. Feld 901 P für Personen und 902 P für Körperschaften. Eine Aufnahme hat zwei Aktenbildner (SYS 131985).
+
+Solange die Luzerner noch nichts Weiteres katalogisiert haben, belegen ihre Aufnahmen einfach die Systemnummern 130001-132302.
+
+Herzliche Grüsse
+Oliver
+
