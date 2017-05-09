@@ -1,0 +1,105 @@
+<!DOCTYPE html
+     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
+<head>
+<title>UB Basel</title>
+<link rel="stylesheet" type="text/css" href="http://www.ub.unibas.ch/css/CgiCms.css" />
+<style type="text/css">
+/* <![CDATA[ */
+#content ul{
+  margin: 0;
+  padding-left:20px;
+}
+li {
+  list-style:none;
+}
+#content h1 {
+  padding-left:0;
+  padding-bottom:4px;
+}
+/* ]]> */
+</style>
+<script type="text/javascript">
+/* <![CDATA[ */
+function go(alephsysno) {
+  myurl="http://baselbern.swissbib.ch/Search/Results?lng=de&type=CTRLNUM&lookfor=IDSBB" + alephsysno;
+  window.open(myurl,"aleph");
+}
+function SetzeTitel(titel) {
+    if ( parent.document.getElementById('WelcheZeitungen').innerHTML ) {
+        parent.document.getElementById('WelcheZeitungen').innerHTML=titel;
+    }
+}
+/* ]]> */
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+
+<body onLoad="SetzeTitel('%%TITLE%%')">
+<a id="top"></a>
+<div id="content">
+<!-- START CONTENT -->
+<h1 style="color:red">Zeitungen im Raum Basel: Template für die Listen</h1>
+
+<p>Alphabetische Liste A-Z -&gt; siehe CMS_AZ_Balken.pm</p>
+
+<div class="az_balken">
+<span class="az_current">&nbsp;A&nbsp;</span>&nbsp;
+<a href="#B">B</a>&nbsp;
+<a href="#C">C</a>&nbsp;
+<a href="#D">D</a>&nbsp;
+<a href="#E">E</a>&nbsp;
+<a href="#F">F</a>&nbsp;
+<a href="#G">G</a>&nbsp;
+<a href="#H">H</a>&nbsp;
+<a href="#I">I</a>&nbsp;
+<a href="#J">J</a>&nbsp;
+<a href="#K">K</a>&nbsp;
+<a href="#L">L</a>&nbsp;
+<a href="#M">M</a>&nbsp;
+<a href="#N">N</a>&nbsp;
+<a href="#O">O</a>&nbsp;
+<a href="#P">P</a>&nbsp;
+<span class="az_na">Q</span>&nbsp;
+<a href="#R">R</a>&nbsp;
+<a href="#S">S</a>&nbsp;
+<a href="#T">T</a>&nbsp;
+<a href="#U">U</a>&nbsp;
+<a href="#V">V</a>&nbsp;
+<a href="#W">W</a>&nbsp;
+<span class="az_na">X</span>&nbsp;
+<span class="az_na">Y</span>&nbsp;
+<a href="#Z">Z</a>&nbsp;
+</div>
+
+<!-- START LAND --><h3>%%LAND%%</h3><!-- END LAND -->
+
+<h1>SIMPLE: Link auf Katalog</h1>
+<ul>
+<!-- START SIMPLE -->
+<li><a class="internal-link" title="Information zu diesem Titel im Bibliothekskatalog"
+    href="javascript:go('%%SYSNO%%')">%%TITLE%%</a></li>
+<!-- END SIMPLE -->
+</ul>
+
+<h1>DOUBLE: Link auf Katalog und zusätzlich ein externer Link</h1>
+<ul>
+<!-- START DOUBLE -->
+<li><a class="internal-link" title="Information zu diesem Titel im Bibliothekskatalog"
+    href="javascript:go('%%SYSNO%%')">%%TITLE%%</a> &#8212;
+    <a class="external-link" title="zur Homepage der Zeitung" href="%%EXTERN%%" target="_blank"><em>im Web</em></a></li>
+<!-- END DOUBLE -->
+</ul>
+
+<!-- START LISTE -->
+<ul>
+%%LISTE%%
+</ul>
+<!-- END LISTE -->
+
+<!-- END CONTENT -->
+<p class="csc-linkToTop"><a href="#" onClick="javascript:window.parent.scrollTo(0, 0);">Nach oben</a></p>
+</div>
+</body>
+</html>

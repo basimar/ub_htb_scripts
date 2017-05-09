@@ -1,0 +1,206 @@
+# aus den KIDS Anhang A geklaut...
+# Stand Ende 2000.
+# Zeichensatz: UTF-8
+# ---------------------------------------------
+
+# spezialcodes zeitungskatalog:
+# szbs; schweiz_1_basel
+# szbs hist; schweiz_2_baselhist
+# sz; schweiz_3
+# sz hist; schweiz_4_hist
+
+# KIDS:
+ua; Aegypten
+eg; Aequatorialguinea
+et; Aethiopien
+af; Afghanistan
+aa; Albanien
+ae; Algerien
+an; Andorra 
+ao; Angola
+ag; Argentinien
+ai; Armenien
+aj; Aserbaidschan
+at; Australien
+bf; Bahamas
+ba; Bahrain
+bg; Bangladesh
+be; Belgien
+dm; Benin  (früher: Dahomey)
+bt; Bhutan
+bo; Bolivien
+bn; Bosnien-Herzegowina
+bs; Botswana
+bl; Brasilien
+bx; Brunei
+bu; Bulgarien
+uv; Burkina Faso  (früher: Obervolta)
+br; Burma
+bd; Burundi
+cl; Chile
+cc; China
+cr; Costa Rica
+iv; Côte d'Ivoire
+dk; Dänemark
+gw; Deutschland
+ft; Djibouti
+dq; Dominica
+dr; Dominikanische Republik
+ec; Ecuador
+es; El Salvador
+iv; Elfenbeinküste
+ea; Eritrea
+er; Estland
+fa; Färöer
+fj; Fidschi
+fi; Finnland
+fr; Frankreich
+fg; Französisch-Guayana
+go; Gabun
+gm; Gambia
+gs; Georgien
+gh; Ghana
+gi; Gibraltar
+gr; Griechenland
+gl; Grönland
+xxk; Grossbritannien (United Kingdom)
+England, Nordirland, Schottland, Wales
+gp; Guadeloupe
+gt; Guatemala
+gv; Guinea
+pg; Guinea-Bissau
+eg; Guinea Ecuatorial
+gy; Guyana
+hat; Haiti
+ho; Honduras
+cc; Hongkong  (zu China)
+ii; Indien
+io; Indonesien
+iq; Irak
+ir; Iran
+ie; Irland
+ic; Island
+is; Israel
+it; Italien
+jm; Jamaika
+ja; Japan
+ye; Jemen
+jo; Jordanien
+yu; Jugoslawien
+cb; Kambodscha
+cm; Kamerun
+xxc; Kanada
+kz; Kasachstan
+qa; Katar
+ke; Kenia
+kg; Kirgistan
+ck; Kolumbien
+cg; Kongo (Demokratische Republik; früher: Zaire)
+cf; Kongo (Republik; früher: Kongo-Brazzaville)
+kn; Korea (Demokratische Volksrepublik; Nordkorea)
+ko; Korea (Republik; Südkorea)
+ci; Kroatien
+cu; Kuba
+ku; Kuwait
+ls; Laos
+lo; Lesotho
+lv; Lettland
+le; Libanon
+lb; Liberia
+ly; Libyen
+lh; Liechtenstein 
+li; Litauen
+lu; Luxemburg 
+mg; Madagaskar
+mw; Malawi
+my; Malaysia
+xc; Malediven
+ml; Mali
+mm; Malta
+mr; Marokko
+mq; Martinique
+mu; Mauretanien
+mf; Mauritius
+xn; Mazedonien 
+mx; Mexiko
+mz; Moçambique
+mv; Moldawien 
+mc; Monaco 
+mp; Mongolei
+br; Myanmar  (früher: Burma)
+sx; Namibia
+np; Nepal
+nl; Neukaledonien
+nz; Neuseeland
+nq; Nicaragua
+ne; Niederlande
+ng; Niger
+nr; Nigeria
+no; Norwegen
+au; Österreich
+mk; Oman
+pk; Pakistan
+pn; Panama
+pp; Papua-Neuguinea
+py; Paraguay
+pe; Peru
+ph; Philippinen
+pl; Polen
+po; Portugal
+pr; Puerto Rico
+re; Réunion
+rw; Ruanda
+rm; Rumänien
+ru; Russische Föderation 
+rw; Rwanda
+za; Sambia
+sm; San Marino
+sf; São Tomé e Príncipe
+su; Saudi-Arabien
+sw; Schweden
+sz; Schweiz
+sg; Senegal
+yu; Serbien und Montenegro
+se; Seychellen
+sl; Sierra Leone
+rh; Simbabwe  (früher: Rhodesien)
+si; Singapur
+xo; Slowakei 
+xv; Slowenien
+so; Somalia
+sp; Spanien
+ce; Sri Lanka  (früher: Ceylon)
+sj; Sudan
+sa; Südafrika
+sr; Surinam
+sq; Swasiland
+sy; Syrien
+ta; Tadschikistan
+ch; Taiwan
+tz; Tansania
+th; Thailand
+cc; Tibet  (zu China)
+tg; Togo
+tr; Trinidad und Tobago
+cd; Tschad
+xr; Tschechische Republik 
+tu; Türkei
+ti; Tunesien
+tk; Turkmenistan
+ug; Uganda
+un; Ukraine
+hu; Ungarn
+uy; Uruguay
+xxu; USA
+uz; Usbekistan
+vc; Vatikanstaat
+ve; Venezuela
+ts; Vereinigte Arabische Emirate
+xxu; Vereinigte Staaten von Amerika
+vm; Vietnam
+bw; Weissrussland 
+ss; Westsahara
+cg; Zaire
+cx; Zentralafrikanische Republik
+rh; Zimbabwe  (früher: Rhodesien)
+cy; Zypern

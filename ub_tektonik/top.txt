@@ -1,0 +1,4 @@
+000221350	Handschriften-Signaturen	<title>Handschriften-Signaturen</title>
+000221447	Druckschriften-Signaturen	<title>Druckschriften-Signaturen</title>
+000221450	Namen-Signaturen	<title>Namen-Signaturen</title>
+000172502	Signatur NL: Nachlässe 	<title>Signatur NL: Nachlässe</title>
