@@ -1,0 +1,36 @@
+#!/usr/bin/perl
+
+# generiere den Index fuer die CGI-Suchmaschine (ava::search::index)
+# (Körperschaften)
+#
+# Beispiel:
+#   accref | Anzeige | Aleph-Key | nochmals Aleph-Key (für die Suche)
+#   002309393|Abfallverwertungs-Genossenschaft (Arosa)|abfallverwertungs genossenschaft arosa|abfallverwertungs genossenschaft arosa
+#
+# 02.06.2014 andres.vonarx@unibas.ch
+
+use FindBin;
+use ava::sort::utf8;
+use strict;
+
+my $infile  = $FindBin::Bin .'/../tmp/kss-aut.txt';
+my $outfile = $FindBin::Bin .'/../tmp/index_swafv_kss';
+
+open(IN,"<$infile") or die("cannot read $infile: $!");
+open(OUT,">$outfile") or die("cannot write $outfile: $!");
+while ( <IN> ) {
+    chomp;
+    my($kss,$accref) = split /\|/;
+    my $key=aleph_escape($kss);
+    print OUT qq{$accref|$kss|$key|$key\n};
+}
+
+sub aleph_escape {
+    local $_ = shift or return '';
+    $_ = utf8sort_lc($_);
+    # normalize blanks
+    s/  +/ /g;
+    s/^\s+//;
+    s/\s+$//;
+    $_;
+}    

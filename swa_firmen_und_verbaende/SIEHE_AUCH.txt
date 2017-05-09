@@ -1,0 +1,3 @@
+Technische Dokumentation:
+
+http://ub-files.ub.unibas.ch/ordnungssystem/1_Eigene-Organisation/15_IT/153_Bibliothekssysteme/bibtools/hierarchie_toolbox/swa_sachdokumentation/DOKU_SWA_Hierarchiebaeume_20160617_ava.pdf
