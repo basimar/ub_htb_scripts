@@ -1,0 +1,278 @@
+000045742	Universität Bern, Vereinigung der Dozentenfrauen	<title>Universität Bern, Vereinigung der Dozentenfrauen</title>
+000049153	Schweizerischer Verband der Akademikerinnen	<title>Schweizerischer Verband der Akademikerinnen</title>
+000050172	Konsumentinnenforum, Sektion Ostschweiz	<title>Konsumentinnenforum, Sektion Ostschweiz</title>
+000050331	Stiftung für Stipendien und Hilfen an Frauen	<title>Stiftung für Stipendien und Hilfen an Frauen</title>
+000050454	Stiftung für Staatsbürgerliche Erziehung und Schulung	<title>Stiftung für Staatsbürgerliche Erziehung und Schulung</title>
+000051465	Bürgschaftsgenossenschaft Saffa (Bern)	<title>Bürgschaftsgenossenschaft Saffa (Bern)</title>
+000051525	Verband KindergärtnerInnen Schweiz	<title>Verband KindergärtnerInnen Schweiz</title>
+000051572	Verband bernischer Landfrauenvereine	<title>Verband bernischer Landfrauenvereine</title>
+000051795	Ehemaligen-Vereinigung der städtischen Krankenpflegeschule Engeried-Bern	<title>Ehemaligen-Vereinigung der städtischen Krankenpflegeschule Engeried-Bern</title>
+000051923	Verband Schweizerischer Hausfrauenvereine	<title>Verband Schweizerischer Hausfrauenvereine</title>
+000052174	Schweizerischer Verein der Gewerbe- und Hauswirtschaftslehrerinnen	<title>Schweizerischer Verein der Gewerbe- und Hauswirtschaftslehrerinnen</title>
+000052441	Aargauische Frauenliga zur Bekämpfung der Tuberkulose	<title>Aargauische Frauenliga zur Bekämpfung der Tuberkulose</title>
+000052441	Aargauische Frauenliga gegen Tuberkulose und langandauernde Krankheiten	<title>Aargauische Frauenliga gegen Tuberkulose und langandauernde Krankheiten</title>
+000052477	Schweizerischer Nationalverband Christlicher Vereine Junger Frauen	<title>Schweizerischer Nationalverband Christlicher Vereine Junger Frauen</title>
+000053238	Schweizerischer Bund abstinenter Frauen	<title>Schweizerischer Bund abstinenter Frauen</title>
+000054103	Schweizerische Evangelische Frauenhilfe	<title>Schweizerische Evangelische Frauenhilfe</title>
+000054103	Schweizerischer evangelischer Verband Frauenhilfe	<title>Schweizerischer evangelischer Verband Frauenhilfe</title>
+000054361	Bund schweizerischer Frauenorganisationen	<title>Bund schweizerischer Frauenorganisationen</title>
+000054361	Bund schweizerischer Frauenvereine	<title>Bund schweizerischer Frauenvereine</title>
+000054362	Schweizerischer Gemeinnütziger Frauenverein	<title>Schweizerischer Gemeinnütziger Frauenverein</title>
+000054363	Frauenkomitee (Bern)	<title>Frauenkomitee (Bern)</title>
+000054365	Schweizerischer Lehrerinnenverein	<title>Schweizerischer Lehrerinnenverein</title>
+000054624	Reformierte Theologinnen Schweiz	<title>Reformierte Theologinnen Schweiz</title>
+000054624	Schweizerischer Theologinnen-Verband	<title>Schweizerischer Theologinnen-Verband</title>
+000054647	Frauenverein für zerstreut wohnende Protestanten (Bern)	<title>Frauenverein für zerstreut wohnende Protestanten (Bern)</title>
+000054739	Redaktion Emanzipation : Zeitung der POCH-Frauengruppe	<title>Redaktion Emanzipation : Zeitung der POCH-Frauengruppe</title>
+000060125	Verband Bernischer Militärfahrerinnen	<title>Verband Bernischer Militärfahrerinnen</title>
+000060130	Schweizerischer Damen-Automobil-Club, Sektion Bern	<title>Schweizerischer Damen-Automobil-Club, Sektion Bern</title>
+000060153	Delegiertenkonferenz der kantonalen Legasthenie-Therapeuten-Verbände	<title>Delegiertenkonferenz der kantonalen Legasthenie-Therapeuten-Verbände</title>
+000060171	Schweizerische Gesellschaft für das Recht auf Abtreibung und Verhütung	<title>Schweizerische Gesellschaft für das Recht auf Abtreibung und Verhütung</title>
+000060173	Europäische Frauen-Union, Schweizerische Landessektion	<title>Europäische Frauen-Union, Schweizerische Landessektion</title>
+000060189	Evangelischer Frauenbund der Schweiz	<title>Evangelischer Frauenbund der Schweiz</title>
+000060737	Gartenbauschule Hünibach	<title>Gartenbauschule Hünibach</title>
+000060737	Gärtnerinnenschule Hünibach	<title>Gärtnerinnenschule Hünibach</title>
+000060750	Kampagne für den Frieden	<title>Kampagne für den Frieden</title>
+000060870	Schweizerische Sozial-Caritative Frauenschule (Luzern)	<title>Schweizerische Sozial-Caritative Frauenschule (Luzern)</title>
+000061179	Schweizerische Pflegerinnenschule mit Krankenhaus (Zürich)	<title>Schweizerische Pflegerinnenschule mit Krankenhaus (Zürich)</title>
+000061676	Verein "Frauen in den Bundesrat"	<title>Verein "Frauen in den Bundesrat"</title>
+000067098	Arbeitsgemeinschaft unverheirateter Frauen	<title>Arbeitsgemeinschaft unverheirateter Frauen</title>
+000067098	Arbeitsgemeinschaft unabhängiger Frauen	<title>Arbeitsgemeinschaft unabhängiger Frauen</title>
+000067100	Frauenbefreiungsbewegung (Schweiz)	<title>Frauenbefreiungsbewegung (Schweiz)</title>
+000067101	Konsumgenossenschaftlicher Frauenbund der Schweiz	<title>Konsumgenossenschaftlicher Frauenbund der Schweiz</title>
+000067101	Coop Frauenbund Schweiz	<title>Coop Frauenbund Schweiz</title>
+000067103	Schweizerischer Verband alleinerziehender Mütter und Väter	<title>Schweizerischer Verband alleinerziehender Mütter und Väter</title>
+000067104	Radikalfeministinnen Bern-Fribourg-Biel	<title>Radikalfeministinnen Bern-Fribourg-Biel</title>
+000067105	Frauen fahren Frauen (Bern)	<title>Frauen fahren Frauen (Bern)</title>
+000067107	Frauenmusik-Forum Schweiz	<title>Frauenmusik-Forum Schweiz</title>
+000067299	Forum Evangelischer Frauenarbeit im Kanton Bern (Bern)	<title>Forum Evangelischer Frauenarbeit im Kanton Bern (Bern)</title>
+000067300	Schweizerische Evangelische Frauenhilfe (Winterthur)	<title>Schweizerische Evangelische Frauenhilfe (Winterthur)</title>
+000067301	Schweizerischer Katholischer Frauenbund	<title>Schweizerischer Katholischer Frauenbund</title>
+000067302	BPW Switzerland, Club Zürich	<title>BPW Switzerland, Club Zürich</title>
+000067302	Club der Zürcher Berufs- und Geschäftsfrauen	<title>Club der Zürcher Berufs- und Geschäftsfrauen</title>
+000067303	Lyceum club international de Suisse	<title>Lyceum club international de Suisse</title>
+000067304	Soroptimist International, Schweizer Union	<title>Soroptimist International, Schweizer Union</title>
+000067305	University Women of Europe	<title>University Women of Europe</title>
+000067306	Frauenzentrale des Kantons Bern	<title>Frauenzentrale des Kantons Bern</title>
+000067306	Bernischer Frauenbund	<title>Bernischer Frauenbund</title>
+000067308	Schweizerischer Verein der Freundinnen junger Mädchen	<title>Schweizerischer Verein der Freundinnen junger Mädchen</title>
+000067309	Schweizerischer Verband für Heimarbeit	<title>Schweizerischer Verband für Heimarbeit</title>
+000067310	Soziale Frauenschule (Zürich)	<title>Soziale Frauenschule (Zürich)</title>
+000067310	Schule für soziale Arbeit (Zürich)	<title>Schule für soziale Arbeit (Zürich)</title>
+000067311	Schweizerischer Berufsverband der Ausbildnerinnen und Ausbildner im Gesundheitswesen	<title>Schweizerischer Berufsverband der Ausbildnerinnen und Ausbildner im Gesundheitswesen</title>
+000067312	Neue Mädchenschule (Bern), Sekundarklasse 1925-1934	<title>Neue Mädchenschule (Bern), Sekundarklasse 1925-1934</title>
+000067312	Fortbildungsschule Monbijou (Bern), Klasse 1934-1936	<title>Fortbildungsschule Monbijou (Bern), Klasse 1934-1936</title>
+000067313	Mädchensekundarschule Monbijou (Bern), Lateinklasse I f, 1928-1932	<title>Mädchensekundarschule Monbijou (Bern), Lateinklasse I f, 1928-1932</title>
+000067314	Frauenzentrale Basel-Stadt	<title>Frauenzentrale Basel-Stadt</title>
+000067315	Centre de liaison des associations féminines valaisannes	<title>Centre de liaison des associations féminines valaisannes</title>
+000067316	Centre de liaison de sociétés féminines neuchâteloises	<title>Centre de liaison de sociétés féminines neuchâteloises</title>
+000067317	Frauenzentrale Winterthur	<title>Frauenzentrale Winterthur</title>
+000067318	Frauenzentrale (Schaffhausen)	<title>Frauenzentrale (Schaffhausen)</title>
+000067319	Sankt Katharina-Heim (Basel)	<title>Sankt Katharina-Heim (Basel)</title>
+000067320	Schweizerische Stiftung zur Förderung von Gemeindestuben und Gemeindehäusern	<title>Schweizerische Stiftung zur Förderung von Gemeindestuben und Gemeindehäusern</title>
+000067320	Schweizerischer Verband alkoholfreier Gemeindestuben und Gemeindehäuser	<title>Schweizerischer Verband alkoholfreier Gemeindestuben und Gemeindehäuser</title>
+000067320	Schweizerische Stiftung für Gemeindestuben und Gemeindehäuser	<title>Schweizerische Stiftung für Gemeindestuben und Gemeindehäuser</title>
+000067320	GASTA, Schweizerische Stiftung für alkoholfreie Gastlichkeit	<title>GASTA, Schweizerische Stiftung für alkoholfreie Gastlichkeit</title>
+000067321	Villa Kassandra	<title>Villa Kassandra</title>
+000067322	Frauenhaus (Basel)	<title>Frauenhaus (Basel)</title>
+000067323	Stiftung Frauenhaus zum Schutz misshandelter Frauen und deren Kinder (Aargau)	<title>Stiftung Frauenhaus zum Schutz misshandelter Frauen und deren Kinder (Aargau)</title>
+000067324	Berner Frauenhaus	<title>Berner Frauenhaus</title>
+000067324	Stiftung gegen Gewalt an Frauen und Kindern (Bern)	<title>Stiftung gegen Gewalt an Frauen und Kindern (Bern)</title>
+000067325	Solidarité-femmes (Fribourg)	<title>Solidarité-femmes (Fribourg)</title>
+000067326	Frauenhaus Luzern	<title>Frauenhaus Luzern</title>
+000067327	Frauenhaus Graubünden	<title>Frauenhaus Graubünden</title>
+000067328	Netzwerk Schreibender Frauen	<title>Netzwerk Schreibender Frauen</title>
+000067329	FrauenNetzwerkTagung	<title>FrauenNetzwerkTagung</title>
+000067330	Interessengemeinschaft der mit Ausländern Verheirateten Schweizerinnen	<title>Interessengemeinschaft der mit Ausländern Verheirateten Schweizerinnen</title>
+000067331	Fraueninformationszentrum für Frauen aus Afrika, Asien und Lateinamerika (Zürich)	<title>Fraueninformationszentrum für Frauen aus Afrika, Asien und Lateinamerika (Zürich)</title>
+000067332	Frauenzentrale des Kantons Glarus	<title>Frauenzentrale des Kantons Glarus</title>
+000067333	Frauenzentrale Luzern	<title>Frauenzentrale Luzern</title>
+000067334	Frauenzentrale Graubünden	<title>Frauenzentrale Graubünden</title>
+000067335	Centre de liaison des associations féminines jurassiennes	<title>Centre de liaison des associations féminines jurassiennes</title>
+000067336	Centre de liaison des associations féminines vaudoises	<title>Centre de liaison des associations féminines vaudoises</title>
+000067337	Centre de liaison des associations féminines genevoises	<title>Centre de liaison des associations féminines genevoises</title>
+000067338	Frauenzentrale des Kantons St. Gallen	<title>Frauenzentrale des Kantons St. Gallen</title>
+000067339	Thurgauer Frauenzentrale	<title>Thurgauer Frauenzentrale</title>
+000067340	Frauenhaus Region Biel und Beratungsstelle	<title>Frauenhaus Region Biel und Beratungsstelle</title>
+000067341	Verein Frauenhaus und Beratungsstelle Thun Berner-Oberland	<title>Verein Frauenhaus und Beratungsstelle Thun Berner-Oberland</title>
+000067342	Frauenhaus Olten	<title>Frauenhaus Olten</title>
+000067343	Frauenhaus St. Gallen	<title>Frauenhaus St. Gallen</title>
+000067344	Frauenhaus Zürich	<title>Frauenhaus Zürich</title>
+000067345	Frauenhaus Winterthur	<title>Frauenhaus Winterthur</title>
+000067346	Frauenzentrum Zürich	<title>Frauenzentrum Zürich</title>
+000067347	Mädchenhaus Zürich	<title>Mädchenhaus Zürich</title>
+000067348	Solidarité femmes Genève	<title>Solidarité femmes Genève</title>
+000067349	Villa Donna	<title>Villa Donna</title>
+000067350	Fondation MalleyPrairie	<title>Fondation MalleyPrairie</title>
+000067351	Deuxième observatoire	<title>Deuxième observatoire</title>
+000067352	Zürcher Frauenverein für alkoholfreie Wirtschaften	<title>Zürcher Frauenverein für alkoholfreie Wirtschaften</title>
+000067355	Frauenzentrale (Solothurn)	<title>Frauenzentrale (Solothurn)</title>
+000067356	Pro Filia	<title>Pro Filia</title>
+000067357	Kirchliche Arbeitskreise für Verwitwete und EinElternFamilien (Bern)	<title>Kirchliche Arbeitskreise für Verwitwete und EinElternFamilien (Bern)</title>
+000067358	Schweizerischer Berufsverband Diplomierter Sozialarbeiter und Erzieher	<title>Schweizerischer Berufsverband Diplomierter Sozialarbeiter und Erzieher</title>
+000067358	Schweizerischer Berufsverband der Sozialarbeiter	<title>Schweizerischer Berufsverband der Sozialarbeiter</title>
+000067359	Kantonal-Bernisches Säuglings- und Mütterheim (Elfenau)	<title>Kantonal-Bernisches Säuglings- und Mütterheim (Elfenau)</title>
+000067360	Iduna, Schweizerischer Bund Abstinenter Mädchen	<title>Iduna, Schweizerischer Bund Abstinenter Mädchen</title>
+000067361	Bad Girls go Everywhere (Lausanne)	<title>Bad Girls go Everywhere (Lausanne)</title>
+000067362	Frauenzimmer (Basel)	<title>Frauenzimmer (Basel)</title>
+000067363	Planung, Architektur, Frauen	<title>Planung, Architektur, Frauen</title>
+000067364	Espacefemmes Fribourg	<title>Espacefemmes Fribourg</title>
+000067365	Verein Management-Symposium für Frauen (Zürich)	<title>Verein Management-Symposium für Frauen (Zürich)</title>
+000067366	Jolie Villa	<title>Jolie Villa</title>
+000067367	XENIA (Bern)	<title>XENIA (Bern)</title>
+000067368	Centre de liaison fribourgeoise des associations féminines	<title>Centre de liaison fribourgeoise des associations féminines</title>
+000067369	Schweizerische Arbeitsgemeinschaft für Hauswirtschaftliche Bildungs- und Berufsfragen	<title>Schweizerische Arbeitsgemeinschaft für Hauswirtschaftliche Bildungs- und Berufsfragen</title>
+000067369	Schweizerische Arbeitsgemeinschaft für den Hausdienst	<title>Schweizerische Arbeitsgemeinschaft für den Hausdienst</title>
+000067370	Kantonaler Verband Bernischer Arbeitslehrerinnen	<title>Kantonaler Verband Bernischer Arbeitslehrerinnen</title>
+000067371	Verein der Hauswirtschaftsinspektorinnen der Schweiz	<title>Verein der Hauswirtschaftsinspektorinnen der Schweiz</title>
+000067372	Frauen-Kunstforum (Bern)	<title>Frauen-Kunstforum (Bern)</title>
+000067373	Schweizer Verband Soldatenwohl	<title>Schweizer Verband Soldatenwohl</title>
+000067373	Schweizer Verband Volksdienst	<title>Schweizer Verband Volksdienst</title>
+000067373	Schweizer Verband Volksdienst-Soldatenwohl	<title>Schweizer Verband Volksdienst-Soldatenwohl</title>
+000067373	SV-Service Schweizer Verband Volksdienst	<title>SV-Service Schweizer Verband Volksdienst</title>
+000067375	Spitalschwestern-Gemeinschaft (Solothurn)	<title>Spitalschwestern-Gemeinschaft (Solothurn)</title>
+000067376	Schweizerische Vereinigung der Fachleute für Medizinisch-Technische Radiologie	<title>Schweizerische Vereinigung der Fachleute für Medizinisch-Technische Radiologie</title>
+000067376	Schweizerische Vereinigung Medizinisch-Technischer Radiologie-Assistentinnen und -Assistenten	<title>Schweizerische Vereinigung Medizinisch-Technischer Radiologie-Assistentinnen und -Assistenten</title>
+000067376	Schweizerische Vereinigung technischer Röntgenassistentinnen und Röntgenassistenten	<title>Schweizerische Vereinigung technischer Röntgenassistentinnen und Röntgenassistenten</title>
+000067377	Schweizer Berufsverband der Krankenschwestern und Krankenpfleger	<title>Schweizer Berufsverband der Krankenschwestern und Krankenpfleger</title>
+000067377	Schweizerischer Verband diplomierter Krankenschwestern und Krankenpfleger	<title>Schweizerischer Verband diplomierter Krankenschwestern und Krankenpfleger</title>
+000067378	Evangelische Frauenarbeitsgemeinschaft (Bern)	<title>Evangelische Frauenarbeitsgemeinschaft (Bern)</title>
+000067379	Fédération romande des consommatrices	<title>Fédération romande des consommatrices</title>
+000067380	Verein Frauen und Kirche (Luzern)	<title>Verein Frauen und Kirche (Luzern)</title>
+000067380	Frauenkirche Zentralschweiz	<title>Frauenkirche Zentralschweiz</title>
+000067381	Evangelisches Tagungs- und Studienzentrum Boldern	<title>Evangelisches Tagungs- und Studienzentrum Boldern</title>
+000067382	Frauenkirchen-Synode Schweiz	<title>Frauenkirchen-Synode Schweiz</title>
+000067383	Oekumenische Frauenbewegung Zürich	<title>Oekumenische Frauenbewegung Zürich</title>
+000067384	Unio Academica Catholica	<title>Unio Academica Catholica</title>
+000067385	Verband eidgenössisch diplomierter Haushaltleiterinnen	<title>Verband eidgenössisch diplomierter Haushaltleiterinnen</title>
+000067385	Berufsverband der Haushaltleiterinnen und Haushaltleiter	<title>Berufsverband der Haushaltleiterinnen und Haushaltleiter</title>
+000067386	Schweizerischer Verein Hauswirtschaftlicher Betriebsleiterinnen/-leiter	<title>Schweizerischer Verein Hauswirtschaftlicher Betriebsleiterinnen/-leiter</title>
+000067387	Aargauische Frauenzentrale	<title>Aargauische Frauenzentrale</title>
+000067388	Frauenzentrale des Kantons Appenzell Ausserrhoden	<title>Frauenzentrale des Kantons Appenzell Ausserrhoden</title>
+000067389	Frauenzentrale Basel-Land (Liestal)	<title>Frauenzentrale Basel-Land (Liestal)</title>
+000067389	Frauenplus Baselland (Liestal)	<title>Frauenplus Baselland (Liestal)</title>
+000067390	Frauenzentrale Zug	<title>Frauenzentrale Zug</title>
+000067391	Zürcher Frauenzentrale	<title>Zürcher Frauenzentrale</title>
+000067393	Vereinigung für Frauenfragen Deutschfreiburg	<title>Vereinigung für Frauenfragen Deutschfreiburg</title>
+000070064	Frauenstimmrechtsverein Bern	<title>Frauenstimmrechtsverein Bern</title>
+000070064	Verein Frau &amp; Politik	<title>Verein Frau &amp; Politik</title>
+000070065	Arbeitsgemeinschaft der schweizerischen Frauenverbände für die politischen Rechte der Frau (Bern)	<title>Arbeitsgemeinschaft der schweizerischen Frauenverbände für die politischen Rechte der Frau (Bern)</title>
+000070066	Staatsbürgerlicher Verband Katholischer Schweizerinnen	<title>Staatsbürgerlicher Verband Katholischer Schweizerinnen</title>
+000070067	Verein für Frauenbestrebungen	<title>Verein für Frauenbestrebungen</title>
+000070067	Politische Information für die Frau	<title>Politische Information für die Frau</title>
+000070068	économie familiale - formation professionelle CH	<title>économie familiale - formation professionelle CH</title>
+000070069	FemmesTourCH	<title>FemmesTourCH</title>
+000070070	Verein Frauenlobby Winterthur	<title>Verein Frauenlobby Winterthur</title>
+000070071	Frauen- und Töchterchor (Zollikofen)	<title>Frauen- und Töchterchor (Zollikofen)</title>
+000070072	Frauenzentrum (Bern)	<title>Frauenzentrum (Bern)</title>
+000070072	Verein Froueloube (Bern)	<title>Verein Froueloube (Bern)</title>
+000070073	Schriftwechsel - Frauen und Literatur	<title>Schriftwechsel - Frauen und Literatur</title>
+000070074	Gesellschaft Schweizerischer Malerinnen, Bildhauerinnen und Kunstgewerblerinnen	<title>Gesellschaft Schweizerischer Malerinnen, Bildhauerinnen und Kunstgewerblerinnen</title>
+000070075	Bernischer Haushaltungslehrerinnenverband	<title>Bernischer Haushaltungslehrerinnenverband</title>
+000070075	Bernischer Haushaltungs- und Gewerbelehrerinnenverband	<title>Bernischer Haushaltungs- und Gewerbelehrerinnenverband</title>
+000070076	Schweizerischer Kinderschutzbund	<title>Schweizerischer Kinderschutzbund</title>
+000070077	Frauenzentrum Solothurn	<title>Frauenzentrum Solothurn</title>
+000070078	Schweizerischer Verband für Frauenstimmrecht, Sektion Colombier und Umgebung	<title>Schweizerischer Verband für Frauenstimmrecht, Sektion Colombier und Umgebung</title>
+000070079	Kantonal-bernische Vereinigung für die Mitarbeit der Frau in der Gemeinde	<title>Kantonal-bernische Vereinigung für die Mitarbeit der Frau in der Gemeinde</title>
+000070079	Vereinigung bernischer Staatsbürgerinnen	<title>Vereinigung bernischer Staatsbürgerinnen</title>
+000070079	Frauenstimmrechtsverein Bern	<title>Frauenstimmrechtsverein Bern</title>
+000070079	Aktionskomitee für die Mitarbeit der Frau in der Gemeinde	<title>Aktionskomitee für die Mitarbeit der Frau in der Gemeinde</title>
+000070080	Pro Familia Schweiz	<title>Pro Familia Schweiz</title>
+000080641	Worberinnen-Vereinigung (Worb)	<title>Worberinnen-Vereinigung (Worb)</title>
+000080642	Bäuerinnenschule (Uttewil)	<title>Bäuerinnenschule (Uttewil)</title>
+000080643	Schweizerischer Verband hauswirtschaftlicher Betriebsleiterinnen und Betriebsleiter	<title>Schweizerischer Verband hauswirtschaftlicher Betriebsleiterinnen und Betriebsleiter</title>
+000080643	Schweizerischer Verein Diplomierter Hausbeamtinnen	<title>Schweizerischer Verein Diplomierter Hausbeamtinnen</title>
+000080644	Schweizerische Arbeitsgemeinschaft "Frau und Demokratie"	<title>Schweizerische Arbeitsgemeinschaft "Frau und Demokratie"</title>
+000080645	Ehemaligenverein Frauen- und Töchterschule (Uttewil)	<title>Ehemaligenverein Frauen- und Töchterschule (Uttewil)</title>
+000080646	Schweizerischer Bund der Migrosgenossenschafterinnen, Sektion Bern	<title>Schweizerischer Bund der Migrosgenossenschafterinnen, Sektion Bern</title>
+000080647	Fachgruppe Ingenieurinnen &amp; Architektinnen	<title>Fachgruppe Ingenieurinnen &amp; Architektinnen</title>
+000080648	Seminar Monbijou (Bern), Abschlussklasse 1916	<title>Seminar Monbijou (Bern), Abschlussklasse 1916</title>
+000080649	Schulhaus Laubegg (Bern), Klasse IK 1923/1924	<title>Schulhaus Laubegg (Bern), Klasse IK 1923/1924</title>
+000080650	Schweizerische Gartenbauschule für Töchter (Niederlenz)	<title>Schweizerische Gartenbauschule für Töchter (Niederlenz)</title>
+000080651	Seminar Monbijou (Bern), Abschlussklasse 1942	<title>Seminar Monbijou (Bern), Abschlussklasse 1942</title>
+000080652	Arbeitslehrerinnenkurs Thun, Klasse 1928/1929	<title>Arbeitslehrerinnenkurs Thun, Klasse 1928/1929</title>
+000080653	Bernische Haushaltungsschule (Worb)	<title>Bernische Haushaltungsschule (Worb)</title>
+000080654	Konsumentinnenforum der deutschen Schweiz und des Kantons Tessin	<title>Konsumentinnenforum der deutschen Schweiz und des Kantons Tessin</title>
+000080655	Schweizerischer Arbeitslehrerinnen-Verein	<title>Schweizerischer Arbeitslehrerinnen-Verein</title>
+000080656	Zonta International	<title>Zonta International</title>
+000080656	Zonta Schweiz	<title>Zonta Schweiz</title>
+000080656	Zonta Club Bern	<title>Zonta Club Bern</title>
+000080657	Zürcher Sozialjahr NOWESA	<title>Zürcher Sozialjahr NOWESA</title>
+000080658	Vereinigung der Lehrkräfte an Handarbeitsseminaren	<title>Vereinigung der Lehrkräfte an Handarbeitsseminaren</title>
+000080659	Sozialistische Arbeiterpartei	<title>Sozialistische Arbeiterpartei</title>
+000080660	Frauenverein (Bremgarten)	<title>Frauenverein (Bremgarten)</title>
+000080661	Frauenzentrale (Thun)	<title>Frauenzentrale (Thun)</title>
+000080662	Forum Evangelischer Frauenarbeit im Kanton Bern (Biel)	<title>Forum Evangelischer Frauenarbeit im Kanton Bern (Biel)</title>
+000080663	Deutschschweizerische Pfarrfrauenvereinigung	<title>Deutschschweizerische Pfarrfrauenvereinigung</title>
+000080664	Kantonal-bernische Pfarrfrauenvereinigung	<title>Kantonal-bernische Pfarrfrauenvereinigung</title>
+000080666	Aktive Staatsbürgerinnen (Aargau)	<title>Aktive Staatsbürgerinnen (Aargau)</title>
+000080667	Verein "CH 91 Frauen"	<title>Verein "CH 91 Frauen"</title>
+000080668	Paulus-Akademie (Zürich)	<title>Paulus-Akademie (Zürich)</title>
+000080669	Initiativkomitee "Gleiche Rechte für Mann und Frau"	<title>Initiativkomitee "Gleiche Rechte für Mann und Frau"</title>
+000080670	Schweizerisches Aktionskomitee für das neue Eherecht	<title>Schweizerisches Aktionskomitee für das neue Eherecht</title>
+000080670	Überparteiliches Komitee für das neue Eherecht im Kanton St. Gallen	<title>Überparteiliches Komitee für das neue Eherecht im Kanton St. Gallen</title>
+000080670	Schweizerisches Komitee gegen ein verfehltes Eherecht	<title>Schweizerisches Komitee gegen ein verfehltes Eherecht</title>
+000080671	Verein zur Förderung der Fraueninteressen (Biel)	<title>Verein zur Förderung der Fraueninteressen (Biel)</title>
+000080672	Verein zum Schutz misshandelter Frauen (Bern)	<title>Verein zum Schutz misshandelter Frauen (Bern)</title>
+000080674	Taten statt Worte	<title>Taten statt Worte</title>
+000080674	Pacte	<title>Pacte</title>
+000080675	Frauenzentrale Burgdorf	<title>Frauenzentrale Burgdorf</title>
+000080676	Schweizerischer Verband des Personals Öffentlicher Dienste, Frauenkommission	<title>Schweizerischer Verband des Personals Öffentlicher Dienste, Frauenkommission</title>
+000080677	Bernischer Lehrerinnen- und Lehrerverein	<title>Bernischer Lehrerinnen- und Lehrerverein</title>
+000080677	Bernischer Lehrerverein	<title>Bernischer Lehrerverein</title>
+000080677	Lehrerinnen und Lehrer Bern	<title>Lehrerinnen und Lehrer Bern</title>
+000080678	Schweizerischer Arbeitslehrerinnen-Verein	<title>Schweizerischer Arbeitslehrerinnen-Verein</title>
+000080678	Verein Lehrerinnen und Lehrer Schweiz für Textilarbeit und Werken	<title>Verein Lehrerinnen und Lehrer Schweiz für Textilarbeit und Werken</title>
+000080679	Vereinigung der Lehrkräfte an Handarbeitsseminaren	<title>Vereinigung der Lehrkräfte an Handarbeitsseminaren</title>
+000080680	Zürcher Kantonaler Handarbeitslehrerinnenverein	<title>Zürcher Kantonaler Handarbeitslehrerinnenverein</title>
+000080681	Kantonalbernische Arbeitsgemeinschaft für hauswirtschaftliche Bildungs- und Berufsfragen	<title>Kantonalbernische Arbeitsgemeinschaft für hauswirtschaftliche Bildungs- und Berufsfragen</title>
+000080682	Verein Katharina von Zimmern (Zürich)	<title>Verein Katharina von Zimmern (Zürich)</title>
+000080683	Schweizerischer Verein der Freundinnen junger Mädchen, Sektion Winterthur	<title>Schweizerischer Verein der Freundinnen junger Mädchen, Sektion Winterthur</title>
+000080684	Marche mondiale des femmes, (2000)	<title>Marche mondiale des femmes, (2000)</title>
+000080685	Hauswirtschaft Schweiz	<title>Hauswirtschaft Schweiz</title>
+000080685	Schweizerische Arbeitsgemeinschaft für Hauswirtschaftliche Bildungs- und Berufsfragen	<title>Schweizerische Arbeitsgemeinschaft für Hauswirtschaftliche Bildungs- und Berufsfragen</title>
+000080686	Verein Wohn-und Freizeitheim CVJF Basel	<title>Verein Wohn-und Freizeitheim CVJF Basel</title>
+000080687	Verband reformierter Frauenvereine (Solothurn)	<title>Verband reformierter Frauenvereine (Solothurn)</title>
+000080688	Verein FRIDA - Frauen Info die Agenda	<title>Verein FRIDA - Frauen Info die Agenda</title>
+000080689	Ecole genevoise de soins infirmièrs Le Bon secours	<title>Ecole genevoise de soins infirmièrs Le Bon secours</title>
+000080690	Lehrerinnenseminar Thun, Abschlussklasse II 1942	<title>Lehrerinnenseminar Thun, Abschlussklasse II 1942</title>
+000081063	Soziale Frauenschule (Zürich), Kurs 1943-1945	<title>Soziale Frauenschule (Zürich), Kurs 1943-1945</title>
+000081701	Evangelischer Frauenbund der Schweiz	<title>Evangelischer Frauenbund der Schweiz</title>
+000083783	Gemeinnütziger Frauenverein (Rüschlikon)	<title>Gemeinnütziger Frauenverein (Rüschlikon)</title>
+000083784	Landfrauenverein (Oberbottigen)	<title>Landfrauenverein (Oberbottigen)</title>
+000083786	Landfrauenverein (Moosseedorf)	<title>Landfrauenverein (Moosseedorf)</title>
+000083787	Kantonalverband Reformierter Landfrauen Freiburg	<title>Kantonalverband Reformierter Landfrauen Freiburg</title>
+000084298	Frauenverein (Rheinfelden)	<title>Frauenverein (Rheinfelden)</title>
+000084299	Schweizerischer Gemeinnütziger Frauenverein, Sektion (Bern)	<title>Schweizerischer Gemeinnütziger Frauenverein, Sektion (Bern)</title>
+000084300	Schweizerischer Bund der Migros-Genossenschafterinnen	<title>Schweizerischer Bund der Migros-Genossenschafterinnen</title>
+000084300	Forum elle	<title>Forum elle</title>
+000084301	Vereinigung weiblicher Geschäftsangestellter der Stadt Bern	<title>Vereinigung weiblicher Geschäftsangestellter der Stadt Bern</title>
+000085403	Verein der ehemaligen Schwand-Schülerinnen	<title>Verein der ehemaligen Schwand-Schülerinnen</title>
+000206219	Spital-Bazar-Komitee (Biel)	<title>Spital-Bazar-Komitee (Biel)</title>
+000206220	Schweizerische Vereinigung für Straflosigkeit des Schwangerschaftsabbruchs	<title>Schweizerische Vereinigung für Straflosigkeit des Schwangerschaftsabbruchs</title>
+000206453	Vereinigung der Präsidentinnen der Kindergartenkapitel des Kantons Zürich	<title>Vereinigung der Präsidentinnen der Kindergartenkapitel des Kantons Zürich</title>
+000206455	Freisinnig-demokratische Partei Steffisburg, Frauengruppe	<title>Freisinnig-demokratische Partei Steffisburg, Frauengruppe</title>
+000206457	Vereinigung Berner Theologinnen	<title>Vereinigung Berner Theologinnen</title>
+000208147	Verein Katholischer Lehrerinnen der Schweiz	<title>Verein Katholischer Lehrerinnen der Schweiz</title>
+000208151	Schweizerischer Gärtnerinnen-Verein	<title>Schweizerischer Gärtnerinnen-Verein</title>
+000208165	Freisinnig-Demokratische Partei der Stadt Luzern, Frauengruppe	<title>Freisinnig-Demokratische Partei der Stadt Luzern, Frauengruppe</title>
+000208173	Schweizerischer Landfrauenverband	<title>Schweizerischer Landfrauenverband</title>
+000214617	Frauenverein Zollikofen	<title>Frauenverein Zollikofen</title>
+000214617	Landfrauenverein Zollikofen	<title>Landfrauenverein Zollikofen</title>
+000214924	Landfrauenverein (Fraubrunnen und Umgebung)	<title>Landfrauenverein (Fraubrunnen und Umgebung)</title>
+000214925	Schweizerischer Verband der Psychomotorik-TherapeutInnen	<title>Schweizerischer Verband der Psychomotorik-TherapeutInnen</title>
+000215215	Kantonale Landwirtschafts- und Haushaltungsschule Schwand (Münsingen), B-Klasse 81.Kurs Sommer 1951	<title>Kantonale Landwirtschafts- und Haushaltungsschule Schwand (Münsingen), B-Klasse 81.Kurs Sommer 1951</title>
+000215218	Schweizerischer Gemeinnütziger Frauenverein, Sektion (Lenzburg)	<title>Schweizerischer Gemeinnütziger Frauenverein, Sektion (Lenzburg)</title>
+000215256	Töchterschule der Stadt Zürich, Abschlussklasse 1951	<title>Töchterschule der Stadt Zürich, Abschlussklasse 1951</title>
+000215260	Juristinnen Schweiz	<title>Juristinnen Schweiz</title>
+000215271	Ökumenisches Forum christlicher Frauen Europa, Schweizer Zweig	<title>Ökumenisches Forum christlicher Frauen Europa, Schweizer Zweig</title>
+000215272	Wohngenossenschaft berufstätiger Frauen (Bern)	<title>Wohngenossenschaft berufstätiger Frauen (Bern)</title>
+000215274	Arbeitsgruppe Berner Architektinnen und Planerinnen	<title>Arbeitsgruppe Berner Architektinnen und Planerinnen</title>
+000215276	Loisirs et rencontres (Béroche)	<title>Loisirs et rencontres (Béroche)</title>
+000215293	Verein Frauen Kirche (Bern)	<title>Verein Frauen Kirche (Bern)</title>
+000215315	Verein für die Würde von Frauen und Kindern und gegen den Krieg in Ex-Jugoslawien	<title>Verein für die Würde von Frauen und Kindern und gegen den Krieg in Ex-Jugoslawien</title>
+000215356	Schwesternverein der Schweizerischen Pflegerinnenschule	<title>Schwesternverein der Schweizerischen Pflegerinnenschule</title>
+000215396	Schweizerischer Berufsverband für Handweben	<title>Schweizerischer Berufsverband für Handweben</title>
+000215398	Schweizerische Konferenz Pflegeausbildungen im Tertiärbereich	<title>Schweizerische Konferenz Pflegeausbildungen im Tertiärbereich</title>
+000215404	Union féminine Coop Suisse, Section Fribourg	<title>Union féminine Coop Suisse, Section Fribourg</title>
+000218736	Frauenlobby Limmattal	<title>Frauenlobby Limmattal</title>
