@@ -1,0 +1,118 @@
+# UB
+# UB-Bibliographie
+# ------------------------------------------------
+# Klassifikation UB-Bibliographie
+# zur Aufbereitung der Webseite "UB-Bibliographie"
+# http://www.ub.unibas.ch/
+#
+# Die aktuelle Version befindet sich auf
+# /intranet/edv/intern/aleph/hierarchie_toolbox/ub_baslerbibliographie/klassifikation-bsbibliographie.txt
+# ------------------------------------------------
+# Stand: 23.09.2010/abi
+# ------------------------------------------------
+# Format:
+# - Textdatei, Zeichensatz Unicode (UTF-8)
+# - Unterkategorien jeweils mit einem Leerschlag einrücken
+# - was nach ">" kommt, ist eine Signatur (Leerschläge vor und nach ">" sind beliebig).
+# - Kommentarzeilen beginnen mit einem '#'
+# - Leerzeilen beliebig
+# - Achtung: es dürfen keine Hierarchiestufen übersprungen werden
+#
+# Tipp:
+# - bearbeiten mit
+#   -- Editor kate (SBC)
+#   -- Notepad (Windows)
+# ------------------------------------------------
+
+1 Quellenkunde
+ 1.1 Bibliotheken, Archive > 1.1
+ 1.2 Buchdruck, Editionen > 1.2
+ 1.3 Numismatik, Heraldik, Siegelkunde > 1.3
+ 1.4 Genealogien, Familiengeschichte > 1.4
+ 1.5 Historische Museen, Sammlungen, Ausstellungen > 1.5
+2 Geschichte von den Anfängen bis zur Kantonstrennung 1833
+ 2.1 Zeitübergreifende Darstellungen, Heimatkunde, historische Forschung > 2.1
+ 2.2 Ur- und Frühgeschichte > 2.2
+ 2.3 Römische Zeit, Augusta Raurica > 2.3
+ 2.4 Mittelalter
+  2.4.1 Archäologie > 2.4.1
+  2.4.2 Geschichte > 2.4.2
+ 2.5 Neuzeit bis 1833
+  2.5.1 Politische Geschichte > 2.5.1
+  2.5.2 Wirtschafts- und Sozialgeschichte > 2.5.2
+  2.5.3 Religions-, Kultur-, Geistesgeschichte > 2.5.3
+  2.5.4 Geschichte von Medizin, Naturwissenschaften, Mathematik, Technik > 2.5.4
+3 Basel-Stadt und Basel-Landschaft von 1833 bis zur Gegenwart
+ 3.1 Recht, Staat, Politik
+  3.1.1 Verfassung, Recht > 3.1.1
+  3.1.2 Kantone, Gemeinden, Behörden, Verwaltung, Militär > 3.1.2
+  3.1.3 Politik > 3.1.3
+ 3.2 Wirtschaft
+  3.2.1 Allgemeines > 3.2.1
+  3.2.2 Land- und Forstwirtschaft, Jagd und Fischerei, Hauswirtschaft > 3.2.2
+  3.2.3 Wasser- und Energiewirtschaft > 3.2.3
+  3.2.4 Handwerk, Gewerbe, Industrie > 3.2.4
+  3.2.5 Geldwesen, Banken, Börsen, Versicherungen, Immobilien, Mietwesen > 3.2.5
+  3.2.6 Handel, Messen > 3.2.6
+  3.2.7 Verkehr, Postwesen, Tourismus, Gastronomie > 3.2.7
+  3.2.8 Verbände, Arbeitgeber/innen, Arbeitnehmer/innen > 3.2.8
+ 3.3 Gesellschaft
+  3.3.1 Allgemeines > 3.3.1
+  3.3.2 Bevölkerung, soziale Gruppen, Altersgruppen > 3.3.2
+  3.3.3 Frauen, Männer > 3.3.3
+  3.3.4 Grenzgänger/innen, Gastarbeiter/innen, Ausländer/innen > 3.3.4
+  3.3.5 Sozial- und Gesundheitswesen > 3.3.5
+  3.3.6 Vereine, Freizeit, Sport > 3.3.6
+ 3.4 Religion, Kirche, Theologie
+  3.4.1 Evangelisch-reformierte Kirche > 3.4.1
+  3.4.2 Römisch-katholische Kirche > 3.4.2
+  3.4.3 Christkatholische Kirche > 3.4.3
+  3.4.4 Israelitische Gemeinde > 3.4.4
+  3.4.5 Andere Glaubensgemeinschaften > 3.4.5
+  3.4.6 Ueberkonfessionelles, Oekumene > 3.4.6
+  3.4.7 Mission > 3.4.7
+ 3.5 Erziehung, Bildung, Wissenschaft
+  3.5.1 Erziehung, Schule, Bildung > 3.5.1
+  3.5.2 Universität, Fachhochschulen > 3.5.2
+  3.5.3 Geistes- und Sozialwissenschaften > 3.5.3
+  3.5.4 Naturwissenschaften
+   3.5.4.1 Allgemeines > 3.5.4.1
+   3.5.4.2 Astronomie, Mathematik, Physik, Chemie > 3.5.4.2
+   3.5.4.3 Erdwissenschaften > 3.5.4.3
+   3.5.4.4 Biologie, Botanik, Zoologie, Oekologie > 3.5.4.4
+   3.5.4.5 Naturhistorische Museen, Sammlungen, Ausstellungen > 3.5.4.5
+  3.5.5 Medizin > 3.5.5
+4 Kultur und Raum
+ 4.1 Sprache, Literatur, Medien
+  4.1.1 Sprache > 4.1.1
+  4.1.2 Literatur > 4.1.2
+  4.1.3 Presse > 4.1.3
+  4.1.4 Radio, Fernsehen, neue Medien > 4.1.4
+ 4.2 Kunst und Kultur
+  4.2.1 Allgemeines > 4.2.1
+  4.2.2 Architektur, Baugeschichte, Denkmalpflege > 4.2.2
+  4.2.3 Malerei, Plastik, Kunstgewerbe > 4.2.3
+  4.2.4 Photographie > 4.2.4
+  4.2.5 Einzelne Museen, Sammlungen, Ausstellungen
+   4.2.5.1 Antikenmuseum Basel und Sammlung Ludwig; Skulpturhalle > 4.2.5.1
+   4.2.5.2 Architekturmuseum in Basel > 4.2.5.2
+   4.2.5.3 Kunsthalle Basel > 4.2.5.3
+   4.2.5.4 Kunstmuseum Basel > 4.2.5.4
+   4.2.5.5 Museum für Gegenwartskunst Basel > 4.2.5.5
+   4.2.5.6 Schule für Gestaltung Basel > 4.2.5.6
+   4.2.5.7 Weitere Ausstellungen, Galerien, Privatsammlungen > 4.2.5.7
+   4.2.5.8 Kunstmessen > 4.2.5.8
+   4.2.5.9 Museen und Ausstellungen in Riehen > 4.2.5.9
+   4.2.5.10 Museen und Ausstellungen im Kanton Basel-Landschaft > 4.2.5.10
+  4.2.6 Musik > 4.2.6
+  4.2.7 Theater, Tanz, Film > 4.2.7
+ 4.3 Volkskunde, Ethnologie
+  4.3.1 Allgemeines > 4.3.1
+  4.3.2 Nahrung, Kleidung, Wohnung > 4.3.2
+  4.3.3 Brauchtum > 4.3.3
+  4.3.4 Volkskundliche und ethnologische Museen, Sammlungen, Ausstellungen > 4.3.4
+ 4.4 Geographischer Raum, Umwelt
+  4.4.1 Allgemeines > 4.4.1
+  4.4.2 Naturraum > 4.4.2
+  4.4.3 Kulturraum, Raum- und Ortsplanung > 4.4.3
+  4.4.4 Umwelt > 4.4.4
