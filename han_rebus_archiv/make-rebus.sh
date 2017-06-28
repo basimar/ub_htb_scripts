@@ -1,55 +1,144 @@
-#!/bin/sh
+#!/bin/bash
 
-# Archive REBUS
-# generiere Tigra Tree Menu aus Aleph X-Services
-# 06.06.2006/andres.vonarx@unibas.ch
-# 12.01.2016/basil.marti@unibas.ch :: Anpassung an neues HAN-Format
+# make-rebus.sh
+# bereite Daten auf zur hierarchischen Darstellung des REBUS-Archiv
+# --------------------------------------------------------------------
+# Input:
+#   dsv05.seq
+#
+# Output:
+#   JS-Code fuer Tigra Tree Menu: 
+#       tree_items.js  
+# --------------------------------------------------------------------
+# history:
+#   adaption für Rebus-Archiv basierend auf make-trogen.sh 28.06.2017/bmt
 
-TARGET_FILE='tree_items.js'
-BIN_DIR='/opt/bin/htb/'
+# -------------------------------
+# Optionen
+# -------------------------------
+QUIET=0             # wenn 1: bleibe stumm
+DO_REFRESH_DSV05=0  # wenn 1: aktualisiere dsv05.seq
+DO_CLEANUP_TEMP=0   # wenn 1: putze temporaere Dateien
+DO_UPLOAD_FILES=1   # wenn 1: lade Dateien auf Webserver
+
+
+# -------------------------------
+# files & directories
+# -------------------------------
+
+DSV05_DIR=/opt/data/dsv05/
+DSV05_SEQ=$DSV05_DIR/dsv05.seq
+BIN_DIR=/opt/bin/htb/
+HOME=/opt/scripts/htb/han_rebus_archiv
+
+
+# -------------------------------
+# Funktionen
+# -------------------------------
 
 backup_file () {
     # backup a file, provided it exists and no backup exists yet
     if [ ! -z "$1" -a -f "$1" ]; then
         backup_extension=`perl -MPOSIX -e 'print strftime(".%Y%m%d",localtime)'`$USER
-        backup_filename="$1$backup_extension"
+        backup_filename="archiv/$1$backup_extension"
         if [ ! -f $backup_filename ]; then
-            echo "* backup $1"
             cp "$1" "$backup_filename"
         fi
     fi
 }
 
-echo '---------------------'
-echo 'UB Bern: Rebus Archiv'
-echo '---------------------'
+say () {
+    # Ausgabe auf Bildschirm (laesst sich unterdruecken mit QUIET=1)
+    if [ "$QUIET" != "1" ]; then echo "$1"; fi
+}
 
-backup_file tree_items.js;
+# -------------------------------
+# Hauptprogramm
+# -------------------------------
 
-echo '* retrieve data with Aleph X-Services'
-$BIN_DIR/htb_alephx_store_set --quiet --ccl='wcl=rebus' --file="tmp/rebus-alephx.xml" --alephlib=dsv05
+say '-------------------------'
+say 'UB Bern REBUS Archiv'
+say '-------------------------'
+say 'Laufzeit ca. 5 Minuten. Bitte Geduld...'
+say ''
+NOW=`date`
+say "START: $NOW"
 
-echo '* converting to MARC XML'
-saxon9 -versionmsg:off -s:"tmp/rebus-alephx.xml" -xsl:"$BIN_DIR/alephxml_marcxml.xsl"  -o:"tmp/rebus-marc.xml"
+if [ "$DO_REFRESH_DSV05" = "1" ]; then
+    say "* aktualisiere DSV05"
+    cd $DSV05_DIR
+    ./download-dsv05-sequential.sh
+fi
 
-echo '* extracting hierarchy'
-saxon9 -versionmsg:off -s:"tmp/rebus-marc.xml" -xsl:"$BIN_DIR/marcxml_hierarchy.xsl" -o:"tmp/tmp"
-$BIN_DIR/htb_build_hierarchy_bottom_up "tmp/tmp" "tmp/hierarchy.xml"
+cd $HOME
 
-echo '* formatting output'
-saxon9 -versionmsg:off -s:"tmp/hierarchy.xml" -xsl:"$BIN_DIR/tigra_tree_menu.xsl" -o:tree_items.js MARCXML=`pwd`/tmp/rebus-marc.xml ROOTNODE=0
+say "* Backup alte Dateien"
+backup_file tree_items.js
+rm -f tree_items.js
 
-echo '* fixing punctuation'
-perl -pi -e 's/<</[/g;s/>>/]/g' tree_items.js
 
-echo '* cleaning up'
-rm -f tmp/*
+say "* extrahiere REBUS-Daten aus dsv05.seq"
+#perl $BIN_DIR'filter_alephseq.pl' \
+#   --input=$DSV05_SEQ \
+#   --output='tmp/rebus-all.seq' \
+#   --marc='852 a' \
+#   --regex='REBUS' \
+#   --noignorecase;
 
-echo
-echo '* zum Uploaden:'
-echo "   scp tree_items.js webmaster@www:/export/www/htdocs/ibb/api/rebus/tree_items.js"
-echo
-echo '* Ziel:'
-echo '   http://www.ub.unibas.ch/ibb/api/rebus/'
-echo
-echo 'done.'
+say "* extrahiere alle Aufnahmen der Verzeichnisstufe Bestand=Fonds"
+perl $BIN_DIR'filter_alephseq.pl' \
+   --input='tmp/rebus-all.seq'\
+   --output='tmp/rebus-fonds.seq' \
+   --marc='351 c' \
+   --regex='Fonds' \
+   --noignorecase;
+
+say "* konvertiere Aleph Sequential nach MARC21 XML"
+$BIN_DIR/htb_alephseq_to_marcxml tmp/rebus-all.seq tmp/rebus-all.xml
+$BIN_DIR/htb_alephseq_to_marcxml tmp/rebus-fonds.seq tmp/rebus-fonds.xml
+
+say "* extrahiere 490er"
+$BIN_DIR/htb_alephseq_extract_490 tmp/rebus-all.seq tmp/rebus-490.seq
+
+say "* extrahiere Toplevel Info"
+saxon9 -versionmsg:off -xsl:$BIN_DIR/extract-top-info.xsl -s:tmp/rebus-fonds.xml -o:tmp/top.txt typ=k
+sed -i 's/&/&amp;/g' tmp/top.txt
+
+say "* generiere top-down Hierarchie" 
+perl $BIN_DIR/htb_build_hierarchy_top_down --toplist=tmp/top.txt --list490=tmp/rebus-490.seq --outfile=tmp/hierarchy.xml
+
+say "* reichere Hierarchie an"
+perl $BIN_DIR/enrich-hierarchy-with-marcdata-simple.pl --infile=tmp/hierarchy.xml --marcfile=tmp/rebus-all.xml --outfile=tmp/hierarchy-full.xml 
+
+say "* Entferne spitze Klammern (Artikelkennzeichnung im Titelfeld)"
+sed -i "s/&lt;&lt;//g" tmp/hierarchy-full.xml
+sed -i "s/&gt;&gt;//g" tmp/hierarchy-full.xml
+
+say "* generiere JS-TigraTree Menu "
+saxon9 -versionmsg:off -xsl:$BIN_DIR/tigra_tree_menu_full.xsl \
+    -s:tmp/hierarchy-full.xml \
+    -o:tree_items.js \
+    INFOXML=`pwd`/rebus-info.xml \
+    VARNAME=TREE_ITEMS \
+    HTITLE=1
+
+if [ "$DO_CLEANUP_TEMP" = "1" ]; then
+    say "* clean up"
+    rm -f tmp/*
+fi
+
+if [ "$DO_UPLOAD_FILES" = "1" ]; then
+    say "* uploading files"
+    scp tree_items.js webmaster@www:/export/www/htdocs/ibb/api/rebus/tree_items.js
+    echo ""
+    echo "Testseiten (UB Website):"
+    echo ' http://www.ub.unibas.ch/ibb/api/rebus/ ' 
+    echo ""
+fi
+
+#say "* aktualisiere HAN-Verbundtektonik"
+# Die HAN-Verbundtektonik wird nicht von Grund auf neu generiert, sondern klebt nur die tree-items.js-Dateien der Einzelhierarchien zusammen.
+#sh ../han_tektonik/make-han.sh
+
+NOW=`date`
+say "END: $NOW"
