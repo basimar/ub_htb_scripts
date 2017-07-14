@@ -114,6 +114,8 @@ say "* entferne vertrauliche Archive ZHB Luzern"
 sed -i '/Zentralbibliothek Luzern/d' tmp/top.txt 
 sed -i '/Zentral- und Hochschulbibliothek Luzern/d' tmp/top.txt
 sed -i '/Kantonsbibliothek/d' tmp/top.txt
+# Entferne Datensatz 000297409  hide_this ead Aufnahme für Einzeldokumente
+sed -i '/^000297409/d' tmp/top.txt
 
 say "* generiere top-down Hierarchie" 
 perl $BIN_DIR/htb_build_hierarchy_top_down --toplist=tmp/top.txt --list490=tmp/luzern-490.seq --outfile=tmp/hierarchy.xml

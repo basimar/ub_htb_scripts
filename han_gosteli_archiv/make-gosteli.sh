@@ -111,13 +111,11 @@ sed -i 's/&/&amp;/g' tmp/v-top.txt
 sed -i 's/<<//g' tmp/v-top.txt
 sed -i 's/>>//g' tmp/v-top.txt
 
-# Mache Dublettensuche über v-top.txt
-
-
-
-
 # Entferne Datensatz 000221539	Gosteli-Stiftung <- Aktenbildnerin der Biographischen Notizen
 sed -i '/^000221539/d' tmp/v-top.txt
+
+# Entferne Datensatz 000297327	hide_this ead Aufnahme für Einzeldokumente
+sed -i '/^000297327/d' tmp/v-top.txt
 
 say "* extrahiere Toplevel Info (Biografische Notizen)"
 # werden nicht generiert, sondern hardcodiert, da nur 1 Toplevel

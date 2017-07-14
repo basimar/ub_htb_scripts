@@ -39,6 +39,9 @@ saxon9 -s:tmp/luzern-marc.xml -xsl:luzern-toplevel.xsl -o:tmp/toplevel_full.tmp
 echo '* Lösche Oberaufnahme ZB Archiv'
 sed /^000166456.*$/d tmp/toplevel_full.tmp >tmp/toplevel.tmp
 
+echo '* Lösche hide_this ead Aufnahme für Einzeldokumente'
+sed /^000297409.*$/d tmp/toplevel_full.tmp >tmp/toplevel.tmp
+
 echo '* mache Liste der Nachlässe A-Z'
 perl luzern-a-bis-z-liste.pl
 
