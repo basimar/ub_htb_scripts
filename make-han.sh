@@ -37,7 +37,7 @@ DSV05_SEQ=$DSV05_DIR/dsv05.seq
 HOME=/opt/scripts/htb/
 LOGDIR=/opt/scripts/htb/log
 LOG=$LOGDIR/han_htb_$DATE.log
-MAIL="basil.marti@unibas.ch"
+MAIL="basil.marti@unibas.ch,martin.reisacher@unibas.ch,beat.mattmann@unibas.ch"
 
 # -------------------------------
 # Funktionen
