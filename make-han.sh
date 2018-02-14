@@ -37,7 +37,7 @@ DSV05_SEQ=$DSV05_DIR/dsv05.seq
 HOME=/opt/scripts/htb/
 LOGDIR=/opt/scripts/htb/log
 LOG=$LOGDIR/han_htb_$DATE.log
-MAIL="basil.marti@unibas.ch,martin.reisacher@unibas.ch,lorenz.hofer@unibas.ch"
+MAIL="aleph-ub@unibas.ch,lorenz.hofer@unibas.ch"
 
 # -------------------------------
 # Funktionen
@@ -90,5 +90,5 @@ cd $HOME
 echo "END: $NOW"  >> $LOG
 
 # Log-Datei nach jedem Lauf verschicken:
-cat $LOG | mailx -a "From:basil.marti@unibas.ch" -s "Logfile: HAN-Hierarchien erstellt ($DATE)" $MAIL
+cat $LOG | mailx -a "From:aleph-ub@unibas.ch" -s "Logfile: HAN-Hierarchien erstellt ($DATE)" $MAIL
 
