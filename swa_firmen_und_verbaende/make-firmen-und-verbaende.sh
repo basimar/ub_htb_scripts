@@ -20,7 +20,7 @@ date
 
 echo "* Aleph Daten downloaden"
 rm -f tmp/swa-doksf.seq
-ssh aleph@aleph.unibas.ch ls -e /exlibris/aleph/u22_1/dsv01/scratch/swa-doksf.seq |awk '{print "  Daten vom " $7,$6,$9,$8}'
+#ssh aleph@aleph.unibas.ch ls -e /exlibris/aleph/u22_1/dsv01/scratch/swa-doksf.seq |awk '{print "  Daten vom " $7,$6,$9,$8}'
 scp -q aleph@aleph.unibas.ch:/exlibris/aleph/u22_1/dsv01/scratch/swa-doksf.seq tmp
 
 if [ ! -f tmp/swa-doksf.seq ]; then

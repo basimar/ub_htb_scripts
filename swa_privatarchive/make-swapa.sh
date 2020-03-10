@@ -45,7 +45,7 @@ DSV05_490_ALL=/opt/scripts/htb/swa_privatarchive/dsv05/dsv05.490.all
 
 QUIT=0
 DO_INSTALL=1
-DO_CLEANUP=1
+DO_CLEANUP=0
 
 # ---------------------------------------
 # Hauptprogramm
@@ -88,8 +88,8 @@ iconv -f ISO-8859-1 -t UTF-8 tmp/swapa-schlagwoerter.xml > tmp/swapa-schlagwoert
 echo '* Generiere Hierarchie'
 saxon tmp/swapa-schlagwoerter-utf8.xml swapa-hierarchie.xsl > tmp/swapa-hierarchie.txt
 
-#say "* Reichere Hierarchie mit untergeordneten Aufnahmen an"
-#perl swapa-hierarchie-topdown.pl tmp/swapa-full.seq tmp/swapa-hierarchie.txt tmp/swapa-hierarchie-full.txt
+say "* Reichere Hierarchie mit untergeordneten Aufnahmen an"
+perl swapa-hierarchie-topdown.pl tmp/swapa-full.seq tmp/swapa-hierarchie.txt tmp/swapa-hierarchie-full.txt
 
 echo '* generiere Tree Menu'
 perl $BIN_DIR/generate_treemenu_pro.pl \
@@ -102,7 +102,7 @@ echo '* fixe Tree Menu'
 perl swapa-fix-treemenu.pl
 
 echo '* baue Index für Suchmaschine'
-saxon9 -s:tmp/swapa-marc-full.xml -xsl:swapa-suchmaschine.xsl > tmp/index_swapa
+saxon9 -s:tmp/swapa-marc.xml -xsl:swapa-suchmaschine.xsl > tmp/index_swapa
 
 if [ $DO_INSTALL = 1 ]; then
     echo '* installiere Treemenu auf Webserver'
