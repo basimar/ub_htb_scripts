@@ -198,16 +198,16 @@ fi
 
 if [ "$DO_UPLOAD_FILES" = "1" ]; then
     say "* uploading files"
-    scp -q tree_items_p.js webmaster@www:/export/www/htdocs/ibb/api/gosteli/./
-    scp -q tree_items_v.js webmaster@www:/export/www/htdocs/ibb/api/gosteli/./
-    scp -q tree_items_b.js webmaster@www:/export/www/htdocs/ibb/api/gosteli/./
-    scp -q tree_items.js webmaster@www:/export/www/htdocs/ibb/api/gosteli/./
+    scp -q tree_items_p.js webmaster@ub2.unibas.ch:/export/www/htdocs/ibb/api/gosteli/./
+    scp -q tree_items_v.js webmaster@ub2.unibas.ch:/export/www/htdocs/ibb/api/gosteli/./
+    scp -q tree_items_b.js webmaster@ub2.unibas.ch:/export/www/htdocs/ibb/api/gosteli/./
+    scp -q tree_items.js webmaster@ub2.unibas.ch:/export/www/htdocs/ibb/api/gosteli/./
     echo ""
     echo "Testseiten (UB Website):"
-    echo "  http://www.ub.unibas.ch/ibb/api/gosteli/archivp-content.html"
-    echo "  http://www.ub.unibas.ch/ibb/api/gosteli/archivv-content.html"
-    echo "  http://www.ub.unibas.ch/ibb/api/gosteli/archivb-content.html"
-    echo "  http://www.ub.unibas.ch/ibb/api/gosteli/archiv-content.html"
+    echo "  http://www.ub2.unibas.ch/ibb/api/gosteli/archivp-content.html"
+    echo "  http://www.ub2.unibas.ch/ibb/api/gosteli/archivv-content.html"
+    echo "  http://www.ub2.unibas.ch/ibb/api/gosteli/archivb-content.html"
+    echo "  http://www.ub2.unibas.ch/ibb/api/gosteli/archiv-content.html"
     echo ""
 fi
 

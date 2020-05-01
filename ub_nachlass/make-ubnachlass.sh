@@ -196,9 +196,9 @@ if [ "$ZIP" == "1" ]; then
   say "* generiere ZIP-File"
   zip -jq "target/ubnachlass.zip" "target/"*
   say "* backup remote ZIP File"
-  ssh webmaster@www.ub.unibas.ch 'cd /export/www/htdocs/ibb/api/ubnachlass && cp ubnachlass.zip ubnachlass.zip.backup'
+  ssh webmaster@ub2.unibas.ch 'cd /export/www/htdocs/ibb/api/ubnachlass && cp ubnachlass.zip ubnachlass.zip.backup'
   say "* kopiere ZIP File"
-  scp -q "target/ubnachlass.zip" webmaster@www.ub.unibas.ch:/export/www/htdocs/ibb/api/ubnachlass
+  scp -q "target/ubnachlass.zip" webmaster@ub2.unibas.ch:/export/www/htdocs/ibb/api/ubnachlass
 fi
 
 if [ "$CLEANUP" == "1" ]; then
@@ -212,7 +212,7 @@ fi
 # ----------------------------------------------------------
 if [ "$INSTALL" == "1" ]; then
     say '* installiere Dateien auf Webserver (www)'
-    ssh webmaster@www.ub.unibas.ch 'cd /export/www/htdocs/ibb/api/ubnachlass && rm -f d0* && unzip -oqq ubnachlass.zip'
+    ssh webmaster@ub2.unibas.ch 'cd /export/www/htdocs/ibb/api/ubnachlass && rm -f d0* && unzip -oqq ubnachlass.zip'
 fi
 
 if [ "$QUIET" != "1" ]; then

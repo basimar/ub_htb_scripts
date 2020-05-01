@@ -37,7 +37,7 @@ perl zeitungskatalog.pl
 if [ $DO_INSTALL = 1 ]; then
     echo '* installiere Webseiten auf Webserver'
     scp -q tmp/zeitungen*html webmaster@ub-webqm:/export/www/htdocs/cmsdata/spezialkataloge/zeitungen/./
-    scp -q tmp/zeitungen*html webmaster@www:/export/www/htdocs/cmsdata/spezialkataloge/zeitungen/./
+    scp -q tmp/zeitungen*html webmaster@ub2.unibas.ch:/export/www/htdocs/cmsdata/spezialkataloge/zeitungen/./
 fi
 
 if [ $DO_CLEANUP = 1 ]; then

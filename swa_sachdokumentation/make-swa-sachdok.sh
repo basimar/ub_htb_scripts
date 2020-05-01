@@ -110,9 +110,9 @@ zip -q swasd.zip * -x \*ZZ_*.txt
 zip -q swasd.zip details/* -x \*ZZ_*.txt
 cd ..
 ssh webmaster@ub-webqm.ub.unibas.ch 'cd /export/www/htdocs/ibb/api/swasd && cp swasd.zip swasd.zip.backup'
-ssh webmaster@www.ub.unibas.ch 'cd /export/www/htdocs/ibb/api/swasd && cp swasd.zip swasd.zip.backup'
+ssh webmaster@ub2.unibas.ch 'cd /export/www/htdocs/ibb/api/swasd && cp swasd.zip swasd.zip.backup'
 scp -q output/swasd.zip webmaster@ub-webqm.ub.unibas.ch:/export/www/htdocs/ibb/api/swasd
-scp -q output/swasd.zip webmaster@www.ub.unibas.ch:/export/www/htdocs/ibb/api/swasd
+scp -q output/swasd.zip webmaster@ub2.unibas.ch:/export/www/htdocs/ibb/api/swasd
 
 if [ $DO_INSTALL_TEST == 1 ]; then
     echo '* installiere Seiten auf Webserver (Test)'
@@ -124,7 +124,7 @@ fi
 
 if [ $DO_INSTALL_PROD == 1 ]; then
     echo '* installiere Seiten auf Webserver (Produktion)'
-    ssh webmaster@www 'cd /export/www/htdocs/ibb/api/swasd && rm -f details/did* && unzip -oqq swasd.zip'
+    ssh webmaster@ub-webvm 'cd /export/www/htdocs/ibb/api/swasd && rm -f details/did* && unzip -oqq swasd.zip'
     ssh webmaster@ub-webvm 'find /export/www/htdocs/ibb/api/swasd -type f -exec chmod 644 {} \;'
     ssh webmaster@ub-webvm 'find /export/www/htdocs/ibb/api/swasd -type d -exec chmod 755 {} \;'
     scp -q tmp/suchmaschine.txt webmaster@www:/export/www/cgi-bin/index/data/index_swasd

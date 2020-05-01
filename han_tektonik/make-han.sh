@@ -67,27 +67,27 @@ backup_file tree_items.js
 rm -f tree_items.js
 
 say "* Lade SWA-Hierarchie"
-scp -q webmaster@www:/export/www/htdocs/ibb/api/swapa/tree_items.js tmp/tktswapa
+scp -q webmaster@ub2.unibas.ch:/export/www/htdocs/ibb/api/swapa/tree_items.js tmp/tktswapa
 
 say "* Lade UB-Hierarchie"
-scp -q webmaster@www:/export/www/htdocs/ibb/api/tektonik/tree_items.js tmp/tktub
+scp -q webmaster@ub2.unibas.ch:/export/www/htdocs/ibb/api/tektonik/tree_items.js tmp/tktub
 
 #say "* Lade Bernoulli-Hierarchie"
-#scp -q webmaster@www:/export/www/htdocs/ibb/api/bernoulli/tree_items.js tmp/tktbernoulli
+#scp -q webmaster@ub2.unibas.ch:/export/www/htdocs/ibb/api/bernoulli/tree_items.js tmp/tktbernoulli
 
 say "* Lade ZHB Luzern-Hierarchie"
-scp -q webmaster@www:/export/www/htdocs/ibb/api/luzern/tree_items.js tmp/tktluzern
+scp -q webmaster@ub2.unibas.ch:/export/www/htdocs/ibb/api/luzern/tree_items.js tmp/tktluzern
 
 say "* Lade Gosteli-Hierarchien"
-scp -q webmaster@www:/export/www/htdocs/ibb/api/gosteli/tree_items_b.js tmp/tktgostelib
-scp -q webmaster@www:/export/www/htdocs/ibb/api/gosteli/tree_items_p.js tmp/tktgostelip
-scp -q webmaster@www:/export/www/htdocs/ibb/api/gosteli/tree_items_v.js tmp/tktgosteliv
+scp -q webmaster@ub2.unibas.ch:/export/www/htdocs/ibb/api/gosteli/tree_items_b.js tmp/tktgostelib
+scp -q webmaster@ub2.unibas.ch:/export/www/htdocs/ibb/api/gosteli/tree_items_p.js tmp/tktgostelip
+scp -q webmaster@ub2.unibas.ch:/export/www/htdocs/ibb/api/gosteli/tree_items_v.js tmp/tktgosteliv
 
 say "* Lade Rorschach-Hierarchie"
-scp -q webmaster@www:/export/www/htdocs/ibb/api/rorschach/tree_items.js tmp/tktrorschach
+scp -q webmaster@ub2.unibas.ch:/export/www/htdocs/ibb/api/rorschach/tree_items.js tmp/tktrorschach
 
 say "* Lade Trogen-Hierarchie"
-scp -q webmaster@www:/export/www/htdocs/ibb/api/trogen/tree_items.js tmp/tkttrogen
+scp -q webmaster@ub2.unibas.ch:/export/www/htdocs/ibb/api/trogen/tree_items.js tmp/tkttrogen
 
 say "* Bearbeite Hierarchien"
 #letzte Zeile mit Closing-Tag entfernen
@@ -127,10 +127,10 @@ fi
 
 if [ "$DO_UPLOAD_FILES" = "1" ]; then
     say "* uploading files"
-    scp -q tree_items.js webmaster@www:/export/www/htdocs/ibb/api/hantektonik/./
+    scp -q tree_items.js webmaster@ub2.unibas.ch:/export/www/htdocs/ibb/api/hantektonik/./
     echo ""
     echo "Testseiten (UB Website):"
-    echo "  http://www.ub.unibas.ch/ibb/api/hantektonik/archiv-content.html"
+    echo "  http://ub2.unibas.ch.ub.unibas.ch/ibb/api/hantektonik/archiv-content.html"
     echo ""
 fi
 

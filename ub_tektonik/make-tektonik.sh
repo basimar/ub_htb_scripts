@@ -145,10 +145,10 @@ fi
 
 if [ "$DO_UPLOAD_FILES" = "1" ]; then
     say "* uploading files"
-    scp -q tree_items.js webmaster@www:/export/www/htdocs/ibb/api/tektonik/./
+    scp -q tree_items.js webmaster@ub2.unibas.ch:/export/www/htdocs/ibb/api/tektonik/./
     echo ""
     echo "Testseiten (UB Website):"
-    echo "  http://www.ub.unibas.ch/ibb/api/tektonik/archiv-content.html"
+    echo "  http://ub2.unibas.ch/ibb/api/tektonik/archiv-content.html"
     echo ""
 fi
 

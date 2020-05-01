@@ -129,10 +129,10 @@ fi
 
 if [ "$DO_UPLOAD_FILES" = "1" ]; then
     say "* uploading files"
-    scp tree_items.js webmaster@www:/export/www/htdocs/ibb/api/rebus/tree_items.js
+    scp tree_items.js webmaster@ub2.unibas.ch:/export/www/htdocs/ibb/api/rebus/tree_items.js
     echo ""
     echo "Testseiten (UB Website):"
-    echo ' http://www.ub.unibas.ch/ibb/api/rebus/ ' 
+    echo ' http://ub2.unibas.ch/ibb/api/rebus/ ' 
     echo ""
 fi
 

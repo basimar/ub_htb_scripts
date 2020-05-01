@@ -107,10 +107,10 @@ saxon9 -s:tmp/swapa-marc.xml -xsl:swapa-suchmaschine.xsl > tmp/index_swapa
 if [ $DO_INSTALL = 1 ]; then
     echo '* installiere Treemenu auf Webserver'
     scp -q tmp/tree_items.js webmaster@ub-webqm:/export/www/htdocs/ibb/api/swapa/./
-    scp -q tmp/tree_items.js webmaster@www:/export/www/htdocs/ibb/api/swapa/./
+    scp -q tmp/tree_items.js webmaster@ub2.unibas.ch:/export/www/htdocs/ibb/api/swapa/./
     echo '* installiere Wortindex auf Webserver'
     scp -q tmp/index_swapa webmaster@ub-webqm:/export/www/cgi-bin/index/data/./
-    scp -q tmp/index_swapa webmaster@www:/export/www/cgi-bin/index/data/./
+    scp -q tmp/index_swapa webmaster@ub2.unibas.ch:/export/www/cgi-bin/index/data/./
 fi
 
 if [ $DO_CLEANUP = 1 ]; then

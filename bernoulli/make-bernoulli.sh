@@ -39,5 +39,5 @@ if [ $DO_CLEANUP = 1 ]; then
 fi
 
 echo '* zum Publizieren:'
-echo '  scp tree_items.js webmaster@www:/export/www/htdocs/ibb/api/bernoulli/tree_items.js'
+echo '  scp tree_items.js webmaster@ub2.unibas.ch:/export/www/htdocs/ibb/api/bernoulli/tree_items.js'
 echo ''

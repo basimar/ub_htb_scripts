@@ -30,12 +30,12 @@ fi
 
 read -p '* auf www.ub.unibas.ch installieren? [j/n] '
 if [ "$REPLY" == "j" ]; then
-    scp tree_items.js webmaster@www.ub.unibas.ch:$targetdir
+    scp tree_items.js webmaster@ub2.unibas.ch:$targetdir
 fi
 
 echo '* fertig.'
 echo '* Resultat siehe:'
 echo http://ub-webqm.ub.unibas.ch/ub-hauptbibliothek/recherche/kataloge/spezialkataloge/basler-bibliographie/
-echo http://www.ub.unibas.ch/ub-hauptbibliothek/recherche/kataloge/spezialkataloge/basler-bibliographie/
+echo http://ub2.unibas.ch/ub-hauptbibliothek/recherche/kataloge/spezialkataloge/basler-bibliographie/
 
 
